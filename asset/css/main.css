@@ -1,0 +1,11 @@
+  body {
+    margin: 0;
+  }
+  .image-wrapper {
+    width: 100%; /* tam genişlik */
+    text-align: center; /* içeriği yatay ortala */
+  }
+  .image-wrapper img {
+    max-width: 80%; /* istersen boyutu sınırla */
+    height: auto;
+  }
