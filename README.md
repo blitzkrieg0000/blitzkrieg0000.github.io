@@ -14,3 +14,6 @@
 - [Design Patterns](https://miro.com/app/board/uXjVJLuBSDE=/?share_link_id=565658688655)
 
 - [Linux Networking](https://miro.com/app/board/uXjVJLsKtaU=/?share_link_id=227682961530)
+
+# Python Pytorch Documents
+<iframe src="https://tasty-brick-eb9.notion.site/ebd/9c900c2697554ff58a2dc03110d7ca9a" width="100%" height="600" frameborder="0" allowfullscreen />
