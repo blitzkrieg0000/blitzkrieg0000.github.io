@@ -1,5 +1,8 @@
 # MY DOCUMENTS
 
+## CV
+[v1.04](https://blitzkrieg0000.github.io/)
+
 ## LINK MAPS
 
 - [Transformers Medium](https://medium.com/@blitzkrieg0000/transformers-b46b8b1475dc)
