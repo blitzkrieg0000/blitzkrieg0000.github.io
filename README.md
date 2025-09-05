@@ -4,6 +4,7 @@
 [v1.04](https://blitzkrieg0000.github.io/)
 
 ## LINK MAPS
+- [Python-Pytorch TutoriaL](https://tasty-brick-eb9.notion.site/indekiler-9c900c2697554ff58a2dc03110d7ca9a?source=copy_link)
 
 - [Transformers Medium](https://medium.com/@blitzkrieg0000/transformers-b46b8b1475dc)
 
@@ -14,6 +15,3 @@
 - [Design Patterns](https://miro.com/app/board/uXjVJLuBSDE=/?share_link_id=565658688655)
 
 - [Linux Networking](https://miro.com/app/board/uXjVJLsKtaU=/?share_link_id=227682961530)
-
-# Python Pytorch Documents
-<iframe src="https://tasty-brick-eb9.notion.site/ebd/9c900c2697554ff58a2dc03110d7ca9a" width="100%" height="600" frameborder="0" allowfullscreen />
