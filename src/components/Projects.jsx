@@ -65,7 +65,7 @@ export default function Projects() {
 
     return (
         <section className="projects">
-            <h2>Experience</h2>
+            <h2>Works</h2>
             <div className="card-container">
                 {projects.map((p, i) => (
                     <Card key={i} {...p} />
