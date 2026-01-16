@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "name": "OpenCV",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 2,
+        "name": "GRPC-Protobuf",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 3,
+        "name": "SocketIO",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 4,
+        "name": "FastAPI",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 5,
+        "name": "Numpy",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 6,
+        "name": "Pandas",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 7,
+        "name": "Seaborn",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 8,
+        "name": "Transformers",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 9,
+        "name": "OnnxRuntime",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 10,
+        "name": "Mediapipe",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 11,
+        "name": "Ray",
+        "category": "libs",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 12,
+        "name": "Pytorch",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 13,
+        "name": "Tensorflow",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 14,
+        "name": "AspNet Core",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 15,
+        "name": "NVIDIA Triton",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 16,
+        "name": "Raster Vision",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 17,
+        "name": "Docker",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 18,
+        "name": "Kubernetes",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 19,
+        "name": "ArgoCD",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 20,
+        "name": "Github Workflows",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 21,
+        "name": "Confluent Kafka",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 22,
+        "name": "Redis",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 23,
+        "name": "Apache Spark",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 24,
+        "name": "Apache Cassandra",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 25,
+        "name": "Milvus",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 26,
+        "name": "Rook-Ceph",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 27,
+        "name": "PostgreSQL",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    },
+    {
+        "id": 28,
+        "name": "Prometheus-Grafana",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null
+    }
+]

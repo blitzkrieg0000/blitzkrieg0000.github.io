@@ -1,0 +1,30 @@
+[
+    {
+        "id": 2,
+        "title": "Why Python is the King of AI",
+        "slug": "python-king-of-ai",
+        "summary": "Exploring the ecosystem that makes Python the dominant language in Artificial Intelligence.",
+        "content": "From TensorFlow to PyTorch, Python's libraries are unmatched...",
+        "tags": [
+            "Python",
+            "Opinion",
+            "Tech"
+        ],
+        "is_published": true,
+        "published_at": "2026-01-11T20:26:17.840Z"
+    },
+    {
+        "id": 1,
+        "title": "Getting Started with Large Language Models",
+        "slug": "getting-started-llms",
+        "summary": "An introduction to LLMs and how to fine-tune them for your specific needs.",
+        "content": "Large Language Models (LLMs) have revolutionized NLP. In this post, we explore...",
+        "tags": [
+            "AI",
+            "LLM",
+            "Tutorial"
+        ],
+        "is_published": true,
+        "published_at": "2026-01-11T20:26:17.834Z"
+    }
+]

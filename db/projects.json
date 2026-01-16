@@ -1,0 +1,149 @@
+[
+    {
+        "id": 1,
+        "title": "My Tutorials",
+        "slug": "my-tutorials",
+        "summary": "Python & Pytorch Tutorials on Notion",
+        "content": "Python & Pytorch Tutorials on Notion",
+        "tags": [
+            "Python",
+            "PyTorch",
+            "AI"
+        ],
+        "github_url": "https://tasty-brick-eb9.notion.site/indekiler-9c900c2697554ff58a2dc03110d7ca9a?source=copy_link",
+        "demo_url": null,
+        "image_url": "asset/image/pytorch-logo.png",
+        "video_url": null,
+        "is_featured": true,
+        "created_at": "2026-01-11T20:26:17.807Z"
+    },
+    {
+        "id": 2,
+        "title": "Transformer Architecture",
+        "slug": "transformer-architecture",
+        "summary": "An article detailing the logic behind the operation of transformers.",
+        "content": "An article detailing the logic behind the operation of transformers.",
+        "tags": [
+            "Transformers",
+            "Python",
+            "Pytorch",
+            "LLM"
+        ],
+        "github_url": "https://medium.com/@blitzkrieg0000/transformers-b46b8b1475dc",
+        "demo_url": null,
+        "image_url": "asset/image/transformers.png",
+        "video_url": null,
+        "is_featured": true,
+        "created_at": "2026-01-11T20:26:17.821Z"
+    },
+    {
+        "id": 3,
+        "title": "Object Detection",
+        "slug": "object-detection",
+        "summary": "It explains the Object Detection architecture that demonstrates how YOLO works.",
+        "content": "It explains the Object Detection architecture that demonstrates how YOLO works.",
+        "tags": [
+            "Python",
+            "NLP",
+            "Machine Learning"
+        ],
+        "github_url": "https://miro.com/app/board/uXjVJLsUa0A=/?share_link_id=848945363325",
+        "demo_url": null,
+        "image_url": "asset/image/object-detection.png",
+        "video_url": null,
+        "is_featured": true,
+        "created_at": "2026-01-11T20:26:17.828Z"
+    },
+        {
+        "id": 4,
+        "title": "Design Patterns",
+        "slug": "design-patterns",
+        "summary": "A cheatsheet for design patterns based on Refactoring Guru.",
+        "content": "A cheatsheet for design patterns based on Refactoring Guru.",
+        "tags": [
+            "Design Patterns",
+            "Python",
+            "Programming"
+        ],
+        "github_url": "https://miro.com/app/board/uXjVJLuBSDE=/",
+        "demo_url": null,
+        "image_url": "asset/image/design-patterns.png",
+        "video_url": null,
+        "is_featured": false,
+        "created_at": "2026-01-11T20:26:17.828Z"
+    },
+        {
+        "id": 5,
+        "title": "Geospatial Data Workflow",
+        "slug": "geospatial-data-workflow",
+        "summary": "Data collection project using LULC analysis using Google GeoSpatial libraries and APIs",
+        "content": "Data collection project using LULC analysis using Google GeoSpatial libraries and APIs",
+        "tags": [
+            "GeoSpatial",
+            "OpenCV",
+            "Rastervision",
+            "GIS",
+            "Google Earth Engine",
+            "Segmentation"
+        ],
+        "github_url": "https://huggingface.co/spaces/blitzkrieg0000/geospatial",
+        "demo_url": null,
+        "image_url": "asset/image/lulc.png",
+        "video_url": null,
+        "is_featured": false,
+        "created_at": "2026-01-11T20:26:17.828Z"
+    },
+        {
+        "id": 6,
+        "title": "Detection & Segmentation",
+        "slug": "detection-segmentation",
+        "summary": "High-Voltage Power Line and Pole Detection & Segmentation Application",
+        "content": "High-Voltage Power Line and Pole Detection & Segmentation Application",
+        "tags": [
+            "Segmentation",
+            "Electric Poles",
+            "Fault Detection"
+        ],
+        "github_url": "https://huggingface.co/spaces/blitzkrieg0000/CablePoleSegmentation",
+        "demo_url": null,
+        "image_url": "asset/image/pole-detection.png",
+        "video_url": null,
+        "is_featured": false,
+        "created_at": "2026-01-11T20:26:17.828Z"
+    },
+        {
+        "id": 7,
+        "title": "Fault Detection",
+        "slug": "design-patterns",
+        "summary": "This project involves the detection of faults in high-voltage line insulators using advanced image processing and AI techniques to ensure reliable power transmission and prevent outages.",
+        "content": "This project involves the detection of faults in high-voltage line insulators using advanced image processing and AI techniques to ensure reliable power transmission and prevent outages.",
+        "tags": [
+            "Fault Detection",
+            "Electric Insulators"
+        ],
+        "github_url": "https://huggingface.co/spaces/blitzkrieg0000/IsolatorFaultDetection",
+        "demo_url": null,
+        "image_url": "asset/image/insulator.png",
+        "video_url": null,
+        "is_featured": false,
+        "created_at": "2026-01-11T20:26:17.828Z"
+    },
+        {
+        "id": 8,
+        "title": "Bird Nest Detection",
+        "slug": "bird-nest-detection",
+        "summary": "This project focuses on detecting bird nests on high-voltage power lines using computer vision and deep learning techniques.",
+        "content": "This project focuses on detecting bird nests on high-voltage power lines using computer vision and deep learning techniques.",
+        "tags": [
+            "Design Patterns",
+            "Python",
+            "Programming"
+        ],
+        "github_url": "https://huggingface.co/spaces/blitzkrieg0000/BirdNestDetection",
+        "demo_url": null,
+        "image_url": "asset/image/bird-nest.png",
+        "video_url": null,
+        "is_featured": false,
+        "created_at": "2026-01-11T20:26:17.828Z"
+    }
+]
