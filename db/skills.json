@@ -4,195 +4,271 @@
         "name": "OpenCV",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://opencv.org/"
     },
     {
         "id": 2,
         "name": "GRPC-Protobuf",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://grpc.io/"
     },
     {
         "id": 3,
         "name": "SocketIO",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://socket.io/"
     },
     {
         "id": 4,
-        "name": "FastAPI",
+        "name": "Pytorch",
         "category": "frameworks",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://pytorch.org/"
     },
     {
         "id": 5,
         "name": "Numpy",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://numpy.org/"
     },
     {
         "id": 6,
         "name": "Pandas",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://pandas.pydata.org/"
     },
     {
         "id": 7,
         "name": "Seaborn",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://seaborn.pydata.org/"
     },
     {
         "id": 8,
         "name": "Transformers",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://huggingface.co/transformers"
     },
     {
         "id": 9,
         "name": "OnnxRuntime",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://onnxruntime.ai/"
     },
     {
         "id": 10,
         "name": "Mediapipe",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://mediapipe.dev/"
     },
     {
         "id": 11,
         "name": "Ray",
         "category": "libs",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://www.ray.io/"
     },
     {
         "id": 12,
-        "name": "Pytorch",
+        "name": "FastAPI",
         "category": "frameworks",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://fastapi.tiangolo.com/"
     },
     {
         "id": 13,
         "name": "Tensorflow",
         "category": "frameworks",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://www.tensorflow.org/"
     },
     {
         "id": 14,
         "name": "AspNet Core",
         "category": "frameworks",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://dotnet.microsoft.com/apps/aspnet"
     },
     {
         "id": 15,
         "name": "NVIDIA Triton",
         "category": "frameworks",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://developer.nvidia.com/nvidia-triton-inference-server"
     },
     {
         "id": 16,
         "name": "Raster Vision",
         "category": "frameworks",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://rastervision.io/"
     },
     {
         "id": 17,
         "name": "Docker",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://www.docker.com/"
     },
     {
         "id": 18,
         "name": "Kubernetes",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://kubernetes.io/"
     },
     {
         "id": 19,
         "name": "ArgoCD",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://argo-cd.readthedocs.io/"
     },
     {
         "id": 20,
         "name": "Github Workflows",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://docs.github.com/actions"
     },
     {
         "id": 21,
         "name": "Confluent Kafka",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://www.confluent.io/"
     },
     {
         "id": 22,
         "name": "Redis",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://redis.io/"
     },
     {
         "id": 23,
         "name": "Apache Spark",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://spark.apache.org/"
     },
     {
         "id": 24,
         "name": "Apache Cassandra",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://cassandra.apache.org/"
     },
     {
         "id": 25,
         "name": "Milvus",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://milvus.io/"
     },
     {
         "id": 26,
         "name": "Rook-Ceph",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://rook.io/"
     },
     {
         "id": 27,
         "name": "PostgreSQL",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://www.postgresql.org/"
     },
     {
         "id": 28,
-        "name": "Prometheus-Grafana",
+        "name": "Prometheus",
         "category": "tools",
         "proficiency": 100,
-        "icon": null
+        "icon": null,
+        "link": "https://prometheus.io/"
+    },
+    {
+        "id": 29,
+        "name": "Miro",
+        "category": "Planning Tools",
+        "proficiency": 100,
+        "icon": null,
+        "link": "https://miro.com/"
+    },
+    {
+        "id": 30,
+        "name": "Notion",
+        "category": "Planning Tools",
+        "proficiency": 100,
+        "icon": null,
+        "link": "https://www.notion.so/"
+    },
+    {
+        "id": 31,
+        "name": "Angular",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null,
+        "link": "https://angular.io/"
+    },
+    {
+        "id": 32,
+        "name": "Raster Vision",
+        "category": "frameworks",
+        "proficiency": 100,
+        "icon": null,
+        "link": "https://rastervision.io/"
+    },
+    {
+        "id": 33,
+        "name": "OpenAI Triton",
+        "category": "frameworks",
+        "proficiency": 30,
+        "icon": null,
+        "link": "https://openai.com/index/triton/"
+    },
+    {
+        "id": 34,
+        "name": "Grafana",
+        "category": "tools",
+        "proficiency": 100,
+        "icon": null,
+        "link": "https://grafana.com/"
     }
 ]
