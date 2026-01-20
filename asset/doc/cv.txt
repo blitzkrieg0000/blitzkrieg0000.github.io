@@ -1,0 +1,170 @@
+Burakhan Şamlı
+AI Engineer | Computer Vision, NLP & MLOps
+AI Specialist with a background in Forensic Informatics Engineering, specializing in computer vision, NLP, and remote sensing-based AI systems. Experienced in developing end-to-end, scalable AI solutions including biometric identification, object detection and tracking, multi-camera video analytics, and satellite image analysis for real-world applications. Strong hands-on experience with Transformer-based architectures across vision and language domains, as well as deploying AI models in production using containerized and microservice-based architectures with Docker and Kubernetes.
+
+mail:burakhansamli@proton.me
+tel:0.0.0.0
+konum: Ankara
+linkedin: Burakhan Şamlı
+github: github.com/blitzkrieg0000
+web: https://blitzkrieg0000.github.io/
+
+
+
+Work Experience
+=> Hexaops A.Ş.
+Teknokent, Kahramanmaraş
+NLP & Transformer Architectures
+2025
+Participated in NLP projects, working on system design and planning with technologies involving translation, chatbots, messaging, and distributed systems; additionally contributed to the training and fine-tuning of large language models, as well as voice cloning, TTS, and STT projects.
+
+DGH Arge Yazılım
+ASBÜ Teknokent, Ankara
+Remote Sensing & GIS
+2024-2025
+Experience in satellite image analysis and GIS-based workflows using multispectral and hyperspectral data.
+Application of remote sensing techniques to agriculture-oriented projects, including Land Use and Land Cover (LULC) analysis.
+Hands-on experience with platforms and tools such as Sentinel, Landsat, Google Earth Engine, ArcGIS Pro, and EU Copernicus datasets.
+Applied knowledge of satellite image preprocessing, analysis, and interpretation for real-world GIS applications.
+
+NLP & Transformer Architectures
+2023-2024
+Computer Vision Projects
+Practical experience with Transformer-based architectures across both computer vision and natural language processing domains.
+Exposure to text-based analysis, feature representation, and modern deep learning workflows aligned with current advances in Transformer models.
+
+Specialized Research & Advanced Systems
+2023 - 2024
+Web application development using ASP.NET Core, with a focus on backend-oriented system design.
+Remote sensing research for environmental and agricultural use cases.
+Real-time sports performance analysis (motion & posture).
+AI training on Huawei Atlas 800 (NPU acceleration).
+
+DGH Arge Yazılım
+İnönü Teknokent, Malatya
+AI & Computer Vision
+2023
+Experience in developing AI-based image processing and computer vision applications, including OpenCV-based systems, OCR, image segmentation, object detection and tracking, and dataset preparation and labeling.
+Hands-on work with GAN and Transformer-based image enhancement techniques, including super-resolution and representation learning approaches.
+Development and deployment of real-time AI systems, such as quality control solutions, face recognition and identification platforms, and infrastructure inspection projects, including high-voltage transmission line fault detection.
+Deep learning model development primarily using PyTorch, with experience in inference and serving frameworks such as Triton Inference Server and TorchServe.
+Software Engineering & Deployment
+2022 - 2023
+AI backend development with Python FastAPI and NVIDIA Triton
+Design and implementation of microservice-based architectures for scalable software systems.
+Experience with Docker, Kubernetes, and Proxmox.
+CI/CD pipelines using GitHub Actions, GHCR, ArgoCD, and Ansible.
+Real-time data processing with Kafka, Redis, and RTMP.
+Monitoring with Prometheus and Grafana.
+Forensic Informatics Engineering Intern - |
+2021-2022
+DGH Arge Yazılım
+İnönü Teknokent, Malatya
+Participation in AI-based software development and real-time web integration projects.
+Forensic Informatics Engineering Intern - ||
+2020
+Telehouse İstanbul - Teknotel
+Kozyatağı, Kadıköy/İstanbul
+Web application development and network-IT management were carried out.
+
+Technical Skills:
+Programming & Core
+Python
+C#
+Linux
+Git
+Sockets
+Machine Learning / Deep Learning:
+PyTorch
+TensorFlow
+Transformers
+Scikit-Learn
+Onnx-Runtime
+DeepSpeed
+FairScale
+Computer Vision & Imaging:
+OpenCV
+Mediapipe
+Rastervision
+GEE
+NLP & LLM Ecosystem:
+LangChain
+Unsloth
+LLMA
+DevOps / MLOps:
+Docker
+Kubernetes
+Terraform
+GitHub Workflows
+ArgoCD
+Ansible
+Prometheus
+Grafana
+Distributed Systems:
+Confluent Kafka
+gRPC
+Protobuf
+Rook-Ceph
+Apache Spark
+Ray
+Web Frameworks & APIs:
+ASP.NET Core
+FastAPI
+Flask
+Angular
+Data & Databases:
+Pandas
+Numpy
+Cassandra
+PostgreSQL
+Redis
+Milvus
+Qdrant
+Firebase
+Copernicus
+Visualization:
+Matplotlib
+Seaborn
+Plotly
+GIS & Remote Sensing Tools:
+ESRI ArcGIS Pro
+QGIS
+
+***
+Language
+English - Professional Working Proficiency
+Turkish - Native
+
+***
+Education
+Fırat University
+Bachelor of Science in Forensic Informatics Engineering
+GNO: 3.73 / 4
+2017 - 2022
+
+***
+Projects
+LULC Analysis & Remote Sensing
+Performed land use and land cover (LULC) segmentation using multispectral Sentinel-2 and Landsat satellite imagery.
+Generated composite datasets and conducted geospatial analysis to calculate area distribution of land cover classes using ArcGIS Pro and QGIS.
+Built data collection and processing pipelines for LULC analysis using Google Earth Engine APIs and Copernicus datasets.
+Retrieved and processed map tiles via web-based geospatial protocols to support scalable spatial analysis workflows.
+Produced digital elevation models (DEM) from radar data using InSAR-based techniques for terrain analysis.
+Fault Detection Project
+Developed a computer vision-based system for detection and segmentation of high-voltage power lines and poles using deep learning models.
+Designed and implemented fault detection pipelines for high-voltage line insulators, improving infrastructure monitoring and outage prevention.
+Built bird nest detection models on high-voltage transmission lines using object detection techniques to support proactive maintenance.
+Multi-Camera AI-Based Security & Surveillance System
+Developed an integrated computer vision system combining face detection, recognition, tracking, and person re-identification for identity-based surveillance applications.
+Integrated additional AI modules including mask detection (COVID-19), emotion recognition, and weapon detection to enhance security monitoring capabilities.
+Designed the system to operate across multiple camera streams with real-time video processing and event-based analytics.
+Architected a microservice-based backend and deployed AI services using Docker and Kubernetes for scalable and fault-tolerant operation.
+Built backend APIs to manage video streams, inference services, and system coordination across distributed components.
+Real-Time Tennis Performance Analysis System
+Developed a real-time computer vision system for tennis ball detection, tracking, and bounce point estimation to support ITN (International Tennis Number) performance evaluation.
+Implemented player detection and tracking pipelines to analyze shot events and score player actions during gameplay.
+Designed multi-camera alignment and synchronization mechanisms to fuse ball trajectories across multiple viewpoints.
+Applied human pose estimation techniques to analyze player movements and assess performance progression based on body posture and motion patterns.
+Built low-latency processing workflows to enable real-time feedback in sports performance analysis systems.
+Blockchain Data Protection
+Designed a blockchain-based system to ensure immutability and consistency of data processing pipelines.
