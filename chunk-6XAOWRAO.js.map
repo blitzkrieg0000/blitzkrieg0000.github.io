@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/environments/environment.development.ts"],
+  "sourcesContent": ["export const environment = {\n    production: false,\n    telephone: \"0.0.0.0\",\n};\n"],
+  "mappings": ";;;AAAO,IAAM,cAAc;EACvB,YAAY;EACZ,WAAW;;",
+  "names": []
+}
