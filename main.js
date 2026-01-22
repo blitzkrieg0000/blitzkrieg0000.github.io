@@ -62004,6 +62004,9 @@ var ResumeComponent = class _ResumeComponent {
 .pointer-events-none[_ngcontent-%COMP%] {
   pointer-events: none;
 }
+.invisible[_ngcontent-%COMP%] {
+  visibility: hidden;
+}
 .visible[_ngcontent-%COMP%] {
   visibility: visible;
 }
@@ -62072,6 +62075,9 @@ var ResumeComponent = class _ResumeComponent {
 }
 .-left-\\__ph-0__[_ngcontent-%COMP%] {
   left: calc(25px * -1);
+}
+.left-0[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 0);
 }
 .left-2[_ngcontent-%COMP%] {
   left: calc(var(--spacing) * 2);
@@ -62352,6 +62358,9 @@ var ResumeComponent = class _ResumeComponent {
 .w-10[_ngcontent-%COMP%] {
   width: calc(var(--spacing) * 10);
 }
+.w-56[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\__ph-0__[_ngcontent-%COMP%] {
   width: 500px;
 }
@@ -62413,6 +62422,9 @@ var ResumeComponent = class _ResumeComponent {
 .scale-x-0[_ngcontent-%COMP%] {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180[_ngcontent-%COMP%] {
+  rotate: 180deg;
 }
 .transform[_ngcontent-%COMP%] {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -63432,6 +63444,34 @@ var ResumeComponent = class _ResumeComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition[_ngcontent-%COMP%] {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all[_ngcontent-%COMP%] {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -63466,6 +63506,10 @@ var ResumeComponent = class _ResumeComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200[_ngcontent-%COMP%] {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300[_ngcontent-%COMP%] {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -63493,6 +63537,11 @@ var ResumeComponent = class _ResumeComponent {
 .outline-none[_ngcontent-%COMP%] {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2[_ngcontent-%COMP%]:is(:where(.group):hover *) {
@@ -63525,6 +63574,11 @@ var ResumeComponent = class _ResumeComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12[_ngcontent-%COMP%]:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -63663,6 +63717,11 @@ var ResumeComponent = class _ResumeComponent {
     .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100[_ngcontent-%COMP%]:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -65169,6 +65228,9 @@ var ResumeComponent = class _ResumeComponent {
 .pointer-events-none {
   pointer-events: none;
 }
+.invisible {
+  visibility: hidden;
+}
 .visible {
   visibility: visible;
 }
@@ -65237,6 +65299,9 @@ var ResumeComponent = class _ResumeComponent {
 }
 .-left-\\[25px\\] {
   left: calc(25px * -1);
+}
+.left-0 {
+  left: calc(var(--spacing) * 0);
 }
 .left-2 {
   left: calc(var(--spacing) * 2);
@@ -65517,6 +65582,9 @@ var ResumeComponent = class _ResumeComponent {
 .w-10 {
   width: calc(var(--spacing) * 10);
 }
+.w-56 {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\[500px\\] {
   width: 500px;
 }
@@ -65578,6 +65646,9 @@ var ResumeComponent = class _ResumeComponent {
 .scale-x-0 {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180 {
+  rotate: 180deg;
 }
 .transform {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -66597,6 +66668,34 @@ var ResumeComponent = class _ResumeComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -66631,6 +66730,10 @@ var ResumeComponent = class _ResumeComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200 {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300 {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -66658,6 +66761,11 @@ var ResumeComponent = class _ResumeComponent {
 .outline-none {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2:is(:where(.group):hover *) {
@@ -66690,6 +66798,11 @@ var ResumeComponent = class _ResumeComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -66828,6 +66941,11 @@ var ResumeComponent = class _ResumeComponent {
     .hover\\:bg-secondary\\/80:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -68986,6 +69104,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .pointer-events-none[_ngcontent-%COMP%] {
   pointer-events: none;
 }
+.invisible[_ngcontent-%COMP%] {
+  visibility: hidden;
+}
 .visible[_ngcontent-%COMP%] {
   visibility: visible;
 }
@@ -69054,6 +69175,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 }
 .-left-\\__ph-0__[_ngcontent-%COMP%] {
   left: calc(25px * -1);
+}
+.left-0[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 0);
 }
 .left-2[_ngcontent-%COMP%] {
   left: calc(var(--spacing) * 2);
@@ -69334,6 +69458,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .w-10[_ngcontent-%COMP%] {
   width: calc(var(--spacing) * 10);
 }
+.w-56[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\__ph-0__[_ngcontent-%COMP%] {
   width: 500px;
 }
@@ -69395,6 +69522,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .scale-x-0[_ngcontent-%COMP%] {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180[_ngcontent-%COMP%] {
+  rotate: 180deg;
 }
 .transform[_ngcontent-%COMP%] {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -70414,6 +70544,34 @@ var ResumeOneComponent = class _ResumeOneComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition[_ngcontent-%COMP%] {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all[_ngcontent-%COMP%] {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -70448,6 +70606,10 @@ var ResumeOneComponent = class _ResumeOneComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200[_ngcontent-%COMP%] {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300[_ngcontent-%COMP%] {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -70475,6 +70637,11 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .outline-none[_ngcontent-%COMP%] {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2[_ngcontent-%COMP%]:is(:where(.group):hover *) {
@@ -70507,6 +70674,11 @@ var ResumeOneComponent = class _ResumeOneComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12[_ngcontent-%COMP%]:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -70645,6 +70817,11 @@ var ResumeOneComponent = class _ResumeOneComponent {
     .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100[_ngcontent-%COMP%]:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -72156,6 +72333,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .pointer-events-none {
   pointer-events: none;
 }
+.invisible {
+  visibility: hidden;
+}
 .visible {
   visibility: visible;
 }
@@ -72224,6 +72404,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 }
 .-left-\\[25px\\] {
   left: calc(25px * -1);
+}
+.left-0 {
+  left: calc(var(--spacing) * 0);
 }
 .left-2 {
   left: calc(var(--spacing) * 2);
@@ -72504,6 +72687,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .w-10 {
   width: calc(var(--spacing) * 10);
 }
+.w-56 {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\[500px\\] {
   width: 500px;
 }
@@ -72565,6 +72751,9 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .scale-x-0 {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180 {
+  rotate: 180deg;
 }
 .transform {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -73584,6 +73773,34 @@ var ResumeOneComponent = class _ResumeOneComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -73618,6 +73835,10 @@ var ResumeOneComponent = class _ResumeOneComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200 {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300 {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -73645,6 +73866,11 @@ var ResumeOneComponent = class _ResumeOneComponent {
 .outline-none {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2:is(:where(.group):hover *) {
@@ -73677,6 +73903,11 @@ var ResumeOneComponent = class _ResumeOneComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -73815,6 +74046,11 @@ var ResumeOneComponent = class _ResumeOneComponent {
     .hover\\:bg-secondary\\/80:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -75528,6 +75764,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .pointer-events-none[_ngcontent-%COMP%] {
   pointer-events: none;
 }
+.invisible[_ngcontent-%COMP%] {
+  visibility: hidden;
+}
 .visible[_ngcontent-%COMP%] {
   visibility: visible;
 }
@@ -75596,6 +75835,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 }
 .-left-\\__ph-0__[_ngcontent-%COMP%] {
   left: calc(25px * -1);
+}
+.left-0[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 0);
 }
 .left-2[_ngcontent-%COMP%] {
   left: calc(var(--spacing) * 2);
@@ -75876,6 +76118,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .w-10[_ngcontent-%COMP%] {
   width: calc(var(--spacing) * 10);
 }
+.w-56[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\__ph-0__[_ngcontent-%COMP%] {
   width: 500px;
 }
@@ -75937,6 +76182,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .scale-x-0[_ngcontent-%COMP%] {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180[_ngcontent-%COMP%] {
+  rotate: 180deg;
 }
 .transform[_ngcontent-%COMP%] {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -76956,6 +77204,34 @@ var ResumeTrComponent = class _ResumeTrComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition[_ngcontent-%COMP%] {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all[_ngcontent-%COMP%] {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -76990,6 +77266,10 @@ var ResumeTrComponent = class _ResumeTrComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200[_ngcontent-%COMP%] {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300[_ngcontent-%COMP%] {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -77017,6 +77297,11 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .outline-none[_ngcontent-%COMP%] {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2[_ngcontent-%COMP%]:is(:where(.group):hover *) {
@@ -77049,6 +77334,11 @@ var ResumeTrComponent = class _ResumeTrComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12[_ngcontent-%COMP%]:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -77187,6 +77477,11 @@ var ResumeTrComponent = class _ResumeTrComponent {
     .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100[_ngcontent-%COMP%]:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -78704,6 +78999,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .pointer-events-none {
   pointer-events: none;
 }
+.invisible {
+  visibility: hidden;
+}
 .visible {
   visibility: visible;
 }
@@ -78772,6 +79070,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 }
 .-left-\\[25px\\] {
   left: calc(25px * -1);
+}
+.left-0 {
+  left: calc(var(--spacing) * 0);
 }
 .left-2 {
   left: calc(var(--spacing) * 2);
@@ -79052,6 +79353,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .w-10 {
   width: calc(var(--spacing) * 10);
 }
+.w-56 {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\[500px\\] {
   width: 500px;
 }
@@ -79113,6 +79417,9 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .scale-x-0 {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180 {
+  rotate: 180deg;
 }
 .transform {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -80132,6 +80439,34 @@ var ResumeTrComponent = class _ResumeTrComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -80166,6 +80501,10 @@ var ResumeTrComponent = class _ResumeTrComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200 {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300 {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -80193,6 +80532,11 @@ var ResumeTrComponent = class _ResumeTrComponent {
 .outline-none {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2:is(:where(.group):hover *) {
@@ -80225,6 +80569,11 @@ var ResumeTrComponent = class _ResumeTrComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -80363,6 +80712,11 @@ var ResumeTrComponent = class _ResumeTrComponent {
     .hover\\:bg-secondary\\/80:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -82076,6 +82430,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .pointer-events-none[_ngcontent-%COMP%] {
   pointer-events: none;
 }
+.invisible[_ngcontent-%COMP%] {
+  visibility: hidden;
+}
 .visible[_ngcontent-%COMP%] {
   visibility: visible;
 }
@@ -82144,6 +82501,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 }
 .-left-\\__ph-0__[_ngcontent-%COMP%] {
   left: calc(25px * -1);
+}
+.left-0[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 0);
 }
 .left-2[_ngcontent-%COMP%] {
   left: calc(var(--spacing) * 2);
@@ -82424,6 +82784,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .w-10[_ngcontent-%COMP%] {
   width: calc(var(--spacing) * 10);
 }
+.w-56[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\__ph-0__[_ngcontent-%COMP%] {
   width: 500px;
 }
@@ -82485,6 +82848,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .scale-x-0[_ngcontent-%COMP%] {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180[_ngcontent-%COMP%] {
+  rotate: 180deg;
 }
 .transform[_ngcontent-%COMP%] {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -83504,6 +83870,34 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition[_ngcontent-%COMP%] {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all[_ngcontent-%COMP%] {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -83538,6 +83932,10 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200[_ngcontent-%COMP%] {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300[_ngcontent-%COMP%] {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -83565,6 +83963,11 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .outline-none[_ngcontent-%COMP%] {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2[_ngcontent-%COMP%]:is(:where(.group):hover *) {
@@ -83597,6 +84000,11 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12[_ngcontent-%COMP%]:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -83735,6 +84143,11 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
     .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100[_ngcontent-%COMP%]:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -85258,6 +85671,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .pointer-events-none {
   pointer-events: none;
 }
+.invisible {
+  visibility: hidden;
+}
 .visible {
   visibility: visible;
 }
@@ -85326,6 +85742,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 }
 .-left-\\[25px\\] {
   left: calc(25px * -1);
+}
+.left-0 {
+  left: calc(var(--spacing) * 0);
 }
 .left-2 {
   left: calc(var(--spacing) * 2);
@@ -85606,6 +86025,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .w-10 {
   width: calc(var(--spacing) * 10);
 }
+.w-56 {
+  width: calc(var(--spacing) * 56);
+}
 .w-\\[500px\\] {
   width: 500px;
 }
@@ -85667,6 +86089,9 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .scale-x-0 {
   --tw-scale-x: 0%;
   scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.rotate-180 {
+  rotate: 180deg;
 }
 .transform {
   transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
@@ -86686,6 +87111,34 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
   -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
   backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
 }
+.transition {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to,
+    opacity,
+    box-shadow,
+    transform,
+    translate,
+    scale,
+    rotate,
+    filter,
+    -webkit-backdrop-filter,
+    backdrop-filter,
+    display,
+    content-visibility,
+    overlay,
+    pointer-events;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
 .transition-all {
   transition-property: all;
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
@@ -86720,6 +87173,10 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
   transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
   transition-duration: var(--tw-duration, var(--default-transition-duration));
 }
+.duration-200 {
+  --tw-duration: 200ms;
+  transition-duration: 200ms;
+}
 .duration-300 {
   --tw-duration: 300ms;
   transition-duration: 300ms;
@@ -86747,6 +87204,11 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 .outline-none {
   --tw-outline-style: none;
   outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:visible:is(:where(.group):hover *) {
+    visibility: visible;
+  }
 }
 @media (hover: hover) {
   .group-hover\\:translate-x-2:is(:where(.group):hover *) {
@@ -86779,6 +87241,11 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
 @media (hover: hover) {
   .group-hover\\:-rotate-12:is(:where(.group):hover *) {
     rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:rotate-180:is(:where(.group):hover *) {
+    rotate: 180deg;
   }
 }
 @media (hover: hover) {
@@ -86917,6 +87384,11 @@ var ResumeOneTrComponent = class _ResumeOneTrComponent {
     .hover\\:bg-secondary\\/80:hover {
       background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
     }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-slate-100:hover {
+    background-color: var(--color-slate-100);
   }
 }
 @media (hover: hover) {
@@ -87802,9 +88274,9 @@ var appConfig = {
 // src/app/component/navbar.component/navbar.component.ts
 var _c09 = (a0, a1) => ({ "text-primary font-semibold": a0, "text-muted-foreground": a1 });
 var _c1 = (a0, a1) => ({ "text-primary": a0, "text-muted-foreground": a1 });
-function NavbarComponent_a_10_Template(rf, ctx) {
+function NavbarComponent_a_24_Template(rf, ctx) {
   if (rf & 1) {
-    \u0275\u0275elementStart(0, "a", 14);
+    \u0275\u0275elementStart(0, "a", 23);
     \u0275\u0275text(1);
     \u0275\u0275elementEnd();
   }
@@ -87816,30 +88288,78 @@ function NavbarComponent_a_10_Template(rf, ctx) {
     \u0275\u0275textInterpolate1(" ", link_r2.label, " ");
   }
 }
-function NavbarComponent_ng_container_12_Template(rf, ctx) {
+function NavbarComponent_ng_container_26_Template(rf, ctx) {
   if (rf & 1) {
     \u0275\u0275elementContainerStart(0);
     \u0275\u0275namespaceSVG();
-    \u0275\u0275elementStart(1, "svg", 15);
-    \u0275\u0275element(2, "line", 16)(3, "line", 17);
+    \u0275\u0275elementStart(1, "svg", 24);
+    \u0275\u0275element(2, "line", 25)(3, "line", 26);
     \u0275\u0275elementEnd();
     \u0275\u0275elementContainerEnd();
   }
 }
-function NavbarComponent_ng_template_13_Template(rf, ctx) {
+function NavbarComponent_ng_template_27_Template(rf, ctx) {
   if (rf & 1) {
     \u0275\u0275namespaceSVG();
-    \u0275\u0275elementStart(0, "svg", 15);
-    \u0275\u0275element(1, "line", 18)(2, "line", 19)(3, "line", 20);
+    \u0275\u0275elementStart(0, "svg", 24);
+    \u0275\u0275element(1, "line", 27)(2, "line", 28)(3, "line", 29);
     \u0275\u0275elementEnd();
   }
 }
-function NavbarComponent_div_15_a_1_Template(rf, ctx) {
+function NavbarComponent_div_29_div_6_Template(rf, ctx) {
   if (rf & 1) {
-    const _r4 = \u0275\u0275getCurrentView();
-    \u0275\u0275elementStart(0, "a", 23);
-    \u0275\u0275listener("click", function NavbarComponent_div_15_a_1_Template_a_click_0_listener() {
-      \u0275\u0275restoreView(_r4);
+    const _r5 = \u0275\u0275getCurrentView();
+    \u0275\u0275elementStart(0, "div", 36)(1, "a", 37);
+    \u0275\u0275listener("click", function NavbarComponent_div_29_div_6_Template_a_click_1_listener() {
+      \u0275\u0275restoreView(_r5);
+      const ctx_r2 = \u0275\u0275nextContext(2);
+      return \u0275\u0275resetView(ctx_r2.closeMenu());
+    });
+    \u0275\u0275text(2, " Resume ");
+    \u0275\u0275elementEnd();
+    \u0275\u0275elementStart(3, "a", 38);
+    \u0275\u0275listener("click", function NavbarComponent_div_29_div_6_Template_a_click_3_listener() {
+      \u0275\u0275restoreView(_r5);
+      const ctx_r2 = \u0275\u0275nextContext(2);
+      return \u0275\u0275resetView(ctx_r2.closeMenu());
+    });
+    \u0275\u0275text(4, " \xD6z Ge\xE7mi\u015F ");
+    \u0275\u0275elementEnd();
+    \u0275\u0275elementStart(5, "a", 39);
+    \u0275\u0275listener("click", function NavbarComponent_div_29_div_6_Template_a_click_5_listener() {
+      \u0275\u0275restoreView(_r5);
+      const ctx_r2 = \u0275\u0275nextContext(2);
+      return \u0275\u0275resetView(ctx_r2.closeMenu());
+    });
+    \u0275\u0275text(6, " Resume \u2013 ATS ");
+    \u0275\u0275elementEnd();
+    \u0275\u0275elementStart(7, "a", 40);
+    \u0275\u0275listener("click", function NavbarComponent_div_29_div_6_Template_a_click_7_listener() {
+      \u0275\u0275restoreView(_r5);
+      const ctx_r2 = \u0275\u0275nextContext(2);
+      return \u0275\u0275resetView(ctx_r2.closeMenu());
+    });
+    \u0275\u0275text(8, " \xD6z Ge\xE7mi\u015F \u2013 ATS ");
+    \u0275\u0275elementEnd()();
+  }
+  if (rf & 2) {
+    const ctx_r2 = \u0275\u0275nextContext(2);
+    \u0275\u0275advance();
+    \u0275\u0275property("ngClass", \u0275\u0275pureFunction2(4, _c1, ctx_r2.isActive("/resume"), !ctx_r2.isActive("/resume")));
+    \u0275\u0275advance(2);
+    \u0275\u0275property("ngClass", \u0275\u0275pureFunction2(7, _c1, ctx_r2.isActive("/resume-tr"), !ctx_r2.isActive("/resume-tr")));
+    \u0275\u0275advance(2);
+    \u0275\u0275property("ngClass", \u0275\u0275pureFunction2(10, _c1, ctx_r2.isActive("/resume-one"), !ctx_r2.isActive("/resume-one")));
+    \u0275\u0275advance(2);
+    \u0275\u0275property("ngClass", \u0275\u0275pureFunction2(13, _c1, ctx_r2.isActive("/resume-one-tr"), !ctx_r2.isActive("/resume-one-tr")));
+  }
+}
+function NavbarComponent_div_29_a_7_Template(rf, ctx) {
+  if (rf & 1) {
+    const _r6 = \u0275\u0275getCurrentView();
+    \u0275\u0275elementStart(0, "a", 41);
+    \u0275\u0275listener("click", function NavbarComponent_div_29_a_7_Template_a_click_0_listener() {
+      \u0275\u0275restoreView(_r6);
       const ctx_r2 = \u0275\u0275nextContext(2);
       return \u0275\u0275resetView(ctx_r2.closeMenu());
     });
@@ -87847,21 +88367,38 @@ function NavbarComponent_div_15_a_1_Template(rf, ctx) {
     \u0275\u0275elementEnd();
   }
   if (rf & 2) {
-    const link_r5 = ctx.$implicit;
+    const link_r7 = ctx.$implicit;
     const ctx_r2 = \u0275\u0275nextContext(2);
-    \u0275\u0275property("routerLink", link_r5.href)("ngClass", \u0275\u0275pureFunction2(3, _c1, ctx_r2.isActive(link_r5.href), !ctx_r2.isActive(link_r5.href)));
+    \u0275\u0275property("routerLink", link_r7.href)("ngClass", \u0275\u0275pureFunction2(3, _c1, ctx_r2.isActive(link_r7.href), !ctx_r2.isActive(link_r7.href)));
     \u0275\u0275advance();
-    \u0275\u0275textInterpolate1(" ", link_r5.label, " ");
+    \u0275\u0275textInterpolate1(" ", link_r7.label, " ");
   }
 }
-function NavbarComponent_div_15_Template(rf, ctx) {
+function NavbarComponent_div_29_Template(rf, ctx) {
   if (rf & 1) {
-    \u0275\u0275elementStart(0, "div", 21);
-    \u0275\u0275template(1, NavbarComponent_div_15_a_1_Template, 2, 6, "a", 22);
+    const _r4 = \u0275\u0275getCurrentView();
+    \u0275\u0275elementStart(0, "div", 30)(1, "div", 31)(2, "button", 32);
+    \u0275\u0275listener("click", function NavbarComponent_div_29_Template_button_click_2_listener() {
+      \u0275\u0275restoreView(_r4);
+      const ctx_r2 = \u0275\u0275nextContext();
+      return \u0275\u0275resetView(ctx_r2.toggleResume());
+    });
+    \u0275\u0275text(3, " MY RESUME ");
+    \u0275\u0275namespaceSVG();
+    \u0275\u0275elementStart(4, "svg", 33);
+    \u0275\u0275element(5, "path", 13);
+    \u0275\u0275elementEnd()();
+    \u0275\u0275template(6, NavbarComponent_div_29_div_6_Template, 9, 16, "div", 34);
+    \u0275\u0275elementEnd();
+    \u0275\u0275template(7, NavbarComponent_div_29_a_7_Template, 2, 6, "a", 35);
     \u0275\u0275elementEnd();
   }
   if (rf & 2) {
     const ctx_r2 = \u0275\u0275nextContext();
+    \u0275\u0275advance(4);
+    \u0275\u0275classProp("rotate-180", ctx_r2.isResumeOpen);
+    \u0275\u0275advance(2);
+    \u0275\u0275property("ngIf", ctx_r2.isResumeOpen);
     \u0275\u0275advance();
     \u0275\u0275property("ngForOf", ctx_r2.links);
   }
@@ -87869,8 +88406,8 @@ function NavbarComponent_div_15_Template(rf, ctx) {
 var NavbarComponent = class _NavbarComponent {
   router;
   isOpen = false;
+  isResumeOpen = false;
   links = [
-    { href: "/resume", label: "MY RESUME" },
     { href: "/", label: "Home" },
     { href: "/projects", label: "Projects" },
     { href: "/blog", label: "Blog" }
@@ -87887,10 +88424,13 @@ var NavbarComponent = class _NavbarComponent {
   closeMenu() {
     this.isOpen = false;
   }
+  toggleResume() {
+    this.isResumeOpen = !this.isResumeOpen;
+  }
   static \u0275fac = function NavbarComponent_Factory(__ngFactoryType__) {
     return new (__ngFactoryType__ || _NavbarComponent)(\u0275\u0275directiveInject(Router));
   };
-  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _NavbarComponent, selectors: [["app-navbar"]], decls: 16, vars: 4, consts: [["menuIcon", ""], [1, "sticky", "top-0", "z-50", "w-full", "border-b", "border-border/40", "bg-background/80", "backdrop-blur-xl"], [1, "container", "mx-auto", "px-4", "h-16", "flex", "items-center", "justify-between"], ["routerLink", "/", 1, "flex", "items-center", "gap-2", "group"], [1, "w-8", "h-8", "rounded-lg", "bg-primary/10", "flex", "items-center", "justify-center", "border", "border-primary/20", "group-hover:bg-primary/20", "transition-colors"], ["viewBox", "0 0 24 24", "fill", "none", "stroke", "currentColor", "stroke-width", "2", 1, "w-5", "h-5", "text-primary"], ["points", "16 18 22 12 16 6"], ["points", "8 6 2 12 8 18"], [1, "font-display", "font-bold", "text-lg", "tracking-tight"], [1, "hidden", "md:flex", "items-center", "gap-8"], ["class", "text-sm font-medium transition-colors hover:text-primary", 3, "routerLink", "ngClass", 4, "ngFor", "ngForOf"], [1, "md:hidden", "p-2", "text-muted-foreground", "hover:text-foreground", 3, "click"], [4, "ngIf", "ngIfElse"], ["class", "md:hidden border-t border-border/40 bg-background px-4 py-4 space-y-4 animate-in slide-in-from-top-4 fade-in", 4, "ngIf"], [1, "text-sm", "font-medium", "transition-colors", "hover:text-primary", 3, "routerLink", "ngClass"], ["viewBox", "0 0 24 24", "fill", "none", "stroke", "currentColor", "stroke-width", "2", 1, "w-6", "h-6"], ["x1", "18", "y1", "6", "x2", "6", "y2", "18"], ["x1", "6", "y1", "6", "x2", "18", "y2", "18"], ["x1", "3", "y1", "6", "x2", "21", "y2", "6"], ["x1", "3", "y1", "12", "x2", "21", "y2", "12"], ["x1", "3", "y1", "18", "x2", "21", "y2", "18"], [1, "md:hidden", "border-t", "border-border/40", "bg-background", "px-4", "py-4", "space-y-4", "animate-in", "slide-in-from-top-4", "fade-in"], ["class", "block text-sm font-medium py-2 transition-colors", 3, "routerLink", "ngClass", "click", 4, "ngFor", "ngForOf"], [1, "block", "text-sm", "font-medium", "py-2", "transition-colors", 3, "click", "routerLink", "ngClass"]], template: function NavbarComponent_Template(rf, ctx) {
+  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _NavbarComponent, selectors: [["app-navbar"]], decls: 30, vars: 4, consts: [["menuIcon", ""], [1, "sticky", "top-0", "z-50", "w-full", "border-b", "border-border/40", "bg-background/80", "backdrop-blur-xl"], [1, "container", "mx-auto", "px-4", "h-16", "flex", "items-center", "justify-between"], ["routerLink", "/", 1, "flex", "items-center", "gap-2", "group"], [1, "w-8", "h-8", "rounded-lg", "bg-primary/10", "flex", "items-center", "justify-center", "border", "border-primary/20", "group-hover:bg-primary/20", "transition-colors"], ["viewBox", "0 0 24 24", "fill", "none", "stroke", "currentColor", "stroke-width", "2", 1, "w-5", "h-5", "text-primary"], ["points", "16 18 22 12 16 6"], ["points", "8 6 2 12 8 18"], [1, "font-display", "font-bold", "text-lg", "tracking-tight"], [1, "hidden", "md:flex", "items-center", "gap-8"], [1, "relative", "group"], ["type", "button", 1, "text-sm", "font-medium", "transition-colors", "hover:text-primary", "flex", "items-center", "gap-1"], ["fill", "none", "stroke", "currentColor", "viewBox", "0 0 24 24", 1, "w-4", "h-4", "transition-transform", "group-hover:rotate-180"], ["stroke-linecap", "round", "stroke-linejoin", "round", "stroke-width", "2", "d", "M19 9l-7 7-7-7"], [1, "absolute", "left-0", "mt-2", "w-56", "rounded-lg", "bg-white", "shadow-lg", "border", "opacity-0", "invisible", "group-hover:opacity-100", "group-hover:visible", "transition-all", "duration-200", "z-50"], ["routerLink", "/resume", 1, "block", "px-4", "py-2", "text-sm", "hover:bg-slate-100", "transition"], ["routerLink", "/resume-tr", 1, "block", "px-4", "py-2", "text-sm", "hover:bg-slate-100", "transition"], ["routerLink", "/resume-one", 1, "block", "px-4", "py-2", "text-sm", "hover:bg-slate-100", "transition"], ["routerLink", "resume-one-tr", 1, "block", "px-4", "py-2", "text-sm", "hover:bg-slate-100", "transition"], ["class", "text-sm font-medium transition-colors hover:text-primary", 3, "routerLink", "ngClass", 4, "ngFor", "ngForOf"], [1, "md:hidden", "p-2", "text-muted-foreground", "hover:text-foreground", 3, "click"], [4, "ngIf", "ngIfElse"], ["class", "md:hidden border-t border-border/40 bg-background px-4 py-4 space-y-4\n         animate-in slide-in-from-top-4 fade-in", 4, "ngIf"], [1, "text-sm", "font-medium", "transition-colors", "hover:text-primary", 3, "routerLink", "ngClass"], ["viewBox", "0 0 24 24", "fill", "none", "stroke", "currentColor", "stroke-width", "2", 1, "w-6", "h-6"], ["x1", "18", "y1", "6", "x2", "6", "y2", "18"], ["x1", "6", "y1", "6", "x2", "18", "y2", "18"], ["x1", "3", "y1", "6", "x2", "21", "y2", "6"], ["x1", "3", "y1", "12", "x2", "21", "y2", "12"], ["x1", "3", "y1", "18", "x2", "21", "y2", "18"], [1, "md:hidden", "border-t", "border-border/40", "bg-background", "px-4", "py-4", "space-y-4", "animate-in", "slide-in-from-top-4", "fade-in"], [1, "space-y-2"], ["type", "button", 1, "w-full", "flex", "items-center", "justify-between", "text-sm", "font-medium", "transition-colors", "hover:text-primary", 3, "click"], ["fill", "none", "stroke", "currentColor", "viewBox", "0 0 24 24", 1, "w-4", "h-4", "transition-transform"], ["class", "pl-4 space-y-2", 4, "ngIf"], ["class", "block text-sm font-medium py-2 transition-colors", 3, "routerLink", "ngClass", "click", 4, "ngFor", "ngForOf"], [1, "pl-4", "space-y-2"], ["routerLink", "/resume", 1, "block", "text-sm", "text-muted-foreground", "hover:text-primary", "transition", 3, "click", "ngClass"], ["routerLink", "/resume-tr", 1, "block", "text-sm", "text-muted-foreground", "hover:text-primary", "transition", 3, "click", "ngClass"], ["routerLink", "/resume-one", 1, "block", "text-sm", "text-muted-foreground", "hover:text-primary", "transition", 3, "click", "ngClass"], ["routerLink", "/resume-one-tr", 1, "block", "text-sm", "text-muted-foreground", "hover:text-primary", "transition", 3, "click", "ngClass"], [1, "block", "text-sm", "font-medium", "py-2", "transition-colors", 3, "click", "routerLink", "ngClass"]], template: function NavbarComponent_Template(rf, ctx) {
     if (rf & 1) {
       const _r1 = \u0275\u0275getCurrentView();
       \u0275\u0275elementStart(0, "header", 1)(1, "div", 2)(2, "a", 3)(3, "div", 4);
@@ -87902,25 +88442,43 @@ var NavbarComponent = class _NavbarComponent {
       \u0275\u0275elementStart(7, "span", 8);
       \u0275\u0275text(8, "blitzkrieg0.0.0.0");
       \u0275\u0275elementEnd()();
-      \u0275\u0275elementStart(9, "nav", 9);
-      \u0275\u0275template(10, NavbarComponent_a_10_Template, 2, 6, "a", 10);
+      \u0275\u0275elementStart(9, "nav", 9)(10, "div", 10)(11, "button", 11);
+      \u0275\u0275text(12, " MY RESUME ");
+      \u0275\u0275namespaceSVG();
+      \u0275\u0275elementStart(13, "svg", 12);
+      \u0275\u0275element(14, "path", 13);
+      \u0275\u0275elementEnd()();
+      \u0275\u0275namespaceHTML();
+      \u0275\u0275elementStart(15, "div", 14)(16, "a", 15);
+      \u0275\u0275text(17, " Resume ");
       \u0275\u0275elementEnd();
-      \u0275\u0275elementStart(11, "button", 11);
-      \u0275\u0275listener("click", function NavbarComponent_Template_button_click_11_listener() {
+      \u0275\u0275elementStart(18, "a", 16);
+      \u0275\u0275text(19, " \xD6z Ge\xE7mi\u015F ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(20, "a", 17);
+      \u0275\u0275text(21, " Resume - ATS ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(22, "a", 18);
+      \u0275\u0275text(23, " \xD6z Ge\xE7mi\u015F - ATS ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275template(24, NavbarComponent_a_24_Template, 2, 6, "a", 19);
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(25, "button", 20);
+      \u0275\u0275listener("click", function NavbarComponent_Template_button_click_25_listener() {
         \u0275\u0275restoreView(_r1);
         return \u0275\u0275resetView(ctx.toggleMenu());
       });
-      \u0275\u0275template(12, NavbarComponent_ng_container_12_Template, 4, 0, "ng-container", 12)(13, NavbarComponent_ng_template_13_Template, 4, 0, "ng-template", null, 0, \u0275\u0275templateRefExtractor);
+      \u0275\u0275template(26, NavbarComponent_ng_container_26_Template, 4, 0, "ng-container", 21)(27, NavbarComponent_ng_template_27_Template, 4, 0, "ng-template", null, 0, \u0275\u0275templateRefExtractor);
       \u0275\u0275elementEnd()();
-      \u0275\u0275template(15, NavbarComponent_div_15_Template, 2, 1, "div", 13);
+      \u0275\u0275template(29, NavbarComponent_div_29_Template, 8, 4, "div", 22);
       \u0275\u0275elementEnd();
     }
     if (rf & 2) {
-      const menuIcon_r6 = \u0275\u0275reference(14);
-      \u0275\u0275advance(10);
+      const menuIcon_r8 = \u0275\u0275reference(28);
+      \u0275\u0275advance(24);
       \u0275\u0275property("ngForOf", ctx.links);
       \u0275\u0275advance(2);
-      \u0275\u0275property("ngIf", ctx.isOpen)("ngIfElse", menuIcon_r6);
+      \u0275\u0275property("ngIf", ctx.isOpen)("ngIfElse", menuIcon_r8);
       \u0275\u0275advance(3);
       \u0275\u0275property("ngIf", ctx.isOpen);
     }
@@ -87946,6 +88504,35 @@ var NavbarComponent = class _NavbarComponent {
 
         <!-- DESKTOP NAV -->
         <nav class="hidden md:flex items-center gap-8">
+
+            <!-- DROPDOWN -->
+            <div class="relative group">
+                <button class="text-sm font-medium transition-colors hover:text-primary flex items-center gap-1" type="button">
+                    MY RESUME
+                    <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </button>
+
+                <!-- DROPDOWN MENU -->
+                <div class="absolute left-0 mt-2 w-56 rounded-lg bg-white shadow-lg border
+               opacity-0 invisible group-hover:opacity-100 group-hover:visible
+               transition-all duration-200 z-50">
+                    <a routerLink="/resume" class="block px-4 py-2 text-sm hover:bg-slate-100 transition">
+                        Resume
+                    </a>
+                    <a routerLink="/resume-tr" class="block px-4 py-2 text-sm hover:bg-slate-100 transition">
+                        \xD6z Ge\xE7mi\u015F
+                    </a>
+                    <a routerLink="/resume-one" class="block px-4 py-2 text-sm hover:bg-slate-100 transition">
+                        Resume - ATS
+                    </a>
+                    <a routerLink="resume-one-tr" class="block px-4 py-2 text-sm hover:bg-slate-100 transition">
+                        \xD6z Ge\xE7mi\u015F - ATS
+                    </a>
+                </div>
+            </div>
+
             <a *ngFor="let link of links" [routerLink]="link.href" class="text-sm font-medium transition-colors hover:text-primary" [ngClass]="{
           'text-primary font-semibold': isActive(link.href),
           'text-muted-foreground': !isActive(link.href)
@@ -87980,14 +88567,58 @@ var NavbarComponent = class _NavbarComponent {
     </div>
 
     <!-- MOBILE MENU -->
-    <div *ngIf="isOpen" class="md:hidden border-t border-border/40 bg-background px-4 py-4 space-y-4 animate-in slide-in-from-top-4 fade-in">
-        <a *ngFor="let link of links" [routerLink]="link.href" class="block text-sm font-medium py-2 transition-colors" [ngClass]="{
-        'text-primary': isActive(link.href),
-        'text-muted-foreground': !isActive(link.href)
-      }" (click)="closeMenu()">
+    <div *ngIf="isOpen" class="md:hidden border-t border-border/40 bg-background px-4 py-4 space-y-4
+         animate-in slide-in-from-top-4 fade-in">
+
+        <!-- RESUME DROPDOWN -->
+        <div class="space-y-2">
+            <button type="button" (click)="toggleResume()" class="w-full flex items-center justify-between
+             text-sm font-medium transition-colors hover:text-primary">
+                MY RESUME
+                <svg class="w-4 h-4 transition-transform" [class.rotate-180]="isResumeOpen" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+            </button>
+
+            <!-- DROPDOWN ITEMS -->
+            <div *ngIf="isResumeOpen" class="pl-4 space-y-2">
+                <a routerLink="/resume" (click)="closeMenu()" class="block text-sm text-muted-foreground hover:text-primary transition" [ngClass]="{
+                    'text-primary': isActive('/resume'),
+                    'text-muted-foreground': !isActive('/resume')
+                    }">
+                    Resume
+                </a>
+                <a routerLink="/resume-tr" (click)="closeMenu()" class="block text-sm text-muted-foreground hover:text-primary transition" [ngClass]="{
+                    'text-primary': isActive('/resume-tr'),
+                    'text-muted-foreground': !isActive('/resume-tr')
+                    }">
+                    \xD6z Ge\xE7mi\u015F
+                </a>
+                <a routerLink="/resume-one" (click)="closeMenu()" class="block text-sm text-muted-foreground hover:text-primary transition" [ngClass]="{
+                    'text-primary': isActive('/resume-one'),
+                    'text-muted-foreground': !isActive('/resume-one')
+                    }">
+                    Resume \u2013 ATS
+                </a>
+                <a routerLink="/resume-one-tr" (click)="closeMenu()" class="block text-sm text-muted-foreground hover:text-primary transition" [ngClass]="{
+                    'text-primary': isActive('/resume-one-tr'),
+                    'text-muted-foreground': !isActive('/resume-one-tr')
+                    }">
+                    \xD6z Ge\xE7mi\u015F \u2013 ATS
+                </a>
+            </div>
+        </div>
+
+        <!-- OTHER LINKS -->
+        <a *ngFor="let link of links" [routerLink]="link.href" (click)="closeMenu()" class="block text-sm font-medium py-2 transition-colors" [ngClass]="{
+      'text-primary': isActive(link.href),
+      'text-muted-foreground': !isActive(link.href)
+    }">
             {{ link.label }}
         </a>
+
     </div>
+
 </header>` }]
   }], () => [{ type: Router }], null);
 })();
