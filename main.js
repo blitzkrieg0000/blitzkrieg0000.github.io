@@ -61483,7 +61483,7 @@ var ResumeComponent = class _ResumeComponent {
       \u0275\u0275elementStart(133, "div", 26);
       \u0275\u0275element(134, "div", 27);
       \u0275\u0275elementStart(135, "div", 21)(136, "h3", 29);
-      \u0275\u0275text(137, "Software Engineer - Backend & Deployment");
+      \u0275\u0275text(137, "MLOps & Backend Developer");
       \u0275\u0275elementEnd()();
       \u0275\u0275elementStart(138, "ul", 31)(139, "li");
       \u0275\u0275text(140, "Developed AI backend services using Python and FastAPI, with model inference served via NVIDIA Triton Inference Server.");
@@ -61617,7 +61617,7 @@ var ResumeComponent = class _ResumeComponent {
       \u0275\u0275text(245, " Architected a microservice-based backend and deployed AI inference services using Docker and Kubernetes for scalable and fault-tolerant operation. ");
       \u0275\u0275elementEnd();
       \u0275\u0275elementStart(246, "li");
-      \u0275\u0275text(247, " Built backend APIs to manage video streams, inference services, and coordination across distributed system components. ");
+      \u0275\u0275text(247, " Built gRPC backend APIs to manage video streams, inference services, and coordination across distributed system components. ");
       \u0275\u0275elementEnd()()();
       \u0275\u0275elementStart(248, "div", 26);
       \u0275\u0275element(249, "div", 33);
@@ -61642,7 +61642,7 @@ var ResumeComponent = class _ResumeComponent {
       \u0275\u0275elementStart(263, "div", 26);
       \u0275\u0275element(264, "div", 33);
       \u0275\u0275elementStart(265, "h3", 34);
-      \u0275\u0275text(266, "Blockchain Data Protection for Digital Forensics");
+      \u0275\u0275text(266, "Securing Incident Reporting Processes with Blockchain");
       \u0275\u0275elementEnd();
       \u0275\u0275elementStart(267, "ul", 35)(268, "li");
       \u0275\u0275text(269, "Designed and implemented a blockchain-based system to ensure immutability and consistency of digital forensic data processing and reporting pipelines.");
@@ -61654,7 +61654,7 @@ var ResumeComponent = class _ResumeComponent {
       \u0275\u0275text(273, " Developed system components using PHP and Java to support secure data handling and auditability. ");
       \u0275\u0275elementEnd();
       \u0275\u0275elementStart(274, "li");
-      \u0275\u0275text(275, " Implemented hash-based (Sha256) verification to validate forensic data consistency across the pipeline. ");
+      \u0275\u0275text(275, " Implemented hash-based (SHA256) verification to validate forensic data consistency across the pipeline. ");
       \u0275\u0275elementEnd()()()()()();
       \u0275\u0275elementStart(276, "div", 36)(277, "section")(278, "h2", 17);
       \u0275\u0275text(279, " Technical Skills ");
@@ -64565,10 +64565,8 @@ var ResumeComponent = class _ResumeComponent {
 								<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
 									<li>Contributed to LLM fine-tuning workflows with an emphasis on machine translation models.</li>
 									<li>Provided engineering support for TTS, STT, and voice cloning pipelines in production environments.</li>
-									<li>Applied Fully Sharded Data Parallel (FSDP) techniques to enable LLM fine-tuning
-										on limited GPU resources.</li>
-									<li>Improved training efficiency by reducing memory footprint, training time,
-										and overall compute costs.</li>
+									<li>Applied Fully Sharded Data Parallel (FSDP) techniques to enable LLM fine-tuning on limited GPU resources.</li>
+									<li>Improved training efficiency by reducing memory footprint, training time, and overall compute costs.</li>
 								</ul>
 							</div>
 						</div>
@@ -64591,13 +64589,15 @@ var ResumeComponent = class _ResumeComponent {
 
 								<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
 									<li>
-										Performed satellite image analysis and GIS-based workflows using multispectral and hyperspectral remote sensing data. </li>
+										Performed satellite image analysis and GIS-based workflows using multispectral and hyperspectral remote sensing data. 
+									</li>
 									<li>
 										Applied remote sensing techniques to agriculture-focused projects, including Land Use and Land Cover (LULC) classification and analysis. </li>
 									<li>
 										Worked with satellite platforms and geospatial tools such as Sentinel, Landsat, Google Earth Engine (GEE), ArcGIS Pro, and Copernicus datasets. </li>
 									<li>
-										Conducted satellite image preprocessing, analysis, and interpretation to support real-world GIS and environmental applications. </li>
+										Conducted satellite image preprocessing, analysis, and interpretation to support real-world GIS and environmental applications. 
+									</li>
 								</ul>
 							</div>
 
@@ -64646,7 +64646,7 @@ var ResumeComponent = class _ResumeComponent {
 							<div class="relative">
 								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
 								<div class="flex justify-between items-baseline mb-1">
-									<h3 class="text-lg font-semibold text-slate-700">Software Engineer - Backend & Deployment</h3>
+									<h3 class="text-lg font-semibold text-slate-700">MLOps & Backend Developer</h3>
 								</div>
 								<ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
 									<li>Developed AI backend services using Python and FastAPI, with model inference served via NVIDIA Triton Inference Server.</li>
@@ -64779,7 +64779,7 @@ var ResumeComponent = class _ResumeComponent {
 								Architected a microservice-based backend and deployed AI inference services using Docker and Kubernetes for scalable and fault-tolerant operation.
 							</li>
 							<li>
-								Built backend APIs to manage video streams, inference services, and coordination across distributed system components.
+								Built gRPC backend APIs to manage video streams, inference services, and coordination across distributed system components.
 							</li>
 						</ul>
 					</div>
@@ -64812,7 +64812,7 @@ var ResumeComponent = class _ResumeComponent {
 					<div class="relative">
 						<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
 
-						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Blockchain Data Protection for Digital Forensics</h3>
+						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Securing Incident Reporting Processes with Blockchain</h3>
 						<ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
 							<li>Designed and implemented a blockchain-based system to ensure immutability and consistency of digital forensic data processing and reporting pipelines.</li>
 							<li>
@@ -64822,7 +64822,7 @@ var ResumeComponent = class _ResumeComponent {
 								Developed system components using PHP and Java to support secure data handling and auditability.
 							</li>
 							<li>
-								Implemented hash-based (Sha256) verification to validate forensic data consistency across the pipeline.
+								Implemented hash-based (SHA256) verification to validate forensic data consistency across the pipeline.
 							</li>
 						</ul>
 					</div>
@@ -68465,7 +68465,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
       \u0275\u0275elementStart(133, "div", 26);
       \u0275\u0275element(134, "div", 27);
       \u0275\u0275elementStart(135, "div", 21)(136, "h3", 29);
-      \u0275\u0275text(137, "Software Engineer - Backend & Deployment");
+      \u0275\u0275text(137, "MLOps & Backend Developer");
       \u0275\u0275elementEnd()();
       \u0275\u0275elementStart(138, "ul", 31)(139, "li");
       \u0275\u0275text(140, "Developed AI backend services using Python and FastAPI, with model inference served via NVIDIA Triton Inference Server.");
@@ -68599,7 +68599,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
       \u0275\u0275text(245, " Architected a microservice-based backend and deployed AI inference services using Docker and Kubernetes for scalable and fault-tolerant operation. ");
       \u0275\u0275elementEnd();
       \u0275\u0275elementStart(246, "li");
-      \u0275\u0275text(247, " Built backend APIs to manage video streams, inference services, and coordination across distributed system components. ");
+      \u0275\u0275text(247, " Built gRPC backend APIs to manage video streams, inference services, and coordination across distributed system components. ");
       \u0275\u0275elementEnd()()();
       \u0275\u0275elementStart(248, "div", 26);
       \u0275\u0275element(249, "div", 33);
@@ -68624,7 +68624,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
       \u0275\u0275elementStart(263, "div", 26);
       \u0275\u0275element(264, "div", 33);
       \u0275\u0275elementStart(265, "h3", 34);
-      \u0275\u0275text(266, "Blockchain Data Protection for Digital Forensics");
+      \u0275\u0275text(266, "Securing Incident Reporting Processes with Blockchain");
       \u0275\u0275elementEnd();
       \u0275\u0275elementStart(267, "ul", 35)(268, "li");
       \u0275\u0275text(269, "Designed and implemented a blockchain-based system to ensure immutability and consistency of digital forensic data processing and reporting pipelines.");
@@ -68636,7 +68636,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
       \u0275\u0275text(273, " Developed system components using PHP and Java to support secure data handling and auditability. ");
       \u0275\u0275elementEnd();
       \u0275\u0275elementStart(274, "li");
-      \u0275\u0275text(275, " Implemented hash-based (Sha256) verification to validate forensic data consistency across the pipeline. ");
+      \u0275\u0275text(275, " Implemented hash-based (SHA256) verification to validate forensic data consistency across the pipeline. ");
       \u0275\u0275elementEnd()()()()();
       \u0275\u0275elementStart(276, "section")(277, "h2", 17);
       \u0275\u0275text(278, " Technical Skills ");
@@ -71547,10 +71547,8 @@ var ResumeOneComponent = class _ResumeOneComponent {
 								<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
 									<li>Contributed to LLM fine-tuning workflows with an emphasis on machine translation models.</li>
 									<li>Provided engineering support for TTS, STT, and voice cloning pipelines in production environments.</li>
-									<li>Applied Fully Sharded Data Parallel (FSDP) techniques to enable LLM fine-tuning
-										on limited GPU resources.</li>
-									<li>Improved training efficiency by reducing memory footprint, training time,
-										and overall compute costs.</li>
+									<li>Applied Fully Sharded Data Parallel (FSDP) techniques to enable LLM fine-tuning on limited GPU resources.</li>
+									<li>Improved training efficiency by reducing memory footprint, training time, and overall compute costs.</li>
 								</ul>
 							</div>
 						</div>
@@ -71573,13 +71571,15 @@ var ResumeOneComponent = class _ResumeOneComponent {
 
 								<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
 									<li>
-										Performed satellite image analysis and GIS-based workflows using multispectral and hyperspectral remote sensing data. </li>
+										Performed satellite image analysis and GIS-based workflows using multispectral and hyperspectral remote sensing data. 
+									</li>
 									<li>
 										Applied remote sensing techniques to agriculture-focused projects, including Land Use and Land Cover (LULC) classification and analysis. </li>
 									<li>
 										Worked with satellite platforms and geospatial tools such as Sentinel, Landsat, Google Earth Engine (GEE), ArcGIS Pro, and Copernicus datasets. </li>
 									<li>
-										Conducted satellite image preprocessing, analysis, and interpretation to support real-world GIS and environmental applications. </li>
+										Conducted satellite image preprocessing, analysis, and interpretation to support real-world GIS and environmental applications. 
+									</li>
 								</ul>
 							</div>
 
@@ -71628,7 +71628,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
 							<div class="relative">
 								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
 								<div class="flex justify-between items-baseline mb-1">
-									<h3 class="text-lg font-semibold text-slate-700">Software Engineer - Backend & Deployment</h3>
+									<h3 class="text-lg font-semibold text-slate-700">MLOps & Backend Developer</h3>
 								</div>
 								<ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
 									<li>Developed AI backend services using Python and FastAPI, with model inference served via NVIDIA Triton Inference Server.</li>
@@ -71761,7 +71761,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
 								Architected a microservice-based backend and deployed AI inference services using Docker and Kubernetes for scalable and fault-tolerant operation.
 							</li>
 							<li>
-								Built backend APIs to manage video streams, inference services, and coordination across distributed system components.
+								Built gRPC backend APIs to manage video streams, inference services, and coordination across distributed system components.
 							</li>
 						</ul>
 					</div>
@@ -71794,7 +71794,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
 					<div class="relative">
 						<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
 
-						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Blockchain Data Protection for Digital Forensics</h3>
+						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Securing Incident Reporting Processes with Blockchain</h3>
 						<ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
 							<li>Designed and implemented a blockchain-based system to ensure immutability and consistency of digital forensic data processing and reporting pipelines.</li>
 							<li>
@@ -71804,7 +71804,7 @@ var ResumeOneComponent = class _ResumeOneComponent {
 								Developed system components using PHP and Java to support secure data handling and auditability.
 							</li>
 							<li>
-								Implemented hash-based (Sha256) verification to validate forensic data consistency across the pipeline.
+								Implemented hash-based (SHA256) verification to validate forensic data consistency across the pipeline.
 							</li>
 						</ul>
 					</div>
@@ -74657,6 +74657,13108 @@ var ResumeOneComponent = class _ResumeOneComponent {
   (typeof ngDevMode === "undefined" || ngDevMode) && \u0275setClassDebugInfo(ResumeOneComponent, { className: "ResumeOneComponent", filePath: "src/app/component/resume-one/resume-one.ts", lineNumber: 11 });
 })();
 
+// src/app/component/resume-tr-component/resume-tr-component.ts
+function ResumeTrComponent_div_281_span_4_Template(rf, ctx) {
+  if (rf & 1) {
+    \u0275\u0275elementStart(0, "span", 47);
+    \u0275\u0275text(1);
+    \u0275\u0275elementEnd();
+  }
+  if (rf & 2) {
+    const skill_r1 = ctx.$implicit;
+    \u0275\u0275advance();
+    \u0275\u0275textInterpolate1(" ", skill_r1, " ");
+  }
+}
+function ResumeTrComponent_div_281_Template(rf, ctx) {
+  if (rf & 1) {
+    \u0275\u0275elementStart(0, "div")(1, "h3", 44);
+    \u0275\u0275text(2);
+    \u0275\u0275elementEnd();
+    \u0275\u0275elementStart(3, "div", 45);
+    \u0275\u0275template(4, ResumeTrComponent_div_281_span_4_Template, 2, 1, "span", 46);
+    \u0275\u0275elementEnd()();
+  }
+  if (rf & 2) {
+    const group_r2 = ctx.$implicit;
+    \u0275\u0275advance(2);
+    \u0275\u0275textInterpolate1(" ", group_r2.title, " ");
+    \u0275\u0275advance(2);
+    \u0275\u0275property("ngForOf", group_r2.items);
+  }
+}
+var ResumeTrComponent = class _ResumeTrComponent {
+  platform;
+  config;
+  MailIcon = Mail;
+  PhoneIcon = Phone;
+  MapPinIcon = MapPin;
+  GlobeIcon = Globe;
+  LinkedInIcon = Linkedin;
+  GithubIcon = Github;
+  tel = "";
+  constructor(platform, config3) {
+    this.platform = platform;
+    this.config = config3;
+    this.tel = config3?.telephone;
+  }
+  expertiseAreas = [
+    "Computer Vision & Biometric Systems",
+    "Natural Language Processing & Transformer-based Models",
+    "Machine Learning & Deep Learning",
+    "Remote Sensing & Geospatial Analysis"
+  ];
+  technicalSkills = [
+    "Docker",
+    "Kubernetes",
+    "Python",
+    "C#",
+    "Terraform",
+    "ESRI ArcGIS Pro",
+    "Github-Workflows",
+    "ArgoCD",
+    "PyTorch",
+    "Transformers",
+    "TensorFlow",
+    "Scikit-learn",
+    "Pandas",
+    "Numpy",
+    "Matplotlib",
+    "Seaborn",
+    "Cassandra",
+    "PostgresQL",
+    "Confluent Kafka",
+    "Rook-Ceph",
+    "Milvus",
+    "FastAPI",
+    "OpenCV",
+    "Ray",
+    "Git",
+    "Rastervision",
+    "Mediapipe",
+    "gRPC",
+    "Protobuf",
+    "LangChain",
+    "OnnxRuntime",
+    "Sockets",
+    "Linux",
+    "Redis",
+    "Prometheus",
+    "Grafana",
+    "Ansible"
+  ];
+  technicalSkillGroups = [
+    {
+      title: "Programlama",
+      items: [
+        "Python",
+        "C#",
+        "Linux",
+        "Git",
+        "Sockets"
+      ]
+    },
+    {
+      title: "MAK\u0130NE \xD6\u011ERENMES\u0130 & DER\u0130N \xD6\u011ERENME",
+      items: [
+        "PyTorch",
+        "TensorFlow",
+        "Transformers",
+        "Scikit-Learn",
+        "Onnx-Runtime",
+        "DeepSpeed",
+        "FairScale"
+      ]
+    },
+    {
+      title: "B\u0130LG\u0130SAYARLI G\xD6R\xDC & G\xD6R\xDCNT\xDCLEME",
+      items: [
+        "OpenCV",
+        "Mediapipe",
+        "Rastervision",
+        "GEE"
+      ]
+    },
+    {
+      title: "NLP & B\xDCY\xDCK D\u0130L MODELLER\u0130",
+      items: [
+        "LangChain",
+        "Unsloth",
+        "LLMA"
+      ]
+    },
+    {
+      title: "DevOps / MLOps",
+      items: [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Workflows",
+        "ArgoCD",
+        "Ansible",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      title: "DA\u011EITIK S\u0130STEMLER",
+      items: [
+        "Confluent Kafka",
+        "gRPC",
+        "Protobuf",
+        "Rook-Ceph",
+        "Apache Spark",
+        "Ray"
+      ]
+    },
+    {
+      title: "Web Frameworks & APIs",
+      items: [
+        "ASP.NET Core",
+        "FastAPI",
+        "Flask",
+        "Angular"
+      ]
+    },
+    {
+      title: "VER\u0130 & VER\u0130 TABANLARI",
+      items: [
+        "Pandas",
+        "Numpy",
+        "Cassandra",
+        "PostgreSQL",
+        "Redis",
+        "Milvus",
+        "Qdrant",
+        "Firebase",
+        "Copernicus"
+      ]
+    },
+    {
+      title: "G\xD6RSELLE\u015ET\u0130RME",
+      items: [
+        "Matplotlib",
+        "Seaborn",
+        "Plotly"
+      ]
+    },
+    {
+      title: "CBS & UZAKTAN ALGILAMA",
+      items: [
+        "ESRI ArcGIS Pro",
+        "QGIS"
+      ]
+    }
+  ];
+  static \u0275fac = function ResumeTrComponent_Factory(__ngFactoryType__) {
+    return new (__ngFactoryType__ || _ResumeTrComponent)(\u0275\u0275directiveInject(PLATFORM_ID), \u0275\u0275directiveInject("local-config"));
+  };
+  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _ResumeTrComponent, selectors: [["app-resume-tr-component"]], decls: 306, vars: 9, consts: [["pdfArea", ""], [1, "min-h-screen", "bg-white", "font-sans", "text-slate-800"], [1, "bg-resume-teal", "text-white", "px-8", "py-10", "md:py-12"], [1, "max-w-6xl", "mx-auto"], [1, "text-4xl", "md:text-6xl", "font-bold", "mb-2", "tracking-tight"], [1, "text-xl", "md:text-2xl", "font-light", "text-resume-teal-light", "mb-6"], [1, "text-sm", "md:text-base", "leading-relaxed", "opacity-90", "mb-8", "max-w-4xl"], [1, "grid", "grid-cols-1", "md:grid-cols-2", "lg:grid-cols-4", "gap-4", "text-sm", "font-medium"], [1, "flex", "items-center", "gap-2", "hover:text-white/80", "transition-colors"], [1, "my-icon", 3, "img"], ["href", "mailto:burakhansamli@proton.me"], [3, "href"], ["href", "https://www.linkedin.com/in/burakhan-\u015Faml\u0131-0000/"], ["href", "https://github.com/blitzkrieg0000"], ["href", "https://blitzkrieg0000.github.io/"], [1, "max-w-6xl", "mx-auto", "px-8", "py-12", "grid", "grid-cols-1", "md:grid-cols-12", "gap-12"], [1, "md:col-span-7", "lg:col-span-8", "space-y-10"], [1, "text-resume-gold", "text-2xl", "font-bold", "uppercase", "border-b-2", "border-resume-gold/30", "pb-2", "mb-2", "tracking-wide"], [1, "space-y-8", "relative", "pl-4", "border-l-2", "border-slate-300", "ml-2"], [1, "relative", "mb-2"], [1, "absolute", "-left-[25px]", "top-1", "w-4", "h-4", "rounded-full", "bg-resume-gold", "border-4", "border-white", "shadow-sm"], [1, "flex", "justify-between", "items-baseline", "mb-1"], [1, "text-xl", "font-bold", "text-slate-900"], [1, "text-sm", "italic", "text-slate-500"], [1, "text-xs", "font-semibold", "text-resume-teal-dark", "bg-resume-teal/10", "px-2", "py-0.5", "rounded"], [1, "space-y-8", "relative", "pl-4", "border-l-2", "border-slate-200", "ml-0"], [1, "relative"], [1, "absolute", "-left-[23px]", "top-2", "w-3", "h-3", "rounded-full", "bg-resume-teal", "border-3", "border-white", "shadow-sm"], [1, "flex", "justify-between", "items-baseline", "mb-3"], [1, "text-lg", "font-semibold", "text-slate-700"], [1, "list-disc", "list-outside", "ml-4", "space-y-2", "text-sm", "text-slate-600", "marker:text-resume-teal"], [1, "list-disc", "list-outside", "ml-4", "mt-2", "space-y-2", "text-sm", "text-slate-600", "marker:text-resume-teal"], [1, "space-y-8", "relative", "pl-4", "border-l-2", "border-slate-200", "ml-2"], [1, "absolute", "-left-[25px]", "top-1", "w-4", "h-4", "rounded-full", "bg-resume-teal", "border-4", "border-white", "shadow-sm"], [1, "text-lg", "font-bold", "text-slate-900", "mb-0", "mt-1"], [1, "list-disc", "list-outside", "ml-4", "text-md", "text-slate-600", "marker:text-resume-teal"], [1, "md:col-span-5", "lg:col-span-4", "space-y-10"], [1, "space-y-4"], [4, "ngFor", "ngForOf"], [1, "text-base", "font-bold", "text-slate-800", "leading-tight", "mb-1"], [1, "text-lg", "font-bold", "text-slate-900", "leading-tight"], [1, "text-base", "font-medium", "text-slate-700", "mb-1"], [1, "text-md", "text-resume-gold", "font-medium"], [1, "text-sm", "text-resume-teal", "font-medium", "italic"], [1, "text-resume-teal", "font-semibold", "mb-1", "text-xs", "uppercase", "tracking-wide"], [1, "flex", "flex-wrap", "gap-2"], ["class", "px-2.5 py-1 bg-slate-100 text-slate-700 text-[11px] font-bold rounded-sm border border-slate-200 print:bg-none print:border-none print:px-0 print:text-sm print:inline print:after:content-[',_'] print:last:after:content-['']", 4, "ngFor", "ngForOf"], [1, "px-2.5", "py-1", "bg-slate-100", "text-slate-700", "text-[11px]", "font-bold", "rounded-sm", "border", "border-slate-200", "print:bg-none", "print:border-none", "print:px-0", "print:text-sm", "print:inline", "print:after:content-[',_']", "print:last:after:content-['']"]], template: function ResumeTrComponent_Template(rf, ctx) {
+    if (rf & 1) {
+      \u0275\u0275elementStart(0, "div", 1, 0)(2, "header", 2)(3, "div", 3)(4, "h1", 4);
+      \u0275\u0275text(5, "Burakhan \u015Eaml\u0131");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(6, "p", 5);
+      \u0275\u0275text(7, "Adli Bili\u015Fim M\xFChendisi | AI, CV, NLP & MLOps ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(8, "p", 6);
+      \u0275\u0275text(9, " \xA0\xA0Adli Bili\u015Fim M\xFChendisli\u011Fi altyap\u0131s\u0131na sahip bir Yapay Zeka Uzman\u0131 (AI Specialist) olarak; Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision), Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing) ve Uzaktan Alg\u0131lama (Remote Sensing) tabanl\u0131 yapay zeka sistemleri \xFCzerine \xE7al\u0131\u015Fmaktay\u0131m. Ger\xE7ek d\xFCnya uygulamalar\u0131na y\xF6nelik olarak; biyometrik kimliklendirme, nesne tespiti ve takibi (object detection & tracking), \xE7ok kameral\u0131 video analiti\u011Fi ve uydu g\xF6r\xFCnt\xFCs\xFC analizi gibi alanlarda u\xE7tan uca ve \xF6l\xE7eklenebilir yapay zeka \xE7\xF6z\xFCmleri geli\u015Ftirme deneyimine sahibim. G\xF6r\xFCnt\xFC ve dil alanlar\u0131nda Transformer tabanl\u0131 mimariler ile uygulamal\u0131 g\xFC\xE7l\xFC bir tecr\xFCbeye sahip olup, geli\u015Ftirdi\u011Fim yapay zeka modellerini Docker ve Kubernetes kullanarak konteyner tabanl\u0131 ve mikroservis mimarileri \xFCzerinde \xFCretim ortamlar\u0131na ta\u015F\u0131maktay\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(10, "div", 7)(11, "div", 8);
+      \u0275\u0275element(12, "lucide-icon", 9);
+      \u0275\u0275elementStart(13, "a", 10);
+      \u0275\u0275text(14, "burakhansamli@proton.me");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(15, "div", 8);
+      \u0275\u0275element(16, "lucide-icon", 9);
+      \u0275\u0275elementStart(17, "span")(18, "a", 11);
+      \u0275\u0275text(19);
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(20, "div", 8);
+      \u0275\u0275element(21, "lucide-icon", 9);
+      \u0275\u0275elementStart(22, "span");
+      \u0275\u0275text(23, "Ankara");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(24, "div", 8);
+      \u0275\u0275element(25, "lucide-icon", 9);
+      \u0275\u0275elementStart(26, "a", 12);
+      \u0275\u0275text(27, "Burakhan \u015Eaml\u0131");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(28, "div", 8);
+      \u0275\u0275element(29, "lucide-icon", 9);
+      \u0275\u0275elementStart(30, "a", 13);
+      \u0275\u0275text(31, "github.com/blitzkrieg0000");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(32, "div", 8);
+      \u0275\u0275element(33, "lucide-icon", 9);
+      \u0275\u0275elementStart(34, "a", 14);
+      \u0275\u0275text(35, "https://blitzkrieg0000.github.io/");
+      \u0275\u0275elementEnd()()()()();
+      \u0275\u0275elementStart(36, "main", 15)(37, "div", 16)(38, "section")(39, "div")(40, "h2", 17);
+      \u0275\u0275text(41, "\u0130\u015E DENEY\u0130M\u0130");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(42, "div", 18)(43, "div", 19);
+      \u0275\u0275element(44, "div", 20);
+      \u0275\u0275elementStart(45, "div", 21)(46, "h3", 22);
+      \u0275\u0275text(47, "Hexaops A.\u015E.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(48, "span", 23);
+      \u0275\u0275text(49, "Teknokent, Kahramanmara\u015F");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(50, "span", 24);
+      \u0275\u0275text(51, "10/2024 - 05/2025");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(52, "div", 25)(53, "div", 26);
+      \u0275\u0275element(54, "div", 27);
+      \u0275\u0275elementStart(55, "div", 28)(56, "h4", 29);
+      \u0275\u0275text(57, "Yapay Zeka M\xFChendisi ve Yaz\u0131l\u0131m Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(58, "ul", 30)(59, "li");
+      \u0275\u0275text(60, "Makine \xC7evirisi (Machine Translation) odakl\u0131 LLM fine-tuning s\xFCre\xE7lerine katk\u0131 sa\u011Flad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(61, "li");
+      \u0275\u0275text(62, "\xDCretim (production) ortamlar\u0131nda Text-to-Speech (TTS), Speech-to-Text (STT) ve voice cloning (ses klonlama) i\u015F ak\u0131\u015Flar\u0131n\u0131n geli\u015Ftirilmesine ve iyile\u015Ftirilmesine m\xFChendislik deste\u011Fi verdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(63, "li");
+      \u0275\u0275text(64, "S\u0131n\u0131rl\u0131 GPU kaynaklar\u0131 \xFCzerinde LLM fine-tuning yap\u0131labilmesini sa\u011Flamak amac\u0131yla Fully Sharded Data Parallel (FSDP) tabanl\u0131 da\u011F\u0131t\u0131k model e\u011Fitim tekniklerini uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(65, "li");
+      \u0275\u0275text(66, "Bellek kullan\u0131m\u0131 (memory footprint), e\u011Fitim s\xFCresi ve toplam hesaplama maliyetlerini azaltarak e\u011Fitim verimlili\u011Fini art\u0131rd\u0131m.");
+      \u0275\u0275elementEnd()()()();
+      \u0275\u0275elementStart(67, "div", 19);
+      \u0275\u0275element(68, "div", 20);
+      \u0275\u0275elementStart(69, "div", 21)(70, "h3", 22);
+      \u0275\u0275text(71, "DGH Arge Yaz\u0131l\u0131m LTD.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(72, "span", 23);
+      \u0275\u0275text(73, "ASB\xDC Teknokent, Ankara");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(74, "span", 24);
+      \u0275\u0275text(75, "08/2021 - 10/2024");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(76, "div", 25)(77, "div", 26);
+      \u0275\u0275element(78, "div", 27);
+      \u0275\u0275elementStart(79, "div", 21)(80, "h4", 29);
+      \u0275\u0275text(81, "Uzaktan Alg\u0131lama (Remote Sensing) & CBS (GIS) Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(82, "ul", 30)(83, "li");
+      \u0275\u0275text(84, " Multispektral ve hiperspektral uzaktan alg\u0131lama verilerini kullanarak uydu g\xF6r\xFCnt\xFCs\xFC analizi ve Co\u011Frafi Bilgi Sistemleri (CBS) tabanl\u0131 i\u015F ak\u0131\u015Flar\u0131 ger\xE7ekle\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(85, "li");
+      \u0275\u0275text(86, " Arazi Kullan\u0131m\u0131 / Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) s\u0131n\u0131fland\u0131rmas\u0131 ve analizi dahil olmak \xFCzere, tar\u0131m odakl\u0131 uzaktan alg\u0131lama projelerinde teknikler uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(87, "li");
+      \u0275\u0275text(88, " Sentinel, Landsat, Google Earth Engine (GEE), ArcGIS Pro ve Copernicus veri setleri gibi uydu platformlar\u0131 ve jeo-uzamsal ara\xE7larla aktif olarak \xE7al\u0131\u015Ft\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(89, "li");
+      \u0275\u0275text(90, " Ger\xE7ek d\xFCnya CBS ve \xE7evresel uygulamalar\u0131n\u0131 desteklemek amac\u0131yla uydu g\xF6r\xFCnt\xFClerinin \xF6n i\u015Fleme (preprocessing), analiz ve yorumlama s\xFCre\xE7lerini y\xFCr\xFCtt\xFCm. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(91, "div", 26);
+      \u0275\u0275element(92, "div", 27);
+      \u0275\u0275elementStart(93, "div", 21)(94, "h4", 29);
+      \u0275\u0275text(95, "Do\u011Fal Dil \u0130\u015Fleme & Transformer Model Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(96, "ul", 31)(97, "li");
+      \u0275\u0275text(98, "Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing - NLP) ve Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision) alanlar\u0131nda Transformer tabanl\u0131 mimariler geli\u015Ftirerek projelere uygun hale getirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(99, "li");
+      \u0275\u0275text(100, "Metin tabanl\u0131 analiz, \xF6zellik temsili (feature representation) ve modern derin \xF6\u011Frenme i\u015F ak\u0131\u015Flar\u0131 i\xE7in Transformer modellerini e\u011Fitimleri yapt\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(101, "li");
+      \u0275\u0275text(102, "Bilgisayarl\u0131 g\xF6r\xFC projelerinde, Transformer tabanl\u0131 yakla\u015F\u0131mlar\u0131 (DETR, VIT) entegre ederek aktif rol ald\u0131m.");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(103, "div", 26);
+      \u0275\u0275element(104, "div", 27);
+      \u0275\u0275elementStart(105, "div", 21)(106, "h3", 29);
+      \u0275\u0275text(107, "Ara\u015Ft\u0131rmac\u0131 & \u0130leri Sistemler");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(108, "ul", 31)(109, "li");
+      \u0275\u0275text(110, "Huawei Atlas 800 sunucular\u0131 \xFCzerinde, NPU acceleration deste\u011Fiyle Docker tabanl\u0131 ortamlarda YOLO tabanl\u0131 mimariler kullanarak hata tespiti (fault detection) i\xE7in deep learning modelleri e\u011Fittim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(111, "li");
+      \u0275\u0275text(112, "Computer Vision tabanl\u0131 altyap\u0131 hata tespit sistemleri i\xE7in sunucu taraf\u0131 AI e\u011Fitim i\u015F ak\u0131\u015Flar\u0131n\u0131 (training workflows) geli\u015Ftirdim ve y\xF6nettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(113, "li");
+      \u0275\u0275text(114, "Yapay zeka sistemlerinin y\xF6netimi ve veri i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla ASP.NET Core kullanarak backend odakl\u0131 web uygulamalar\u0131 tasarlad\u0131m ve hayata ge\xE7irdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(115, "li");
+      \u0275\u0275text(116, "\xC7evresel ve tar\u0131m odakl\u0131 senaryolar i\xE7in uzaktan alg\u0131lama (remote sensing) alan\u0131nda uygulamal\u0131 ara\u015Ft\u0131rmalar y\xFCr\xFCtt\xFCm.");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(117, "div", 26);
+      \u0275\u0275element(118, "div", 27);
+      \u0275\u0275elementStart(119, "div", 21)(120, "h4", 29);
+      \u0275\u0275text(121, "Yapay Zeka ve Bilgisayarl\u0131 G\xF6r\xFC (CV) M\xFChendisi");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(122, "ul", 30)(123, "li");
+      \u0275\u0275text(124, "OpenCV ve deep learning teknikleri kullanarak; OCR, image segmentation, object detection ve multi-object tracking gibi alanlarda AI tabanl\u0131 g\xF6r\xFCnt\xFC i\u015Fleme ve bilgisayarl\u0131 g\xF6r\xFC uygulamalar\u0131 geli\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(125, "li");
+      \u0275\u0275text(126, "Supervised deep learning i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla veri haz\u0131rlama (data preparation), etiketleme (labeling) ve veri art\u0131rma (augmentation) s\xFCre\xE7lerini kapsayan veri setleri olu\u015Fturdum ve y\xF6nettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(127, "li");
+      \u0275\u0275text(128, "GAN ve Transformer tabanl\u0131 g\xF6r\xFCnt\xFC iyile\u015Ftirme tekniklerini; super-resolution ve feature representation learning gibi yakla\u015F\u0131mlar \xFCzerinden uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(129, "li");
+      \u0275\u0275text(130, "Ger\xE7ek zamanl\u0131 (real-time) AI sistemleri tasarlay\u0131p hayata ge\xE7irdim; bu kapsamda kalite kontrol pipeline'lar\u0131, face recognition ve identification platformlar\u0131 ile y\xFCksek gerilim iletim hatlar\u0131nda hata tespiti (fault detection) i\xE7eren altyap\u0131 denetim \xE7\xF6z\xFCmleri geli\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(131, "li");
+      \u0275\u0275text(132, "PyTorch kullanarak derin \xF6\u011Frenme modelleri geli\u015Ftirdim ve bu modelleri NVIDIA Triton Inference Server ve TorchServe \xFCzerinden inference servisleri olarak da\u011F\u0131tt\u0131m.");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(133, "div", 26);
+      \u0275\u0275element(134, "div", 27);
+      \u0275\u0275elementStart(135, "div", 21)(136, "h3", 29);
+      \u0275\u0275text(137, "MLOps ve Backend Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(138, "ul", 31)(139, "li");
+      \u0275\u0275text(140, "Python ve FastAPI kullanarak yapay zeka odakl\u0131 backend servisleri geli\u015Ftirdim; model \xE7\u0131kar\u0131m (inference) s\xFCre\xE7lerini NVIDIA Triton Inference Server \xFCzerinden servis ettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(141, "li");
+      \u0275\u0275text(142, "\xD6l\xE7eklenebilir ve mod\xFCler yaz\u0131l\u0131m sistemlerini desteklemek amac\u0131yla mikroservis tabanl\u0131 mimariler tasarlad\u0131m ve uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(143, "li");
+      \u0275\u0275text(144, "Uygulamalar\u0131 Docker, Kubernetes ve Proxmox kullanarak konteynerle\u015Ftirdim; orkestrasyon ve sanalla\u015Ft\u0131rma s\xFCre\xE7lerini y\xF6nettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(145, "li");
+      \u0275\u0275text(146, "GitHub Actions, GHCR, ArgoCD ve Ansible kullanarak CI/CD pipeline'lar\u0131 olu\u015Fturdum ve da\u011F\u0131t\u0131m (deployment) s\xFCre\xE7lerini otomatikle\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(147, "li");
+      \u0275\u0275text(148, "Kafka, Redis ve RTMP tabanl\u0131 streaming sistemleri ile ger\xE7ek zamanl\u0131 veri i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(149, "li");
+      \u0275\u0275text(150, "Sistem performans\u0131 ve servis s\xFCreklili\u011Fini Prometheus ve Grafana ile izledim ve takip ettim.");
+      \u0275\u0275elementEnd()()()();
+      \u0275\u0275elementStart(151, "div", 19);
+      \u0275\u0275element(152, "div", 20);
+      \u0275\u0275elementStart(153, "div", 21)(154, "h3", 22);
+      \u0275\u0275text(155, "Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - I");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(156, "span", 24);
+      \u0275\u0275text(157, "07/2021 - 08/2021");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(158, "div", 25)(159, "div", 26);
+      \u0275\u0275element(160, "div", 27);
+      \u0275\u0275elementStart(161, "div", 28)(162, "h4", 29);
+      \u0275\u0275text(163, "DGH Arge Yaz\u0131l\u0131m");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(164, "span", 23);
+      \u0275\u0275text(165, "\u0130n\xF6n\xFC Teknokent, Malatya");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(166, "div")(167, "ul", 30)(168, "li");
+      \u0275\u0275text(169, "Python, PyTorch, TensorFlow ve OpenCV kullanarak AI tabanl\u0131 yaz\u0131l\u0131m geli\u015Ftirme s\xFCre\xE7lerinde temel d\xFCzeyde deneyim kazand\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(170, "li");
+      \u0275\u0275text(171, "ASP.NET Core kullan\u0131larak geli\u015Ftirilen backend servislerin olu\u015Fturulmas\u0131na ve Vue.js tabanl\u0131 frontend bile\u015Fenlerin entegrasyonuna destek verdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(172, "li");
+      \u0275\u0275text(173, "Web tabanl\u0131 uygulamalar i\xE7in Socket.IO kullanarak ger\xE7ek zamanl\u0131 ileti\u015Fim (real-time communication) mekanizmalar\u0131n\u0131 inceledim ve uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(174, "li");
+      \u0275\u0275text(175, "K\u0131sa s\xFCreli staj projeleri kapsam\u0131nda ger\xE7ek zamanl\u0131 web entegrasyonu \xE7al\u0131\u015Fmalar\u0131na destek sa\u011Flad\u0131m.");
+      \u0275\u0275elementEnd()()()()();
+      \u0275\u0275elementStart(176, "div", 19);
+      \u0275\u0275element(177, "div", 20);
+      \u0275\u0275elementStart(178, "div", 21)(179, "h3", 22);
+      \u0275\u0275text(180, "Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - II");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(181, "span", 24);
+      \u0275\u0275text(182, "07/2020 - 08/2020");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(183, "div", 25)(184, "div", 26);
+      \u0275\u0275element(185, "div", 27);
+      \u0275\u0275elementStart(186, "div", 28)(187, "h4", 29);
+      \u0275\u0275text(188, "Telehouse \u0130stanbul - Teknotel");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(189, "span", 23);
+      \u0275\u0275text(190, "Kozyata\u011F\u0131, Kad\u0131k\xF6y/\u0130stanbul");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(191, "div")(192, "ul", 30)(193, "li");
+      \u0275\u0275text(194, "Cisco Packet Tracer kullanarak y\xF6nlendirme (routing) ve a\u011F protokollerine y\xF6nelik temel network altyap\u0131 \xE7al\u0131\u015Fmalar\u0131nda g\xF6rev ald\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(195, "li");
+      \u0275\u0275text(196, "HP kurumsal sunucular \xFCzerinde sunucu kurulumu ve yap\u0131land\u0131rma s\xFCre\xE7lerine destek verdim; SAS disk yap\u0131land\u0131rmas\u0131 ve RAID birle\u015Ftirme i\u015Flemlerinde yer ald\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(197, "li");
+      \u0275\u0275text(198, "REST tabanl\u0131 mimariler ve web hosting sistemleri \xFCzerine pratik deneyim kazand\u0131m; WHMCS tabanl\u0131 servis ve m\xFC\u015Fteri y\xF6netim i\u015F ak\u0131\u015Flar\u0131n\u0131 inceledim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(199, "li");
+      \u0275\u0275text(200, "Sunucu, depolama ve ba\u011Flant\u0131 y\xF6netimini kapsayan network ve IT operasyonlar\u0131na destek sa\u011Flad\u0131m.");
+      \u0275\u0275elementEnd()()()()()()()();
+      \u0275\u0275elementStart(201, "section")(202, "h2", 17);
+      \u0275\u0275text(203, "Projeler");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(204, "div", 32)(205, "div", 26);
+      \u0275\u0275element(206, "div", 33);
+      \u0275\u0275elementStart(207, "h3", 34);
+      \u0275\u0275text(208, "LULC Analizi & Uzaktan Alg\u0131lama (Remote Sensing)");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(209, "ul", 35)(210, "li");
+      \u0275\u0275text(211, " Multispektral Sentinel-2 ve Landsat uydu g\xF6r\xFCnt\xFClerini kullanarak Arazi Kullan\u0131m\u0131 ve Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) segmentasyonu ger\xE7ekle\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(212, "li");
+      \u0275\u0275text(213, " ArcGIS Pro ve QGIS kullanarak bile\u015Fik veri setleri (composite datasets) olu\u015Fturdum; arazi \xF6rt\xFCs\xFC s\u0131n\u0131flar\u0131n\u0131n alan da\u011F\u0131l\u0131mlar\u0131n\u0131 hesaplamak i\xE7in co\u011Frafi analizler yapt\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(214, "li");
+      \u0275\u0275text(215, " Google Earth Engine (GEE) API'leri ve Copernicus veri setleri \xFCzerinden, LULC analizine y\xF6nelik \xF6l\xE7eklenebilir veri toplama ve i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(216, "li");
+      \u0275\u0275text(217, " Web tabanl\u0131 jeo-uzamsal protokoller arac\u0131l\u0131\u011F\u0131yla map tile verilerini \xE7ekip i\u015Fleyerek, b\xFCy\xFCk \xF6l\xE7ekli mekansal analiz i\u015F ak\u0131\u015Flar\u0131n\u0131 destekledim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(218, "li");
+      \u0275\u0275text(219, " Radar verileri \xFCzerinden InSAR tabanl\u0131 teknikler kullanarak Say\u0131sal Y\xFCkseklik Modelleri (Digital Elevation Model - DEM) \xFCrettim ve arazi/y\xFCkseklik analizleri ger\xE7ekle\u015Ftirdim. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(220, "div", 26);
+      \u0275\u0275element(221, "div", 33);
+      \u0275\u0275elementStart(222, "h3", 34);
+      \u0275\u0275text(223, "Hata Tespiti Projesi - Y\xFCksek Gerilim \u0130letim Hatlar\u0131");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(224, "ul", 35)(225, "li");
+      \u0275\u0275text(226, " YOLOv11 tabanl\u0131 object detection ve segmentation modelleri kullanarak y\xFCksek gerilim iletim hatlar\u0131 i\xE7in computer vision tabanl\u0131 hata tespit sistemi geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(227, "li");
+      \u0275\u0275text(228, " \u0130zolat\xF6rler (insulators), direkler (poles) ve di\u011Fer yap\u0131sal bile\u015Fenleri kapsayan tespit ve segmentasyon pipeline'lar\u0131 tasarlad\u0131m ve uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(229, "li");
+      \u0275\u0275text(230, " Altyap\u0131 g\xFCvenli\u011Fi ve proaktif bak\u0131m s\xFCre\xE7lerini desteklemek amac\u0131yla, iletim hatlar\u0131 \xFCzerindeki ku\u015F yuvalar\u0131n\u0131n tespiti i\xE7in object detection modelleri geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(231, "li");
+      \u0275\u0275text(232, " Model e\u011Fitimi ve de\u011Ferlendirmesi i\xE7in \xF6zel veri setleri haz\u0131rlad\u0131m; veri etiketleme (annotation) ve kalite kontrol s\xFCre\xE7lerini y\xF6nettim. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(233, "div", 26);
+      \u0275\u0275element(234, "div", 33);
+      \u0275\u0275elementStart(235, "h3", 34);
+      \u0275\u0275text(236, " \xC7oklu Kamera Tabanl\u0131 AI G\xFCvenlik & G\xF6zetim Sistemi ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(237, "ul", 35)(238, "li");
+      \u0275\u0275text(239, " Y\xFCz tespiti, y\xFCz tan\u0131ma, \xE7oklu obje takibi ve ki\u015Fi yeniden-tan\u0131mlama (person re-identification) bile\u015Fenlerini bir araya getirerek kimlik tabanl\u0131 g\xF6zetim senaryolar\u0131 i\xE7in entegre bir bilgisayarl\u0131 g\xF6r\xFC sistemi geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(240, "li");
+      \u0275\u0275text(241, " G\xFCvenlik izleme kabiliyetlerini art\u0131rmak amac\u0131yla maske tespiti(COVID-19), duygu tan\u0131ma ve silah tespiti gibi ek AI mod\xFCllerini sisteme entegre ettim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(242, "li");
+      \u0275\u0275text(243, " Sistemi, birden fazla kamera ak\u0131\u015F\u0131 \xFCzerinde ger\xE7ek zamanl\u0131 video i\u015Fleme ve olay tabanl\u0131 analitik yapabilecek \u015Fekilde tasarlad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(244, "li");
+      \u0275\u0275text(245, " Mikroservis tabanl\u0131 bir backend mimarisi kurgulad\u0131m; AI inference servislerini Docker ve Kubernetes kullanarak \xF6l\xE7eklenebilir ve hataya dayan\u0131kl\u0131 bi\xE7imde da\u011F\u0131tt\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(246, "li");
+      \u0275\u0275text(247, " Da\u011F\u0131t\u0131k sistem bile\u015Fenleri aras\u0131nda video stream y\xF6netimi, inference servisleri ve sistem koordinasyonunu sa\u011Flayan gRPC backend API'leri geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(248, "div", 26);
+      \u0275\u0275element(249, "div", 33);
+      \u0275\u0275elementStart(250, "h3", 34);
+      \u0275\u0275text(251, " Ger\xE7ek Zamanl\u0131 Tenis Performans Analiz Sistemi ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(252, "ul", 35)(253, "li");
+      \u0275\u0275text(254, " ITN (International Tennis Number) performans de\u011Ferlendirmesini desteklemek amac\u0131yla; tenis topu tespiti (ball detection), takibi (tracking) ve sekme noktas\u0131 tahmini (bounce point estimation) yapan ger\xE7ek zamanl\u0131 bir computer vision sistemi geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(255, "li");
+      \u0275\u0275text(256, " Canl\u0131 oyun s\u0131ras\u0131nda vuru\u015F (shot) olaylar\u0131n\u0131 analiz etmek ve oyuncu aksiyonlar\u0131n\u0131 skorlamak i\xE7in oyuncu tespiti ve takip (player detection & tracking) pipeline'lar\u0131 uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(257, "li");
+      \u0275\u0275text(258, " Farkl\u0131 kamera a\xE7\u0131lar\u0131 \xFCzerinden top y\xF6r\xFCngelerini birle\u015Ftirmek amac\u0131yla \xE7oklu kamera kalibrasyonu, hizalama (alignment) ve senkronizasyon mekanizmalar\u0131 tasarlad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(259, "li");
+      \u0275\u0275text(260, " Oyuncu hareketlerini analiz etmek ve performans geli\u015Fimini de\u011Ferlendirmek i\xE7in insan iskelet tahmini (human pose estimation) tekniklerini; v\xFCcut duru\u015Fu (posture) ve hareket paternleri \xFCzerinden uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(261, "li");
+      \u0275\u0275text(262, " Spor performans analiz sistemlerinde ger\xE7ek zamanl\u0131 geri bildirim sa\u011Flamak amac\u0131yla d\xFC\u015F\xFCk gecikmeli (low-latency) i\u015Fleme i\u015F ak\u0131\u015Flar\u0131 olu\u015Fturdum. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(263, "div", 26);
+      \u0275\u0275element(264, "div", 33);
+      \u0275\u0275elementStart(265, "h3", 34);
+      \u0275\u0275text(266, "Olay Raporlama S\xFCre\xE7lerinin Blok Zinciri ile Korunmas\u0131");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(267, "ul", 35)(268, "li");
+      \u0275\u0275text(269, " Dijital adli bili\u015Fim s\xFCre\xE7lerinde veri i\u015Fleme ve raporlama pipeline'lar\u0131n\u0131n de\u011Fi\u015Ftirilemezli\u011Fini (immutability) ve tutarl\u0131l\u0131\u011F\u0131n\u0131 sa\u011Flamak amac\u0131yla blockchain tabanl\u0131 bir sistem tasarlad\u0131m ve geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(270, "li");
+      \u0275\u0275text(271, " Adli analiz i\u015F ak\u0131\u015Flar\u0131 boyunca delil b\xFCt\xFCnl\xFC\u011F\xFCn\xFC (evidence integrity) korumak ve yetkisiz m\xFCdahaleleri \xF6nlemek i\xE7in blockchain mekanizmalar\u0131 uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(272, "li");
+      \u0275\u0275text(273, " G\xFCvenli veri y\xF6netimi ve denetlenebilirlik (auditability) sa\u011Flamak amac\u0131yla sistem bile\u015Fenlerini PHP ve Java kullanarak geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(274, "li");
+      \u0275\u0275text(275, " Adli verilerin i\u015F ak\u0131\u015F\u0131 boyunca tutarl\u0131l\u0131\u011F\u0131n\u0131 do\u011Frulamak i\xE7in hash tabanl\u0131 do\u011Frulama (SHA-256 vb.) mekanizmalar\u0131 entegre ettim. ");
+      \u0275\u0275elementEnd()()()()()();
+      \u0275\u0275elementStart(276, "div", 36)(277, "section")(278, "h2", 17);
+      \u0275\u0275text(279, " TEKN\u0130K BECER\u0130LER ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(280, "div", 37);
+      \u0275\u0275template(281, ResumeTrComponent_div_281_Template, 5, 2, "div", 38);
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(282, "section")(283, "h2", 17);
+      \u0275\u0275text(284, "D\u0130L");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(285, "div", 37)(286, "div")(287, "h3", 39);
+      \u0275\u0275text(288, "\u0130ngilizce - Profesyonel \xC7al\u0131\u015Fma Yetkinli\u011Fi");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(289, "div")(290, "h3", 39);
+      \u0275\u0275text(291, "T\xFCrk\xE7e - Ana Dil");
+      \u0275\u0275elementEnd()()()();
+      \u0275\u0275elementStart(292, "section")(293, "h2", 17);
+      \u0275\u0275text(294, "E\u011E\u0130T\u0130M");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(295, "div")(296, "h3", 40);
+      \u0275\u0275text(297, "F\u0131rat \xDCniversitesi");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(298, "h4", 41);
+      \u0275\u0275text(299, "Adli Bili\u015Fim M\xFChendisli\u011Fi - Lisans");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(300, "p", 42)(301, "strong");
+      \u0275\u0275text(302, "GNO:");
+      \u0275\u0275elementEnd();
+      \u0275\u0275text(303, " 3.73 / 4");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(304, "p", 43);
+      \u0275\u0275text(305, "2017 - 2022");
+      \u0275\u0275elementEnd()()()()()();
+    }
+    if (rf & 2) {
+      \u0275\u0275advance(12);
+      \u0275\u0275property("img", ctx.MailIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.PhoneIcon);
+      \u0275\u0275advance(2);
+      \u0275\u0275property("href", "tel:" + ctx.tel, \u0275\u0275sanitizeUrl);
+      \u0275\u0275advance();
+      \u0275\u0275textInterpolate(ctx.tel);
+      \u0275\u0275advance(2);
+      \u0275\u0275property("img", ctx.MapPinIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.LinkedInIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.GithubIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.GlobeIcon);
+      \u0275\u0275advance(248);
+      \u0275\u0275property("ngForOf", ctx.technicalSkillGroups);
+    }
+  }, dependencies: [LucideAngularModule, LucideAngularComponent, CommonModule, NgForOf], styles: [`
+
+@layer properties;
+@layer theme {
+  [_ngcontent-%COMP%]:root, 
+   [_nghost-%COMP%] {
+    --font-sans:
+      ui-sans-serif,
+      system-ui,
+      sans-serif,
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+      "Noto Color Emoji";
+    --font-mono:
+      ui-monospace,
+      SFMono-Regular,
+      Menlo,
+      Monaco,
+      Consolas,
+      "Liberation Mono",
+      "Courier New",
+      monospace;
+    --color-red-500: oklch(63.7% 0.237 25.331);
+    --color-amber-500: oklch(76.9% 0.188 70.08);
+    --color-emerald-500: oklch(69.6% 0.17 162.48);
+    --color-blue-500: oklch(62.3% 0.214 259.815);
+    --color-purple-400: oklch(71.4% 0.203 305.504);
+    --color-purple-500: oklch(62.7% 0.265 303.9);
+    --color-slate-100: oklch(96.8% 0.007 247.896);
+    --color-slate-200: oklch(92.9% 0.013 255.508);
+    --color-slate-300: oklch(86.9% 0.022 252.894);
+    --color-slate-500: oklch(55.4% 0.046 257.417);
+    --color-slate-600: oklch(44.6% 0.043 257.281);
+    --color-slate-700: oklch(37.2% 0.044 257.287);
+    --color-slate-800: oklch(27.9% 0.041 260.031);
+    --color-slate-900: oklch(20.8% 0.042 265.755);
+    --color-gray-50: oklch(98.5% 0.002 247.839);
+    --color-gray-600: oklch(44.6% 0.03 256.802);
+    --color-gray-900: oklch(21% 0.034 264.665);
+    --color-black: #000;
+    --color-white: #fff;
+    --spacing: 0.25rem;
+    --container-sm: 24rem;
+    --container-md: 28rem;
+    --container-lg: 32rem;
+    --container-2xl: 42rem;
+    --container-3xl: 48rem;
+    --container-4xl: 56rem;
+    --container-6xl: 72rem;
+    --text-xs: 0.75rem;
+    --text-xs--line-height: calc(1 / 0.75);
+    --text-sm: 0.875rem;
+    --text-sm--line-height: calc(1.25 / 0.875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --text-lg: 1.125rem;
+    --text-lg--line-height: calc(1.75 / 1.125);
+    --text-xl: 1.25rem;
+    --text-xl--line-height: calc(1.75 / 1.25);
+    --text-2xl: 1.5rem;
+    --text-2xl--line-height: calc(2 / 1.5);
+    --text-4xl: 2.25rem;
+    --text-4xl--line-height: calc(2.5 / 2.25);
+    --text-5xl: 3rem;
+    --text-5xl--line-height: 1;
+    --text-6xl: 3.75rem;
+    --text-6xl--line-height: 1;
+    --text-7xl: 4.5rem;
+    --text-7xl--line-height: 1;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --font-weight-black: 900;
+    --tracking-tight: -0.025em;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --tracking-widest: 0.1em;
+    --leading-tight: 1.25;
+    --leading-relaxed: 1.625;
+    --radius-2xl: 1rem;
+    --radius-3xl: 1.5rem;
+    --ease-out: cubic-bezier(0, 0, 0.2, 1);
+    --animate-spin: spin 1s linear infinite;
+    --animate-ping: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+    --animate-pulse: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --blur-sm: 8px;
+    --blur-xl: 24px;
+    --blur-2xl: 40px;
+    --aspect-video: 16 / 9;
+    --default-transition-duration: 150ms;
+    --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+  }
+}
+@layer base {
+  *[_ngcontent-%COMP%], 
+   [_ngcontent-%COMP%]::after, 
+   [_ngcontent-%COMP%]::before, 
+   [_ngcontent-%COMP%]::backdrop, 
+   [_ngcontent-%COMP%]::file-selector-button {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0 solid;
+  }
+  html[_ngcontent-%COMP%], 
+   [_nghost-%COMP%] {
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+  hr[_ngcontent-%COMP%] {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+  abbr[_ngcontent-%COMP%]:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+  h1[_ngcontent-%COMP%], 
+   h2[_ngcontent-%COMP%], 
+   h3[_ngcontent-%COMP%], 
+   h4[_ngcontent-%COMP%], 
+   h5[_ngcontent-%COMP%], 
+   h6[_ngcontent-%COMP%] {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+  a[_ngcontent-%COMP%] {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+  b[_ngcontent-%COMP%], 
+   strong[_ngcontent-%COMP%] {
+    font-weight: bolder;
+  }
+  code[_ngcontent-%COMP%], 
+   kbd[_ngcontent-%COMP%], 
+   samp[_ngcontent-%COMP%], 
+   pre[_ngcontent-%COMP%] {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+  small[_ngcontent-%COMP%] {
+    font-size: 80%;
+  }
+  sub[_ngcontent-%COMP%], 
+   sup[_ngcontent-%COMP%] {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+  sub[_ngcontent-%COMP%] {
+    bottom: -0.25em;
+  }
+  sup[_ngcontent-%COMP%] {
+    top: -0.5em;
+  }
+  table[_ngcontent-%COMP%] {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+  [_ngcontent-%COMP%]:-moz-focusring {
+    outline: auto;
+  }
+  progress[_ngcontent-%COMP%] {
+    vertical-align: baseline;
+  }
+  summary[_ngcontent-%COMP%] {
+    display: list-item;
+  }
+  ol[_ngcontent-%COMP%], 
+   ul[_ngcontent-%COMP%], 
+   menu[_ngcontent-%COMP%] {
+    list-style: none;
+  }
+  img[_ngcontent-%COMP%], 
+   svg[_ngcontent-%COMP%], 
+   video[_ngcontent-%COMP%], 
+   canvas[_ngcontent-%COMP%], 
+   audio[_ngcontent-%COMP%], 
+   iframe[_ngcontent-%COMP%], 
+   embed[_ngcontent-%COMP%], 
+   object[_ngcontent-%COMP%] {
+    display: block;
+    vertical-align: middle;
+  }
+  img[_ngcontent-%COMP%], 
+   video[_ngcontent-%COMP%] {
+    max-width: 100%;
+    height: auto;
+  }
+  button[_ngcontent-%COMP%], 
+   input[_ngcontent-%COMP%], 
+   select[_ngcontent-%COMP%], 
+   optgroup[_ngcontent-%COMP%], 
+   textarea[_ngcontent-%COMP%], 
+   [_ngcontent-%COMP%]::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    border-radius: 0;
+    background-color: transparent;
+    opacity: 1;
+  }
+  :where(select[_ngcontent-%COMP%]:is([multiple], [size]))   optgroup[_ngcontent-%COMP%] {
+    font-weight: bolder;
+  }
+  :where(select[_ngcontent-%COMP%]:is([multiple], [size]))   optgroup[_ngcontent-%COMP%]   option[_ngcontent-%COMP%] {
+    padding-inline-start: 20px;
+  }
+  [_ngcontent-%COMP%]::file-selector-button {
+    margin-inline-end: 4px;
+  }
+  [_ngcontent-%COMP%]::placeholder {
+    opacity: 1;
+  }
+  @supports (not (-webkit-appearance: -apple-pay-button)) or (contain-intrinsic-size: 1px) {
+    [_ngcontent-%COMP%]::placeholder {
+      color: currentcolor;
+    }
+    @supports (color: color-mix(in lab, red, red)) {
+      [_ngcontent-%COMP%]::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+  textarea[_ngcontent-%COMP%] {
+    resize: vertical;
+  }
+  [_ngcontent-%COMP%]::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+  [_ngcontent-%COMP%]::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+  [_ngcontent-%COMP%]::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+  [_ngcontent-%COMP%]::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+  [_ngcontent-%COMP%]::-webkit-datetime-edit, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-year-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-month-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-day-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-hour-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-minute-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-second-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-millisecond-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+  [_ngcontent-%COMP%]::-webkit-calendar-picker-indicator {
+    line-height: 1;
+  }
+  [_ngcontent-%COMP%]:-moz-ui-invalid {
+    box-shadow: none;
+  }
+  button[_ngcontent-%COMP%], 
+   input[_ngcontent-%COMP%]:where([type=button], [type=reset], [type=submit]), 
+   [_ngcontent-%COMP%]::file-selector-button {
+    appearance: button;
+  }
+  [_ngcontent-%COMP%]::-webkit-inner-spin-button, 
+   [_ngcontent-%COMP%]::-webkit-outer-spin-button {
+    height: auto;
+  }
+  [hidden][_ngcontent-%COMP%]:where(:not([hidden=until-found])) {
+    display: none !important;
+  }
+}
+.pointer-events-auto[_ngcontent-%COMP%] {
+  pointer-events: auto;
+}
+.pointer-events-none[_ngcontent-%COMP%] {
+  pointer-events: none;
+}
+.visible[_ngcontent-%COMP%] {
+  visibility: visible;
+}
+.absolute[_ngcontent-%COMP%] {
+  position: absolute;
+}
+.fixed[_ngcontent-%COMP%] {
+  position: fixed;
+}
+.relative[_ngcontent-%COMP%] {
+  position: relative;
+}
+.static[_ngcontent-%COMP%] {
+  position: static;
+}
+.sticky[_ngcontent-%COMP%] {
+  position: sticky;
+}
+.inset-0[_ngcontent-%COMP%] {
+  inset: calc(var(--spacing) * 0);
+}
+.-top-\\__ph-0__[_ngcontent-%COMP%] {
+  top: calc(10% * -1);
+}
+.top-0[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 0);
+}
+.top-1[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 1);
+}
+.top-1\\/2[_ngcontent-%COMP%] {
+  top: calc(1/2 * 100%);
+}
+.top-2[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 2);
+}
+.top-24[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 24);
+}
+.-right-\\__ph-0__[_ngcontent-%COMP%] {
+  right: calc(5% * -1);
+}
+.right-0[_ngcontent-%COMP%] {
+  right: calc(var(--spacing) * 0);
+}
+.right-2[_ngcontent-%COMP%] {
+  right: calc(var(--spacing) * 2);
+}
+.right-8[_ngcontent-%COMP%] {
+  right: calc(var(--spacing) * 8);
+}
+.bottom-2[_ngcontent-%COMP%] {
+  bottom: calc(var(--spacing) * 2);
+}
+.bottom-\\__ph-0__[_ngcontent-%COMP%] {
+  bottom: -10%;
+}
+.bottom-\\__ph-0__[_ngcontent-%COMP%] {
+  bottom: 10%;
+}
+.-left-\\__ph-0__[_ngcontent-%COMP%] {
+  left: calc(5% * -1);
+}
+.-left-\\__ph-0__[_ngcontent-%COMP%] {
+  left: calc(23px * -1);
+}
+.-left-\\__ph-0__[_ngcontent-%COMP%] {
+  left: calc(25px * -1);
+}
+.left-2[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 2);
+}
+.left-4[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 4);
+}
+.left-8[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 8);
+}
+.-z-10[_ngcontent-%COMP%] {
+  z-index: calc(10 * -1);
+}
+.z-0[_ngcontent-%COMP%] {
+  z-index: 0;
+}
+.z-10[_ngcontent-%COMP%] {
+  z-index: 10;
+}
+.z-20[_ngcontent-%COMP%] {
+  z-index: 20;
+}
+.z-50[_ngcontent-%COMP%] {
+  z-index: 50;
+}
+.z-\\__ph-0__[_ngcontent-%COMP%] {
+  z-index: 100;
+}
+.col-span-full[_ngcontent-%COMP%] {
+  grid-column: 1 / -1;
+}
+.container[_ngcontent-%COMP%] {
+  width: 100%;
+}
+@media (width >= 40rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 40rem;
+  }
+}
+@media (width >= 48rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 48rem;
+  }
+}
+@media (width >= 64rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 64rem;
+  }
+}
+@media (width >= 80rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 80rem;
+  }
+}
+@media (width >= 96rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 96rem;
+  }
+}
+.mx-4[_ngcontent-%COMP%] {
+  margin-inline: calc(var(--spacing) * 4);
+}
+.mx-auto[_ngcontent-%COMP%] {
+  margin-inline: auto;
+}
+.mt-0[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 0);
+}
+.mt-1[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 1);
+}
+.mt-1\\.5[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 1.5);
+}
+.mt-2[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 2);
+}
+.mt-4[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 4);
+}
+.mt-6[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 6);
+}
+.mt-12[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 12);
+}
+.mt-auto[_ngcontent-%COMP%] {
+  margin-top: auto;
+}
+.mb-0[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 0);
+}
+.mb-1[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 1);
+}
+.mb-2[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 2);
+}
+.mb-3[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 3);
+}
+.mb-4[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 4);
+}
+.mb-6[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 6);
+}
+.mb-8[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 8);
+}
+.mb-10[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 10);
+}
+.mb-12[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 12);
+}
+.mb-16[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 16);
+}
+.ml-0[_ngcontent-%COMP%] {
+  margin-left: calc(var(--spacing) * 0);
+}
+.ml-2[_ngcontent-%COMP%] {
+  margin-left: calc(var(--spacing) * 2);
+}
+.ml-4[_ngcontent-%COMP%] {
+  margin-left: calc(var(--spacing) * 4);
+}
+.line-clamp-3[_ngcontent-%COMP%] {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+.block[_ngcontent-%COMP%] {
+  display: block;
+}
+.flex[_ngcontent-%COMP%] {
+  display: flex;
+}
+.grid[_ngcontent-%COMP%] {
+  display: grid;
+}
+.hidden[_ngcontent-%COMP%] {
+  display: none;
+}
+.inline-flex[_ngcontent-%COMP%] {
+  display: inline-flex;
+}
+.aspect-video[_ngcontent-%COMP%] {
+  aspect-ratio: var(--aspect-video);
+}
+.size-4[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.size-8[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 8);
+  height: calc(var(--spacing) * 8);
+}
+.size-9[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 9);
+  height: calc(var(--spacing) * 9);
+}
+.size-10[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 10);
+  height: calc(var(--spacing) * 10);
+}
+.size-48[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 48);
+  height: calc(var(--spacing) * 48);
+}
+.size-72[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 72);
+  height: calc(var(--spacing) * 72);
+}
+.size-\\__ph-0__[_ngcontent-%COMP%] {
+  width: 500px;
+  height: 500px;
+}
+.size-\\__ph-0__[_ngcontent-%COMP%] {
+  width: 600px;
+  height: 600px;
+}
+.h-1[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 1);
+}
+.h-1\\.5[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 1.5);
+}
+.h-2[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 2);
+}
+.h-3[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 3);
+}
+.h-4[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 4);
+}
+.h-5[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 5);
+}
+.h-6[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 6);
+}
+.h-8[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 8);
+}
+.h-9[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 9);
+}
+.h-10[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 10);
+}
+.h-16[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 16);
+}
+.h-96[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 96);
+}
+.h-\\__ph-0__[_ngcontent-%COMP%] {
+  height: 1px;
+}
+.h-\\__ph-0__[_ngcontent-%COMP%] {
+  height: 500px;
+}
+.h-auto[_ngcontent-%COMP%] {
+  height: auto;
+}
+.h-full[_ngcontent-%COMP%] {
+  height: 100%;
+}
+.h-px[_ngcontent-%COMP%] {
+  height: 1px;
+}
+.max-h-\\__ph-0__[_ngcontent-%COMP%] {
+  max-height: 600px;
+}
+.max-h-screen[_ngcontent-%COMP%] {
+  max-height: 100vh;
+}
+.min-h-8[_ngcontent-%COMP%] {
+  min-height: calc(var(--spacing) * 8);
+}
+.min-h-9[_ngcontent-%COMP%] {
+  min-height: calc(var(--spacing) * 9);
+}
+.min-h-10[_ngcontent-%COMP%] {
+  min-height: calc(var(--spacing) * 10);
+}
+.min-h-\\__ph-0__[_ngcontent-%COMP%] {
+  min-height: 90vh;
+}
+.min-h-screen[_ngcontent-%COMP%] {
+  min-height: 100vh;
+}
+.w-2[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 2);
+}
+.w-3[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 3);
+}
+.w-4[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 4);
+}
+.w-5[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 5);
+}
+.w-6[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 6);
+}
+.w-8[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 8);
+}
+.w-9[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 9);
+}
+.w-10[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 10);
+}
+.w-\\__ph-0__[_ngcontent-%COMP%] {
+  width: 500px;
+}
+.w-auto[_ngcontent-%COMP%] {
+  width: auto;
+}
+.w-full[_ngcontent-%COMP%] {
+  width: 100%;
+}
+.max-w-2xl[_ngcontent-%COMP%] {
+  max-width: var(--container-2xl);
+}
+.max-w-3xl[_ngcontent-%COMP%] {
+  max-width: var(--container-3xl);
+}
+.max-w-4xl[_ngcontent-%COMP%] {
+  max-width: var(--container-4xl);
+}
+.max-w-6xl[_ngcontent-%COMP%] {
+  max-width: var(--container-6xl);
+}
+.max-w-full[_ngcontent-%COMP%] {
+  max-width: 100%;
+}
+.max-w-lg[_ngcontent-%COMP%] {
+  max-width: var(--container-lg);
+}
+.max-w-md[_ngcontent-%COMP%] {
+  max-width: var(--container-md);
+}
+.max-w-none[_ngcontent-%COMP%] {
+  max-width: none;
+}
+.max-w-sm[_ngcontent-%COMP%] {
+  max-width: var(--container-sm);
+}
+.flex-1[_ngcontent-%COMP%] {
+  flex: 1;
+}
+.flex-shrink-0[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+.shrink-0[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+.flex-grow[_ngcontent-%COMP%] {
+  flex-grow: 1;
+}
+.-translate-y-1\\/2[_ngcontent-%COMP%] {
+  --tw-translate-y: calc(calc(1/2 * 100%) * -1);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+}
+.scale-110[_ngcontent-%COMP%] {
+  --tw-scale-x: 110%;
+  --tw-scale-y: 110%;
+  --tw-scale-z: 110%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.scale-x-0[_ngcontent-%COMP%] {
+  --tw-scale-x: 0%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.transform[_ngcontent-%COMP%] {
+  transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
+}
+.animate-ping[_ngcontent-%COMP%] {
+  animation: var(--animate-ping);
+}
+.animate-pulse[_ngcontent-%COMP%] {
+  animation: var(--animate-pulse);
+}
+.animate-spin[_ngcontent-%COMP%] {
+  animation: var(--animate-spin);
+}
+.cursor-pointer[_ngcontent-%COMP%] {
+  cursor: pointer;
+}
+.list-outside[_ngcontent-%COMP%] {
+  list-style-position: outside;
+}
+.list-disc[_ngcontent-%COMP%] {
+  list-style-type: disc;
+}
+.grid-cols-1[_ngcontent-%COMP%] {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+.flex-col[_ngcontent-%COMP%] {
+  flex-direction: column;
+}
+.flex-col-reverse[_ngcontent-%COMP%] {
+  flex-direction: column-reverse;
+}
+.flex-wrap[_ngcontent-%COMP%] {
+  flex-wrap: wrap;
+}
+.items-baseline[_ngcontent-%COMP%] {
+  align-items: baseline;
+}
+.items-center[_ngcontent-%COMP%] {
+  align-items: center;
+}
+.items-end[_ngcontent-%COMP%] {
+  align-items: flex-end;
+}
+.items-start[_ngcontent-%COMP%] {
+  align-items: flex-start;
+}
+.justify-between[_ngcontent-%COMP%] {
+  justify-content: space-between;
+}
+.justify-center[_ngcontent-%COMP%] {
+  justify-content: center;
+}
+.gap-1[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 1);
+}
+.gap-1\\.5[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 1.5);
+}
+.gap-2[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 2);
+}
+.gap-3[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 3);
+}
+.gap-4[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 4);
+}
+.gap-6[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 6);
+}
+.gap-8[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 8);
+}
+.gap-12[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 12);
+}
+.gap-16[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 16);
+}
+:where(.space-y-1[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-1\\.5[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1.5) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1.5) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-2[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-4[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-6[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 6) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 6) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-8[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 8) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 8) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-10[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 10) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 10) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-12[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 12) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 12) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-14[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 14) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 14) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-x-4[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-x-reverse: 0;
+  margin-inline-start: calc(calc(var(--spacing) * 4) * var(--tw-space-x-reverse));
+  margin-inline-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-x-reverse)));
+}
+.overflow-hidden[_ngcontent-%COMP%] {
+  overflow: hidden;
+}
+.rounded[_ngcontent-%COMP%] {
+  border-radius: 0.25rem;
+}
+.rounded-2xl[_ngcontent-%COMP%] {
+  border-radius: var(--radius-2xl);
+}
+.rounded-3xl[_ngcontent-%COMP%] {
+  border-radius: var(--radius-3xl);
+}
+.rounded-full[_ngcontent-%COMP%] {
+  border-radius: calc(infinity * 1px);
+}
+.rounded-lg[_ngcontent-%COMP%] {
+  border-radius: var(--resume-radius);
+}
+.rounded-md[_ngcontent-%COMP%] {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-sm[_ngcontent-%COMP%] {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-xl[_ngcontent-%COMP%] {
+  border-radius: calc(var(--resume-radius) + 4px);
+}
+.rounded-r[_ngcontent-%COMP%] {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+.border[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 1px;
+}
+.border-2[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 2px;
+}
+.border-3[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 3px;
+}
+.border-4[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 4px;
+}
+.border-t[_ngcontent-%COMP%] {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 1px;
+}
+.border-t-2[_ngcontent-%COMP%] {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 2px;
+}
+.border-r-2[_ngcontent-%COMP%] {
+  border-right-style: var(--tw-border-style);
+  border-right-width: 2px;
+}
+.border-b[_ngcontent-%COMP%] {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 1px;
+}
+.border-b-2[_ngcontent-%COMP%] {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 2px;
+}
+.border-l-2[_ngcontent-%COMP%] {
+  border-left-style: var(--tw-border-style);
+  border-left-width: 2px;
+}
+.\\__ph-0__[_ngcontent-%COMP%] {
+  border-color: var(--badge-outline);
+}
+.\\__ph-0__[_ngcontent-%COMP%] {
+  border-color: var(--button-outline);
+}
+.border-amber-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-amber-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-amber-500) 20%, transparent);
+  }
+}
+.border-blue-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-blue-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-blue-500) 20%, transparent);
+  }
+}
+.border-border[_ngcontent-%COMP%] {
+  border-color: hsl(var(--border));
+}
+.border-border\\/40[_ngcontent-%COMP%] {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/40[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--border)) 40%, transparent);
+  }
+}
+.border-border\\/50[_ngcontent-%COMP%] {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/50[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--border)) 50%, transparent);
+  }
+}
+.border-card-border[_ngcontent-%COMP%] {
+  border-color: hsl(var(--card-border));
+}
+.border-destructive[_ngcontent-%COMP%] {
+  border-color: hsl(var(--destructive));
+}
+.border-destructive-border[_ngcontent-%COMP%] {
+  border-color: var(--destructive-border);
+}
+.border-emerald-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-emerald-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-emerald-500) 20%, transparent);
+  }
+}
+.border-primary-border[_ngcontent-%COMP%] {
+  border-color: var(--primary-border);
+}
+.border-primary\\/20[_ngcontent-%COMP%] {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+  }
+}
+.border-primary\\/30[_ngcontent-%COMP%] {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/30[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.border-primary\\/50[_ngcontent-%COMP%] {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/50[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.border-purple-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-purple-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-purple-500) 20%, transparent);
+  }
+}
+.border-resume-gold\\/30[_ngcontent-%COMP%] {
+  border-color: color-mix(in oklab, rgba(207, 170, 110, 1) 30%, transparent);
+}
+.border-secondary-border[_ngcontent-%COMP%] {
+  border-color: var(--secondary-border);
+}
+.border-slate-200[_ngcontent-%COMP%] {
+  border-color: var(--color-slate-200);
+}
+.border-slate-300[_ngcontent-%COMP%] {
+  border-color: var(--color-slate-300);
+}
+.border-transparent[_ngcontent-%COMP%] {
+  border-color: transparent;
+}
+.border-white[_ngcontent-%COMP%] {
+  border-color: var(--color-white);
+}
+.border-white\\/10[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/10[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.border-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, #fff 15%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-white) 15%, transparent);
+  }
+}
+.bg-accent[_ngcontent-%COMP%] {
+  background-color: hsl(var(--accent));
+}
+.bg-accent\\/5[_ngcontent-%COMP%] {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 5%, transparent);
+  }
+}
+.bg-accent\\/15[_ngcontent-%COMP%] {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/15[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 15%, transparent);
+  }
+}
+.bg-amber-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-amber-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-amber-500) 5%, transparent);
+  }
+}
+.bg-background[_ngcontent-%COMP%] {
+  background-color: hsl(var(--background));
+}
+.bg-background\\/50[_ngcontent-%COMP%] {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/50[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--background)) 50%, transparent);
+  }
+}
+.bg-background\\/80[_ngcontent-%COMP%] {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/80[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--background)) 80%, transparent);
+  }
+}
+.bg-black[_ngcontent-%COMP%] {
+  background-color: var(--color-black);
+}
+.bg-black\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #000 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-black\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-black) 5%, transparent);
+  }
+}
+.bg-blue-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-blue-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-blue-500) 5%, transparent);
+  }
+}
+.bg-border[_ngcontent-%COMP%] {
+  background-color: hsl(var(--border));
+}
+.bg-card[_ngcontent-%COMP%] {
+  background-color: hsl(var(--card));
+}
+.bg-current[_ngcontent-%COMP%] {
+  background-color: currentcolor;
+}
+.bg-destructive[_ngcontent-%COMP%] {
+  background-color: hsl(var(--destructive));
+}
+.bg-emerald-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-emerald-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-emerald-500) 5%, transparent);
+  }
+}
+.bg-foreground[_ngcontent-%COMP%] {
+  background-color: hsl(var(--foreground));
+}
+.bg-gray-50[_ngcontent-%COMP%] {
+  background-color: var(--color-gray-50);
+}
+.bg-muted[_ngcontent-%COMP%] {
+  background-color: hsl(var(--muted));
+}
+.bg-primary[_ngcontent-%COMP%] {
+  background-color: hsl(var(--primary));
+}
+.bg-primary\\/5[_ngcontent-%COMP%] {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+  }
+}
+.bg-primary\\/10[_ngcontent-%COMP%] {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 10%, transparent);
+  }
+}
+.bg-purple-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-purple-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-purple-500) 5%, transparent);
+  }
+}
+.bg-resume-gold[_ngcontent-%COMP%] {
+  background-color: rgba(207, 170, 110, 1);
+}
+.bg-resume-teal[_ngcontent-%COMP%] {
+  background-color: var(--resume-teal);
+}
+.bg-resume-teal\\/10[_ngcontent-%COMP%] {
+  background-color: var(--resume-teal);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-resume-teal\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--resume-teal) 10%, transparent);
+  }
+}
+.bg-secondary[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+.bg-secondary\\/10[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 10%, transparent);
+  }
+}
+.bg-secondary\\/20[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/20[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 20%, transparent);
+  }
+}
+.bg-secondary\\/30[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/30[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 30%, transparent);
+  }
+}
+.bg-secondary\\/50[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/50[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 50%, transparent);
+  }
+}
+.bg-slate-100[_ngcontent-%COMP%] {
+  background-color: var(--color-slate-100);
+}
+.bg-transparent[_ngcontent-%COMP%] {
+  background-color: transparent;
+}
+.bg-white[_ngcontent-%COMP%] {
+  background-color: var(--color-white);
+}
+.bg-white\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+.bg-white\\/10[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.bg-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #fff 8%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-white) 8%, transparent);
+  }
+}
+.bg-gradient-to-br[_ngcontent-%COMP%] {
+  --tw-gradient-position: to bottom right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-r[_ngcontent-%COMP%] {
+  --tw-gradient-position: to right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-t[_ngcontent-%COMP%] {
+  --tw-gradient-position: to top in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.from-background[_ngcontent-%COMP%] {
+  --tw-gradient-from: hsl(var(--background));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary[_ngcontent-%COMP%] {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary\\/30[_ngcontent-%COMP%] {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .from-primary\\/30[_ngcontent-%COMP%] {
+    --tw-gradient-from: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.via-purple-400[_ngcontent-%COMP%] {
+  --tw-gradient-via: var(--color-purple-400);
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.via-transparent[_ngcontent-%COMP%] {
+  --tw-gradient-via: transparent;
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.to-accent[_ngcontent-%COMP%] {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.to-accent\\/30[_ngcontent-%COMP%] {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .to-accent\\/30[_ngcontent-%COMP%] {
+    --tw-gradient-to: color-mix(in oklab, hsl(var(--accent)) 30%, transparent);
+  }
+}
+.to-transparent[_ngcontent-%COMP%] {
+  --tw-gradient-to: transparent;
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.bg-clip-text[_ngcontent-%COMP%] {
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.object-contain[_ngcontent-%COMP%] {
+  object-fit: contain;
+}
+.object-cover[_ngcontent-%COMP%] {
+  object-fit: cover;
+}
+.p-1[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 1);
+}
+.p-2[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 2);
+}
+.p-3[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 3);
+}
+.p-4[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 4);
+}
+.p-6[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 6);
+}
+.p-8[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 8);
+}
+.px-2[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 2);
+}
+.px-2\\.5[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.px-3[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.px-4[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.px-6[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 6);
+}
+.px-8[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 8);
+}
+.py-0\\.5[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 0.5);
+}
+.py-1[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 1);
+}
+.py-2[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 2);
+}
+.py-3[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 3);
+}
+.py-4[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 4);
+}
+.py-6[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 6);
+}
+.py-10[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 10);
+}
+.py-12[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 12);
+}
+.py-16[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 16);
+}
+.py-20[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 20);
+}
+.py-24[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 24);
+}
+.pt-0[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 0);
+}
+.pt-2[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 2);
+}
+.pt-6[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 6);
+}
+.pt-8[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 8);
+}
+.pt-10[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 10);
+}
+.pr-8[_ngcontent-%COMP%] {
+  padding-right: calc(var(--spacing) * 8);
+}
+.pb-2[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 2);
+}
+.pb-12[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 12);
+}
+.pb-20[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 20);
+}
+.pb-24[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 24);
+}
+.pl-4[_ngcontent-%COMP%] {
+  padding-left: calc(var(--spacing) * 4);
+}
+.pl-12[_ngcontent-%COMP%] {
+  padding-left: calc(var(--spacing) * 12);
+}
+.text-center[_ngcontent-%COMP%] {
+  text-align: center;
+}
+.font-mono[_ngcontent-%COMP%] {
+  font-family: var(--font-mono);
+}
+.font-sans[_ngcontent-%COMP%] {
+  font-family: var(--font-sans);
+}
+.text-2xl[_ngcontent-%COMP%] {
+  font-size: var(--text-2xl);
+  line-height: var(--tw-leading, var(--text-2xl--line-height));
+}
+.text-4xl[_ngcontent-%COMP%] {
+  font-size: var(--text-4xl);
+  line-height: var(--tw-leading, var(--text-4xl--line-height));
+}
+.text-5xl[_ngcontent-%COMP%] {
+  font-size: var(--text-5xl);
+  line-height: var(--tw-leading, var(--text-5xl--line-height));
+}
+.text-base[_ngcontent-%COMP%] {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.text-lg[_ngcontent-%COMP%] {
+  font-size: var(--text-lg);
+  line-height: var(--tw-leading, var(--text-lg--line-height));
+}
+.text-sm[_ngcontent-%COMP%] {
+  font-size: var(--text-sm);
+  line-height: var(--tw-leading, var(--text-sm--line-height));
+}
+.text-xl[_ngcontent-%COMP%] {
+  font-size: var(--text-xl);
+  line-height: var(--tw-leading, var(--text-xl--line-height));
+}
+.text-xs[_ngcontent-%COMP%] {
+  font-size: var(--text-xs);
+  line-height: var(--tw-leading, var(--text-xs--line-height));
+}
+.text-\\__ph-0__[_ngcontent-%COMP%] {
+  font-size: 11px;
+}
+.leading-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-leading: 1.1;
+  line-height: 1.1;
+}
+.leading-none[_ngcontent-%COMP%] {
+  --tw-leading: 1;
+  line-height: 1;
+}
+.leading-relaxed[_ngcontent-%COMP%] {
+  --tw-leading: var(--leading-relaxed);
+  line-height: var(--leading-relaxed);
+}
+.leading-tight[_ngcontent-%COMP%] {
+  --tw-leading: var(--leading-tight);
+  line-height: var(--leading-tight);
+}
+.font-black[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-black);
+  font-weight: var(--font-weight-black);
+}
+.font-bold[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-bold);
+  font-weight: var(--font-weight-bold);
+}
+.font-light[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-light);
+  font-weight: var(--font-weight-light);
+}
+.font-medium[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-medium);
+  font-weight: var(--font-weight-medium);
+}
+.font-normal[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-normal);
+  font-weight: var(--font-weight-normal);
+}
+.font-semibold[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-semibold);
+  font-weight: var(--font-weight-semibold);
+}
+.tracking-tight[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-tight);
+  letter-spacing: var(--tracking-tight);
+}
+.tracking-wide[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-wide);
+  letter-spacing: var(--tracking-wide);
+}
+.tracking-wider[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-wider);
+  letter-spacing: var(--tracking-wider);
+}
+.tracking-widest[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-widest);
+  letter-spacing: var(--tracking-widest);
+}
+.whitespace-nowrap[_ngcontent-%COMP%] {
+  white-space: nowrap;
+}
+.text-amber-500[_ngcontent-%COMP%] {
+  color: var(--color-amber-500);
+}
+.text-background[_ngcontent-%COMP%] {
+  color: hsl(var(--background));
+}
+.text-blue-500[_ngcontent-%COMP%] {
+  color: var(--color-blue-500);
+}
+.text-card-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--card-foreground));
+}
+.text-destructive-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--destructive-foreground));
+}
+.text-emerald-500[_ngcontent-%COMP%] {
+  color: var(--color-emerald-500);
+}
+.text-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--foreground));
+}
+.text-gray-600[_ngcontent-%COMP%] {
+  color: var(--color-gray-600);
+}
+.text-gray-900[_ngcontent-%COMP%] {
+  color: var(--color-gray-900);
+}
+.text-muted-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--muted-foreground));
+}
+.text-primary[_ngcontent-%COMP%] {
+  color: hsl(var(--primary));
+}
+.text-primary-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--primary-foreground));
+}
+.text-purple-500[_ngcontent-%COMP%] {
+  color: var(--color-purple-500);
+}
+.text-red-500[_ngcontent-%COMP%] {
+  color: var(--color-red-500);
+}
+.text-resume-gold[_ngcontent-%COMP%] {
+  color: rgba(207, 170, 110, 1);
+}
+.text-resume-teal[_ngcontent-%COMP%] {
+  color: var(--resume-teal);
+}
+.text-resume-teal-dark[_ngcontent-%COMP%] {
+  color: rgba(58, 111, 122, 1);
+}
+.text-resume-teal-light[_ngcontent-%COMP%] {
+  color: rgba(142, 195, 204, 1);
+}
+.text-secondary-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--secondary-foreground));
+}
+.text-slate-500[_ngcontent-%COMP%] {
+  color: var(--color-slate-500);
+}
+.text-slate-600[_ngcontent-%COMP%] {
+  color: var(--color-slate-600);
+}
+.text-slate-700[_ngcontent-%COMP%] {
+  color: var(--color-slate-700);
+}
+.text-slate-800[_ngcontent-%COMP%] {
+  color: var(--color-slate-800);
+}
+.text-slate-900[_ngcontent-%COMP%] {
+  color: var(--color-slate-900);
+}
+.text-transparent[_ngcontent-%COMP%] {
+  color: transparent;
+}
+.text-white[_ngcontent-%COMP%] {
+  color: var(--color-white);
+}
+.uppercase[_ngcontent-%COMP%] {
+  text-transform: uppercase;
+}
+.italic[_ngcontent-%COMP%] {
+  font-style: italic;
+}
+.underline-offset-4[_ngcontent-%COMP%] {
+  text-underline-offset: 4px;
+}
+.opacity-0[_ngcontent-%COMP%] {
+  opacity: 0%;
+}
+.opacity-10[_ngcontent-%COMP%] {
+  opacity: 10%;
+}
+.opacity-15[_ngcontent-%COMP%] {
+  opacity: 15%;
+}
+.opacity-20[_ngcontent-%COMP%] {
+  opacity: 20%;
+}
+.opacity-60[_ngcontent-%COMP%] {
+  opacity: 60%;
+}
+.opacity-70[_ngcontent-%COMP%] {
+  opacity: 70%;
+}
+.opacity-75[_ngcontent-%COMP%] {
+  opacity: 75%;
+}
+.opacity-80[_ngcontent-%COMP%] {
+  opacity: 80%;
+}
+.opacity-90[_ngcontent-%COMP%] {
+  opacity: 90%;
+}
+.shadow-2xl[_ngcontent-%COMP%] {
+  --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0 0 0 / 0.25));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-shadow: 0 8px 32px 0 var(--tw-shadow-color, rgba(0,0,0,0.37));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-shadow: 0 10px 20px -10px var(--tw-shadow-color, rgba(var(--primary),0.5));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-lg[_ngcontent-%COMP%] {
+  --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-sm[_ngcontent-%COMP%] {
+  --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-xs[_ngcontent-%COMP%] {
+  --tw-shadow: 0 1px 2px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.05));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.outline[_ngcontent-%COMP%] {
+  outline-style: var(--tw-outline-style);
+  outline-width: 1px;
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(90px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(100px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(120px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(150px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-xl[_ngcontent-%COMP%] {
+  --tw-blur: blur(var(--blur-xl));
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.backdrop-blur-2xl[_ngcontent-%COMP%] {
+  --tw-backdrop-blur: blur(var(--blur-2xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-sm[_ngcontent-%COMP%] {
+  --tw-backdrop-blur: blur(var(--blur-sm));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-xl[_ngcontent-%COMP%] {
+  --tw-backdrop-blur: blur(var(--blur-xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.transition-all[_ngcontent-%COMP%] {
+  transition-property: all;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-colors[_ngcontent-%COMP%] {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-opacity[_ngcontent-%COMP%] {
+  transition-property: opacity;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-transform[_ngcontent-%COMP%] {
+  transition-property:
+    transform,
+    translate,
+    scale,
+    rotate;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.duration-300[_ngcontent-%COMP%] {
+  --tw-duration: 300ms;
+  transition-duration: 300ms;
+}
+.duration-500[_ngcontent-%COMP%] {
+  --tw-duration: 500ms;
+  transition-duration: 500ms;
+}
+.duration-650[_ngcontent-%COMP%] {
+  --tw-duration: 650ms;
+  transition-duration: 650ms;
+}
+.duration-700[_ngcontent-%COMP%] {
+  --tw-duration: 700ms;
+  transition-duration: 700ms;
+}
+.duration-1000[_ngcontent-%COMP%] {
+  --tw-duration: 1000ms;
+  transition-duration: 1000ms;
+}
+.ease-out[_ngcontent-%COMP%] {
+  --tw-ease: var(--ease-out);
+  transition-timing-function: var(--ease-out);
+}
+.outline-none[_ngcontent-%COMP%] {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:translate-x-2[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 2);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-105[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-scale-x: 105%;
+    --tw-scale-y: 105%;
+    --tw-scale-z: 105%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-110[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-scale-x: 110%;
+    --tw-scale-y: 110%;
+    --tw-scale-z: 110%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-x-100[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-scale-x: 100%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:-rotate-12[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:bg-primary\\/20[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .group-hover\\:bg-primary\\/20[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:text-primary[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-20[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    opacity: 20%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-100[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    opacity: 100%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-\\__ph-0__[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    opacity: 0.03;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\/link\\:translate-x-1[_ngcontent-%COMP%]:is(:where(.group\\/link):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]   *[_ngcontent-%COMP%]::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]   *[_ngcontent-%COMP%]::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.last\\:border-0[_ngcontent-%COMP%]:last-child {
+  border-style: var(--tw-border-style);
+  border-width: 0px;
+}
+@media (hover: hover) {
+  .hover\\:-translate-y-1[_ngcontent-%COMP%]:hover {
+    --tw-translate-y: calc(var(--spacing) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/50[_ngcontent-%COMP%]:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/50[_ngcontent-%COMP%]:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/60[_ngcontent-%COMP%]:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/60[_ngcontent-%COMP%]:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 60%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-accent[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--accent));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-destructive\\/90[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--destructive));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-destructive\\/90[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--destructive)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/5[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/5[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/20[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/20[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/90[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/90[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--secondary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--secondary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-white\\/\\__ph-0__[_ngcontent-%COMP%]:hover {
+    background-color: color-mix(in srgb, #fff 12%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-white\\/\\__ph-0__[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, var(--color-white) 12%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-accent-foreground[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--accent-foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-foreground[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary\\/80[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-primary\\/80[_ngcontent-%COMP%]:hover {
+      color: color-mix(in oklab, hsl(var(--primary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-white\\/80[_ngcontent-%COMP%]:hover {
+    color: color-mix(in srgb, #fff 80%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-white\\/80[_ngcontent-%COMP%]:hover {
+      color: color-mix(in oklab, var(--color-white) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:underline[_ngcontent-%COMP%]:hover {
+    text-decoration-line: underline;
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\__ph-0__[_ngcontent-%COMP%]:hover {
+    --tw-shadow: 0 20px 30px -10px var(--tw-shadow-color, rgba(var(--primary),0.6));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\[0_20px_40px_rgba\\(0\\,0\\,0\\,0\\.5\\)\\[_ngcontent-%COMP%], 0_0_20px_rgba\\(var\\(--primary\\)\\,0\\.1\\)\\][_ngcontent-%COMP%]:hover {
+    --tw-shadow: 0 20px 40px var(--tw-shadow-color, rgba(0,0,0,0.5)), 0 0 20px var(--tw-shadow-color, rgba(var(--primary),0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-lg[_ngcontent-%COMP%]:hover {
+    --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+.focus\\:border-primary\\/50[_ngcontent-%COMP%]:focus {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus\\:border-primary\\/50[_ngcontent-%COMP%]:focus {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.focus\\:ring-2[_ngcontent-%COMP%]:focus {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus\\:ring-ring[_ngcontent-%COMP%]:focus {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus\\:ring-offset-2[_ngcontent-%COMP%]:focus {
+  --tw-ring-offset-width: 2px;
+  --tw-ring-offset-shadow: var(--tw-ring-inset,) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+}
+.focus\\:outline-none[_ngcontent-%COMP%]:focus {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.focus-visible\\:border-ring[_ngcontent-%COMP%]:focus-visible {
+  border-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-1[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-\\__ph-0__[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-destructive\\/20[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-destructive\\/20[_ngcontent-%COMP%]:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+.focus-visible\\:ring-ring[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-ring\\/50[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-ring\\/50[_ngcontent-%COMP%]:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--ring)) 50%, transparent);
+  }
+}
+.focus-visible\\:outline-none[_ngcontent-%COMP%]:focus-visible {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.active\\:scale-95[_ngcontent-%COMP%]:active {
+  --tw-scale-x: 95%;
+  --tw-scale-y: 95%;
+  --tw-scale-z: 95%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.active\\:shadow-none[_ngcontent-%COMP%]:active {
+  --tw-shadow: 0 0 #0000;
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.disabled\\:pointer-events-none[_ngcontent-%COMP%]:disabled {
+  pointer-events: none;
+}
+.disabled\\:opacity-50[_ngcontent-%COMP%]:disabled {
+  opacity: 50%;
+}
+.has-\\__ph-0__\\:px-2\\.5[_ngcontent-%COMP%]:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.has-\\__ph-0__\\:px-3[_ngcontent-%COMP%]:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.has-\\__ph-0__\\:px-4[_ngcontent-%COMP%]:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.aria-invalid\\:border-destructive[aria-invalid=true][_ngcontent-%COMP%] {
+  border-color: hsl(var(--destructive));
+}
+.aria-invalid\\:ring-destructive\\/20[aria-invalid=true][_ngcontent-%COMP%] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .aria-invalid\\:ring-destructive\\/20[aria-invalid=true][_ngcontent-%COMP%] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:top-auto[_ngcontent-%COMP%] {
+    top: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:bottom-0[_ngcontent-%COMP%] {
+    bottom: calc(var(--spacing) * 0);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:w-auto[_ngcontent-%COMP%] {
+    width: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:grid-cols-2[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-col[_ngcontent-%COMP%] {
+    flex-direction: column;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-row[_ngcontent-%COMP%] {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-1[_ngcontent-%COMP%] {
+    grid-column: span 1 / span 1;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-2[_ngcontent-%COMP%] {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-3[_ngcontent-%COMP%] {
+    grid-column: span 3 / span 3;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-5[_ngcontent-%COMP%] {
+    grid-column: span 5 / span 5;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-7[_ngcontent-%COMP%] {
+    grid-column: span 7 / span 7;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex[_ngcontent-%COMP%] {
+    display: flex;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:hidden[_ngcontent-%COMP%] {
+    display: none;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:max-w-\\__ph-0__[_ngcontent-%COMP%] {
+    max-width: 420px;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-2[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-4[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-12[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex-row[_ngcontent-%COMP%] {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-12[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 12);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-20[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-24[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-2xl[_ngcontent-%COMP%] {
+    font-size: var(--text-2xl);
+    line-height: var(--tw-leading, var(--text-2xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-5xl[_ngcontent-%COMP%] {
+    font-size: var(--text-5xl);
+    line-height: var(--tw-leading, var(--text-5xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-6xl[_ngcontent-%COMP%] {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-base[_ngcontent-%COMP%] {
+    font-size: var(--text-base);
+    line-height: var(--tw-leading, var(--text-base--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:sticky[_ngcontent-%COMP%] {
+    position: sticky;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:top-24[_ngcontent-%COMP%] {
+    top: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-2[_ngcontent-%COMP%] {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-4[_ngcontent-%COMP%] {
+    grid-column: span 4 / span 4;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-8[_ngcontent-%COMP%] {
+    grid-column: span 8 / span 8;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:block[_ngcontent-%COMP%] {
+    display: block;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex[_ngcontent-%COMP%] {
+    display: flex;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-1\\/3[_ngcontent-%COMP%] {
+    width: calc(1/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-2\\/3[_ngcontent-%COMP%] {
+    width: calc(2/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-2[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-3[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-4[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-12[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex-row[_ngcontent-%COMP%] {
+    flex-direction: row;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:py-20[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-6xl[_ngcontent-%COMP%] {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-7xl[_ngcontent-%COMP%] {
+    font-size: var(--text-7xl);
+    line-height: var(--tw-leading, var(--text-7xl--line-height));
+  }
+}
+.dark\\:border-input[_ngcontent-%COMP%]:is(.dark *) {
+  border-color: hsl(var(--input));
+}
+.dark\\:bg-destructive\\/60[_ngcontent-%COMP%]:is(.dark *) {
+  background-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-destructive\\/60[_ngcontent-%COMP%]:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--destructive)) 60%, transparent);
+  }
+}
+.dark\\:bg-input\\/30[_ngcontent-%COMP%]:is(.dark *) {
+  background-color: hsl(var(--input));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-input\\/30[_ngcontent-%COMP%]:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--input)) 30%, transparent);
+  }
+}
+.dark\\:bg-white\\/5[_ngcontent-%COMP%]:is(.dark *) {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-white\\/5[_ngcontent-%COMP%]:is(.dark *) {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-accent\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+    background-color: hsl(var(--accent));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-accent\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--accent)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-input\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+    background-color: hsl(var(--input));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-input\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--input)) 50%, transparent);
+    }
+  }
+}
+.dark\\:focus-visible\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *):focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:focus-visible\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *):focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+.dark\\:aria-invalid\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *)[aria-invalid=true] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:aria-invalid\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *)[aria-invalid=true] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+@media print {
+  .print\\:inline[_ngcontent-%COMP%] {
+    display: inline;
+  }
+}
+@media print {
+  .print\\:border-none[_ngcontent-%COMP%] {
+    --tw-border-style: none;
+    border-style: none;
+  }
+}
+@media print {
+  .print\\:bg-none[_ngcontent-%COMP%] {
+    background-image: none;
+  }
+}
+@media print {
+  .print\\:px-0[_ngcontent-%COMP%] {
+    padding-inline: calc(var(--spacing) * 0);
+  }
+}
+@media print {
+  .print\\:text-sm[_ngcontent-%COMP%] {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+}
+@media print {
+  .print\\:after\\:content-\\[\\'\\[_ngcontent-%COMP%], _\\'\\][_ngcontent-%COMP%]::after {
+    --tw-content: ", ";
+    content: var(--tw-content);
+  }
+}
+@media print {
+  .print\\:last\\:after\\:content-\\__ph-0__[_ngcontent-%COMP%]:last-child::after {
+    --tw-content: "";
+    content: var(--tw-content);
+  }
+}
+.\\__ph-0__\\:pointer-events-none[_ngcontent-%COMP%]   ng-icon[_ngcontent-%COMP%] {
+  pointer-events: none;
+}
+.\\__ph-0__\\:shrink-0[_ngcontent-%COMP%]   ng-icon[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+.\\__ph-0__\\)\\]\\:text-base[_ngcontent-%COMP%]   ng-icon[_ngcontent-%COMP%]:not([class*=text-]) {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.\\__ph-0__\\:pointer-events-none[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {
+  pointer-events: none;
+}
+.\\__ph-0__\\:size-4[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.\\__ph-0__\\:shrink-0[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+@layer theme, base, components, utilities;
+@layer base {
+  .root[_ngcontent-%COMP%] {
+    --button-outline: rgba(0, 0, 0, .10);
+    --badge-outline: rgba(0, 0, 0, .05);
+    --opaque-button-border-intensity: -8;
+    --elevate-1: rgba(0, 0, 0, .03);
+    --elevate-2: rgba(0, 0, 0, .08);
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+    --my-radius: 10px;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --sidebar: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+    --font-sans:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-serif:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-mono:
+      "Courier New",
+      Courier,
+      monospace;
+    --tracking-normal: 0em;
+    --spacing: 0.25rem;
+    --sidebar-primary-border: hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --sidebar-accent-border: hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --primary-border: hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --secondary-border: hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --muted-border: hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --accent-border: hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --destructive-border: hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --cursor-outline-color: oklch(68.762% 0.30745 333.944);
+  }
+  .dark[_ngcontent-%COMP%] {
+    --button-outline: rgba(255, 255, 255, .10);
+    --badge-outline: rgba(255, 255, 255, .05);
+    --opaque-button-border-intensity: 9;
+    --elevate-1: rgba(255, 255, 255, .04);
+    --elevate-2: rgba(255, 255, 255, .09);
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+  *[_ngcontent-%COMP%] {
+    border-color: hsl(var(--border));
+  }
+  body[_ngcontent-%COMP%] {
+    background-color: hsl(var(--background));
+    font-family: var(--font-sans);
+    color: hsl(var(--foreground));
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  *[_ngcontent-%COMP%] {
+    font-family:
+      Arial,
+      Helvetica,
+      sans-serif !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    box-sizing: border-box !important;
+  }
+}
+@layer utilities {
+  input[type=search][_ngcontent-%COMP%]::-webkit-search-cancel-button {
+    display: none;
+  }
+  [contenteditable][data-placeholder][_ngcontent-%COMP%]:empty::before {
+    content: attr(data-placeholder);
+    color: hsl(var(--muted-foreground));
+    pointer-events: none;
+  }
+}
+@property --tw-translate-x { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-y { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-z { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-scale-x { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-y { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-z { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-rotate-x { syntax: "*"; inherits: false; }
+@property --tw-rotate-y { syntax: "*"; inherits: false; }
+@property --tw-rotate-z { syntax: "*"; inherits: false; }
+@property --tw-skew-x { syntax: "*"; inherits: false; }
+@property --tw-skew-y { syntax: "*"; inherits: false; }
+@property --tw-space-y-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-space-x-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-border-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-gradient-position { syntax: "*"; inherits: false; }
+@property --tw-gradient-from { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-via { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-to { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-via-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-from-position { syntax: "<length-percentage>"; inherits: false; initial-value: 0%; }
+@property --tw-gradient-via-position { syntax: "<length-percentage>"; inherits: false; initial-value: 50%; }
+@property --tw-gradient-to-position { syntax: "<length-percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-leading { syntax: "*"; inherits: false; }
+@property --tw-font-weight { syntax: "*"; inherits: false; }
+@property --tw-tracking { syntax: "*"; inherits: false; }
+@property --tw-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-inset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-inset-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-ring-color { syntax: "*"; inherits: false; }
+@property --tw-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-ring-color { syntax: "*"; inherits: false; }
+@property --tw-inset-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-ring-inset { syntax: "*"; inherits: false; }
+@property --tw-ring-offset-width { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --tw-ring-offset-color { syntax: "*"; inherits: false; initial-value: #fff; }
+@property --tw-ring-offset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-outline-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-blur { syntax: "*"; inherits: false; }
+@property --tw-brightness { syntax: "*"; inherits: false; }
+@property --tw-contrast { syntax: "*"; inherits: false; }
+@property --tw-grayscale { syntax: "*"; inherits: false; }
+@property --tw-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-invert { syntax: "*"; inherits: false; }
+@property --tw-opacity { syntax: "*"; inherits: false; }
+@property --tw-saturate { syntax: "*"; inherits: false; }
+@property --tw-sepia { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-drop-shadow-size { syntax: "*"; inherits: false; }
+@property --tw-backdrop-blur { syntax: "*"; inherits: false; }
+@property --tw-backdrop-brightness { syntax: "*"; inherits: false; }
+@property --tw-backdrop-contrast { syntax: "*"; inherits: false; }
+@property --tw-backdrop-grayscale { syntax: "*"; inherits: false; }
+@property --tw-backdrop-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-invert { syntax: "*"; inherits: false; }
+@property --tw-backdrop-opacity { syntax: "*"; inherits: false; }
+@property --tw-backdrop-saturate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-sepia { syntax: "*"; inherits: false; }
+@property --tw-duration { syntax: "*"; inherits: false; }
+@property --tw-ease { syntax: "*"; inherits: false; }
+@property --tw-content { syntax: "*"; initial-value: ""; inherits: false; }
+@keyframes _ngcontent-%COMP%_spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes _ngcontent-%COMP%_ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+@keyframes _ngcontent-%COMP%_pulse {
+  50% {
+    opacity: 0.5;
+  }
+}
+@layer properties {
+  @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
+    *[_ngcontent-%COMP%], 
+   [_ngcontent-%COMP%]::before, 
+   [_ngcontent-%COMP%]::after, 
+   [_ngcontent-%COMP%]::backdrop {
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+      --tw-scale-x: 1;
+      --tw-scale-y: 1;
+      --tw-scale-z: 1;
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-space-y-reverse: 0;
+      --tw-space-x-reverse: 0;
+      --tw-border-style: solid;
+      --tw-gradient-position: initial;
+      --tw-gradient-from: #0000;
+      --tw-gradient-via: #0000;
+      --tw-gradient-to: #0000;
+      --tw-gradient-stops: initial;
+      --tw-gradient-via-stops: initial;
+      --tw-gradient-from-position: 0%;
+      --tw-gradient-via-position: 50%;
+      --tw-gradient-to-position: 100%;
+      --tw-leading: initial;
+      --tw-font-weight: initial;
+      --tw-tracking: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-blur: initial;
+      --tw-brightness: initial;
+      --tw-contrast: initial;
+      --tw-grayscale: initial;
+      --tw-hue-rotate: initial;
+      --tw-invert: initial;
+      --tw-opacity: initial;
+      --tw-saturate: initial;
+      --tw-sepia: initial;
+      --tw-drop-shadow: initial;
+      --tw-drop-shadow-color: initial;
+      --tw-drop-shadow-alpha: 100%;
+      --tw-drop-shadow-size: initial;
+      --tw-backdrop-blur: initial;
+      --tw-backdrop-brightness: initial;
+      --tw-backdrop-contrast: initial;
+      --tw-backdrop-grayscale: initial;
+      --tw-backdrop-hue-rotate: initial;
+      --tw-backdrop-invert: initial;
+      --tw-backdrop-opacity: initial;
+      --tw-backdrop-saturate: initial;
+      --tw-backdrop-sepia: initial;
+      --tw-duration: initial;
+      --tw-ease: initial;
+      --tw-content: "";
+    }
+  }
+}
+
+
+/*# sourceMappingURL=resume-tr-component.css.map */`] });
+};
+(() => {
+  (typeof ngDevMode === "undefined" || ngDevMode) && setClassMetadata(ResumeTrComponent, [{
+    type: Component,
+    args: [{ selector: "app-resume-tr-component", imports: [LucideAngularModule, CommonModule], template: `<div #pdfArea class="min-h-screen bg-white font-sans text-slate-800">
+    <header class="bg-resume-teal text-white px-8 py-10 md:py-12">
+        <div class="max-w-6xl mx-auto">
+            <h1 class="text-4xl md:text-6xl font-bold mb-2 tracking-tight">Burakhan \u015Eaml\u0131</h1>
+            <p class="text-xl md:text-2xl font-light text-resume-teal-light mb-6">Adli Bili\u015Fim M\xFChendisi | AI, CV, NLP & MLOps
+            </p>
+
+            <p class="text-sm md:text-base leading-relaxed opacity-90 mb-8 max-w-4xl">
+                &nbsp;&nbsp;Adli Bili\u015Fim M\xFChendisli\u011Fi altyap\u0131s\u0131na sahip bir Yapay Zeka Uzman\u0131 (AI Specialist) olarak;
+                Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision), Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing) ve
+                Uzaktan Alg\u0131lama (Remote Sensing) tabanl\u0131 yapay zeka sistemleri \xFCzerine \xE7al\u0131\u015Fmaktay\u0131m.
+
+                Ger\xE7ek d\xFCnya uygulamalar\u0131na y\xF6nelik olarak; biyometrik kimliklendirme,
+                nesne tespiti ve takibi (object detection & tracking), \xE7ok kameral\u0131 video analiti\u011Fi
+                ve uydu g\xF6r\xFCnt\xFCs\xFC analizi gibi alanlarda u\xE7tan uca ve \xF6l\xE7eklenebilir yapay zeka \xE7\xF6z\xFCmleri geli\u015Ftirme
+                deneyimine sahibim.
+
+                G\xF6r\xFCnt\xFC ve dil alanlar\u0131nda Transformer tabanl\u0131 mimariler ile uygulamal\u0131 g\xFC\xE7l\xFC bir tecr\xFCbeye sahip olup,
+                geli\u015Ftirdi\u011Fim yapay zeka modellerini Docker ve Kubernetes kullanarak konteyner tabanl\u0131 ve
+                mikroservis mimarileri \xFCzerinde \xFCretim ortamlar\u0131na ta\u015F\u0131maktay\u0131m.
+            </p>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm font-medium">
+                <div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+                    <lucide-icon [img]="MailIcon" class="my-icon"></lucide-icon>
+                    <a href="mailto:burakhansamli@proton.me">burakhansamli@proton.me</a>
+                </div>
+                <div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+                    <lucide-icon [img]="PhoneIcon" class="my-icon"></lucide-icon>
+                    <span><a [href]="'tel:'+tel">{{ tel }}</a></span>
+                </div>
+                <div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+                    <lucide-icon [img]="MapPinIcon" class="my-icon"></lucide-icon>
+                    <span>Ankara</span>
+                </div>
+                <div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+                    <lucide-icon [img]="LinkedInIcon" class="my-icon"></lucide-icon>
+                    <a href="https://www.linkedin.com/in/burakhan-\u015Faml\u0131-0000/">Burakhan \u015Eaml\u0131</a>
+                </div>
+                <div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+                    <lucide-icon [img]="GithubIcon" class="my-icon"></lucide-icon>
+                    <a href="https://github.com/blitzkrieg0000">github.com/blitzkrieg0000</a>
+                </div>
+                <div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+                    <lucide-icon [img]="GlobeIcon" class="my-icon"></lucide-icon>
+                    <a href="https://blitzkrieg0000.github.io/">https://blitzkrieg0000.github.io/</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto px-8 py-12 grid grid-cols-1 md:grid-cols-12 gap-12">
+        <!-- Column 0 -->
+        <div class="md:col-span-7 lg:col-span-8 space-y-10">
+            <!-- CV -->
+            <section>
+                <div>
+                    <h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">\u0130\u015E DENEY\u0130M\u0130</h2>
+                    <div class="space-y-8 relative pl-4 border-l-2 border-slate-300 ml-2">
+                        <div class="relative mb-2">
+                            <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+                            <div class="flex justify-between items-baseline mb-1">
+                                <h3 class="text-xl font-bold text-slate-900">Hexaops A.\u015E.</h3>
+                                <span class="text-sm italic text-slate-500">Teknokent, Kahramanmara\u015F</span>
+                                <span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">10/2024 - 05/2025</span>
+                            </div>
+                        </div>
+
+                        <div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-3">
+                                    <h4 class="text-lg font-semibold text-slate-700">Yapay Zeka M\xFChendisi ve Yaz\u0131l\u0131m Geli\u015Ftirici</h4>
+                                </div>
+                                <ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>Makine \xC7evirisi (Machine Translation) odakl\u0131 LLM fine-tuning s\xFCre\xE7lerine katk\u0131 sa\u011Flad\u0131m.</li>
+                                    <li>\xDCretim (production) ortamlar\u0131nda Text-to-Speech (TTS), Speech-to-Text (STT) ve voice cloning (ses klonlama) i\u015F ak\u0131\u015Flar\u0131n\u0131n geli\u015Ftirilmesine ve iyile\u015Ftirilmesine m\xFChendislik deste\u011Fi verdim.</li>
+                                    <li>S\u0131n\u0131rl\u0131 GPU kaynaklar\u0131 \xFCzerinde LLM fine-tuning yap\u0131labilmesini sa\u011Flamak amac\u0131yla Fully Sharded Data Parallel (FSDP) tabanl\u0131 da\u011F\u0131t\u0131k model e\u011Fitim tekniklerini uygulad\u0131m.</li>
+                                    <li>Bellek kullan\u0131m\u0131 (memory footprint), e\u011Fitim s\xFCresi ve toplam hesaplama maliyetlerini azaltarak e\u011Fitim verimlili\u011Fini art\u0131rd\u0131m.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="relative mb-2">
+                            <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+                            <div class="flex justify-between items-baseline mb-1">
+                                <h3 class="text-xl font-bold text-slate-900">DGH Arge Yaz\u0131l\u0131m LTD.</h3>
+                                <span class="text-sm italic text-slate-500">ASB\xDC Teknokent, Ankara</span>
+                                <span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">08/2021 - 10/2024</span>
+                            </div>
+                        </div>
+
+                        <div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-1">
+                                    <h4 class="text-lg font-semibold text-slate-700">Uzaktan Alg\u0131lama (Remote Sensing) & CBS (GIS) Geli\u015Ftirici</h4>
+                                </div>
+
+                                <ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>
+                                        Multispektral ve hiperspektral uzaktan alg\u0131lama verilerini kullanarak uydu g\xF6r\xFCnt\xFCs\xFC analizi ve Co\u011Frafi Bilgi Sistemleri (CBS) tabanl\u0131 i\u015F ak\u0131\u015Flar\u0131 ger\xE7ekle\u015Ftirdim. </li>
+                                    <li>
+                                        Arazi Kullan\u0131m\u0131 / Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) s\u0131n\u0131fland\u0131rmas\u0131 ve analizi dahil olmak \xFCzere, tar\u0131m odakl\u0131 uzaktan alg\u0131lama projelerinde teknikler uygulad\u0131m.
+                                    <li>
+                                        Sentinel, Landsat, Google Earth Engine (GEE), ArcGIS Pro ve Copernicus veri setleri gibi uydu platformlar\u0131 ve jeo-uzamsal ara\xE7larla aktif olarak \xE7al\u0131\u015Ft\u0131m.
+                                    <li>
+                                        Ger\xE7ek d\xFCnya CBS ve \xE7evresel uygulamalar\u0131n\u0131 desteklemek amac\u0131yla uydu g\xF6r\xFCnt\xFClerinin \xF6n i\u015Fleme (preprocessing), analiz ve yorumlama s\xFCre\xE7lerini y\xFCr\xFCtt\xFCm.
+                                    </li>
+                                </ul>
+                            </div>
+
+
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-1">
+                                    <h4 class="text-lg font-semibold text-slate-700">Do\u011Fal Dil \u0130\u015Fleme & Transformer Model Geli\u015Ftirici</h4>
+                                </div>
+
+                                <ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing - NLP) ve Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision) alanlar\u0131nda Transformer tabanl\u0131 mimariler geli\u015Ftirerek projelere uygun hale getirdim.</li>
+                                    <li>Metin tabanl\u0131 analiz, \xF6zellik temsili (feature representation) ve modern derin \xF6\u011Frenme i\u015F ak\u0131\u015Flar\u0131 i\xE7in Transformer modellerini e\u011Fitimleri yapt\u0131m.</li>
+                                    <li>Bilgisayarl\u0131 g\xF6r\xFC projelerinde, Transformer tabanl\u0131 yakla\u015F\u0131mlar\u0131 (DETR, VIT) entegre ederek aktif rol ald\u0131m.</li>
+                                </ul>
+                            </div>
+
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-1">
+                                    <h3 class="text-lg font-semibold text-slate-700">Ara\u015Ft\u0131rmac\u0131 & \u0130leri Sistemler</h3>
+                                </div>
+                                <ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>Huawei Atlas 800 sunucular\u0131 \xFCzerinde, NPU acceleration deste\u011Fiyle Docker tabanl\u0131 ortamlarda YOLO tabanl\u0131 mimariler kullanarak hata tespiti (fault detection) i\xE7in deep learning modelleri e\u011Fittim.</li>
+                                    <li>Computer Vision tabanl\u0131 altyap\u0131 hata tespit sistemleri i\xE7in sunucu taraf\u0131 AI e\u011Fitim i\u015F ak\u0131\u015Flar\u0131n\u0131 (training workflows) geli\u015Ftirdim ve y\xF6nettim.</li>
+                                    <li>Yapay zeka sistemlerinin y\xF6netimi ve veri i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla ASP.NET Core kullanarak backend odakl\u0131 web uygulamalar\u0131 tasarlad\u0131m ve hayata ge\xE7irdim.</li>
+                                    <li>\xC7evresel ve tar\u0131m odakl\u0131 senaryolar i\xE7in uzaktan alg\u0131lama (remote sensing) alan\u0131nda uygulamal\u0131 ara\u015Ft\u0131rmalar y\xFCr\xFCtt\xFCm.</li>
+                                </ul>
+                            </div>
+
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-1">
+                                    <h4 class="text-lg font-semibold text-slate-700">Yapay Zeka ve Bilgisayarl\u0131 G\xF6r\xFC (CV) M\xFChendisi</h4>
+                                </div>
+                                <ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>OpenCV ve deep learning teknikleri kullanarak; OCR, image segmentation, object detection ve multi-object tracking gibi alanlarda AI tabanl\u0131 g\xF6r\xFCnt\xFC i\u015Fleme ve bilgisayarl\u0131 g\xF6r\xFC uygulamalar\u0131 geli\u015Ftirdim.</li>
+                                    <li>Supervised deep learning i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla veri haz\u0131rlama (data preparation), etiketleme (labeling) ve veri art\u0131rma (augmentation) s\xFCre\xE7lerini kapsayan veri setleri olu\u015Fturdum ve y\xF6nettim.</li>
+                                    <li>GAN ve Transformer tabanl\u0131 g\xF6r\xFCnt\xFC iyile\u015Ftirme tekniklerini; super-resolution ve feature representation learning gibi yakla\u015F\u0131mlar \xFCzerinden uygulad\u0131m.</li>
+                                    <li>Ger\xE7ek zamanl\u0131 (real-time) AI sistemleri tasarlay\u0131p hayata ge\xE7irdim; bu kapsamda kalite kontrol pipeline'lar\u0131, face recognition ve identification platformlar\u0131 ile y\xFCksek gerilim iletim hatlar\u0131nda hata tespiti (fault detection) i\xE7eren altyap\u0131 denetim \xE7\xF6z\xFCmleri geli\u015Ftirdim.</li>
+                                    <li>PyTorch kullanarak derin \xF6\u011Frenme modelleri geli\u015Ftirdim ve bu modelleri NVIDIA Triton Inference Server ve TorchServe \xFCzerinden inference servisleri olarak da\u011F\u0131tt\u0131m.</li>
+                                </ul>
+                            </div>
+
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-1">
+                                    <h3 class="text-lg font-semibold text-slate-700">MLOps ve Backend Geli\u015Ftirici</h3>
+                                </div>
+                                <ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>Python ve FastAPI kullanarak yapay zeka odakl\u0131 backend servisleri geli\u015Ftirdim; model \xE7\u0131kar\u0131m (inference) s\xFCre\xE7lerini NVIDIA Triton Inference Server \xFCzerinden servis ettim.</li>
+                                    <li>\xD6l\xE7eklenebilir ve mod\xFCler yaz\u0131l\u0131m sistemlerini desteklemek amac\u0131yla mikroservis tabanl\u0131 mimariler tasarlad\u0131m ve uygulad\u0131m.</li>
+                                    <li>Uygulamalar\u0131 Docker, Kubernetes ve Proxmox kullanarak konteynerle\u015Ftirdim; orkestrasyon ve sanalla\u015Ft\u0131rma s\xFCre\xE7lerini y\xF6nettim.</li>
+                                    <li>GitHub Actions, GHCR, ArgoCD ve Ansible kullanarak CI/CD pipeline'lar\u0131 olu\u015Fturdum ve da\u011F\u0131t\u0131m (deployment) s\xFCre\xE7lerini otomatikle\u015Ftirdim.</li>
+                                    <li>Kafka, Redis ve RTMP tabanl\u0131 streaming sistemleri ile ger\xE7ek zamanl\u0131 veri i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim.</li>
+                                    <li>Sistem performans\u0131 ve servis s\xFCreklili\u011Fini Prometheus ve Grafana ile izledim ve takip ettim.</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <div class="relative  mb-2">
+                            <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+                            <div class="flex justify-between items-baseline mb-1">
+                                <h3 class="text-xl font-bold text-slate-900">Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - I</h3>
+                                <span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">07/2021 - 08/2021</span>
+                            </div>
+
+                        </div>
+
+                        <div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-3">
+                                    <h4 class="text-lg font-semibold text-slate-700">DGH Arge Yaz\u0131l\u0131m</h4>
+                                    <span class="text-sm italic text-slate-500">\u0130n\xF6n\xFC Teknokent, Malatya</span>
+                                </div>
+                                <div>
+                                    <ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                        <li>Python, PyTorch, TensorFlow ve OpenCV kullanarak AI tabanl\u0131 yaz\u0131l\u0131m geli\u015Ftirme s\xFCre\xE7lerinde temel d\xFCzeyde deneyim kazand\u0131m.</li>
+                                        <li>ASP.NET Core kullan\u0131larak geli\u015Ftirilen backend servislerin olu\u015Fturulmas\u0131na ve Vue.js tabanl\u0131 frontend bile\u015Fenlerin entegrasyonuna destek verdim.</li>
+                                        <li>Web tabanl\u0131 uygulamalar i\xE7in Socket.IO kullanarak ger\xE7ek zamanl\u0131 ileti\u015Fim (real-time communication) mekanizmalar\u0131n\u0131 inceledim ve uygulad\u0131m.</li>
+                                        <li>K\u0131sa s\xFCreli staj projeleri kapsam\u0131nda ger\xE7ek zamanl\u0131 web entegrasyonu \xE7al\u0131\u015Fmalar\u0131na destek sa\u011Flad\u0131m.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative  mb-2">
+                            <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+                            <div class="flex justify-between items-baseline mb-1">
+                                <h3 class="text-xl font-bold text-slate-900">Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - II</h3>
+                                <span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">07/2020 - 08/2020</span>
+                            </div>
+                        </div>
+
+                        <div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+                            <div class="relative">
+                                <div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+                                <div class="flex justify-between items-baseline mb-3">
+                                    <h4 class="text-lg font-semibold text-slate-700">Telehouse \u0130stanbul - Teknotel</h4>
+                                    <span class="text-sm italic text-slate-500">Kozyata\u011F\u0131, Kad\u0131k\xF6y/\u0130stanbul</span>
+                                </div>
+                                <div>
+                                    <ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                        <li>Cisco Packet Tracer kullanarak y\xF6nlendirme (routing) ve a\u011F protokollerine y\xF6nelik temel network altyap\u0131 \xE7al\u0131\u015Fmalar\u0131nda g\xF6rev ald\u0131m.</li>
+                                        <li>HP kurumsal sunucular \xFCzerinde sunucu kurulumu ve yap\u0131land\u0131rma s\xFCre\xE7lerine destek verdim; SAS disk yap\u0131land\u0131rmas\u0131 ve RAID birle\u015Ftirme i\u015Flemlerinde yer ald\u0131m.</li>
+                                        <li>REST tabanl\u0131 mimariler ve web hosting sistemleri \xFCzerine pratik deneyim kazand\u0131m; WHMCS tabanl\u0131 servis ve m\xFC\u015Fteri y\xF6netim i\u015F ak\u0131\u015Flar\u0131n\u0131 inceledim.</li>
+                                        <li>Sunucu, depolama ve ba\u011Flant\u0131 y\xF6netimini kapsayan network ve IT operasyonlar\u0131na destek sa\u011Flad\u0131m.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Projects -->
+            <section>
+                <h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">Projeler</h2>
+                <div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-2">
+                    <div class="relative">
+                        <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+                        <h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">LULC Analizi & Uzaktan Alg\u0131lama (Remote Sensing)</h3>
+                        <ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                Multispektral Sentinel-2 ve Landsat uydu g\xF6r\xFCnt\xFClerini kullanarak Arazi Kullan\u0131m\u0131 ve Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) segmentasyonu ger\xE7ekle\u015Ftirdim.
+                            </li>
+                            <li>
+                                ArcGIS Pro ve QGIS kullanarak bile\u015Fik veri setleri (composite datasets) olu\u015Fturdum; arazi \xF6rt\xFCs\xFC s\u0131n\u0131flar\u0131n\u0131n alan da\u011F\u0131l\u0131mlar\u0131n\u0131 hesaplamak i\xE7in co\u011Frafi analizler yapt\u0131m.
+                            </li>
+                            <li>
+                                Google Earth Engine (GEE) API'leri ve Copernicus veri setleri \xFCzerinden, LULC analizine y\xF6nelik \xF6l\xE7eklenebilir veri toplama ve i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Web tabanl\u0131 jeo-uzamsal protokoller arac\u0131l\u0131\u011F\u0131yla map tile verilerini \xE7ekip i\u015Fleyerek, b\xFCy\xFCk \xF6l\xE7ekli mekansal analiz i\u015F ak\u0131\u015Flar\u0131n\u0131 destekledim.
+                            </li>
+                            <li>
+                                Radar verileri \xFCzerinden InSAR tabanl\u0131 teknikler kullanarak Say\u0131sal Y\xFCkseklik Modelleri (Digital Elevation Model - DEM) \xFCrettim ve arazi/y\xFCkseklik analizleri ger\xE7ekle\u015Ftirdim.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="relative">
+                        <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+                        <h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Hata Tespiti Projesi - Y\xFCksek Gerilim \u0130letim Hatlar\u0131</h3>
+                        <ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                YOLOv11 tabanl\u0131 object detection ve segmentation modelleri kullanarak y\xFCksek gerilim iletim hatlar\u0131 i\xE7in computer vision tabanl\u0131 hata tespit sistemi geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                \u0130zolat\xF6rler (insulators), direkler (poles) ve di\u011Fer yap\u0131sal bile\u015Fenleri kapsayan tespit ve segmentasyon pipeline'lar\u0131 tasarlad\u0131m ve uygulad\u0131m.
+                            </li>
+                            <li>
+                                Altyap\u0131 g\xFCvenli\u011Fi ve proaktif bak\u0131m s\xFCre\xE7lerini desteklemek amac\u0131yla, iletim hatlar\u0131 \xFCzerindeki ku\u015F yuvalar\u0131n\u0131n tespiti i\xE7in object detection modelleri geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Model e\u011Fitimi ve de\u011Ferlendirmesi i\xE7in \xF6zel veri setleri haz\u0131rlad\u0131m; veri etiketleme (annotation) ve kalite kontrol s\xFCre\xE7lerini y\xF6nettim.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="relative">
+                        <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+
+                        <h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">
+                            \xC7oklu Kamera Tabanl\u0131 AI G\xFCvenlik & G\xF6zetim Sistemi
+                        </h3>
+
+                        <ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                Y\xFCz tespiti, y\xFCz tan\u0131ma, \xE7oklu obje takibi ve ki\u015Fi yeniden-tan\u0131mlama (person re-identification) bile\u015Fenlerini bir araya getirerek kimlik tabanl\u0131 g\xF6zetim senaryolar\u0131 i\xE7in entegre bir bilgisayarl\u0131 g\xF6r\xFC sistemi geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                G\xFCvenlik izleme kabiliyetlerini art\u0131rmak amac\u0131yla maske tespiti(COVID-19), duygu tan\u0131ma ve silah tespiti gibi ek AI mod\xFCllerini sisteme entegre ettim.
+                            </li>
+                            <li>
+                                Sistemi, birden fazla kamera ak\u0131\u015F\u0131 \xFCzerinde ger\xE7ek zamanl\u0131 video i\u015Fleme ve olay tabanl\u0131 analitik yapabilecek \u015Fekilde tasarlad\u0131m.
+                            </li>
+                            <li>
+                                Mikroservis tabanl\u0131 bir backend mimarisi kurgulad\u0131m; AI inference servislerini Docker ve Kubernetes kullanarak \xF6l\xE7eklenebilir ve hataya dayan\u0131kl\u0131 bi\xE7imde da\u011F\u0131tt\u0131m.
+                            </li>
+                            <li>
+                                Da\u011F\u0131t\u0131k sistem bile\u015Fenleri aras\u0131nda video stream y\xF6netimi, inference servisleri ve sistem koordinasyonunu sa\u011Flayan gRPC backend API'leri geli\u015Ftirdim.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="relative">
+                        <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+
+                        <h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">
+                            Ger\xE7ek Zamanl\u0131 Tenis Performans Analiz Sistemi
+                        </h3>
+                        <ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                ITN (International Tennis Number) performans de\u011Ferlendirmesini desteklemek amac\u0131yla; tenis topu tespiti (ball detection), takibi (tracking) ve sekme noktas\u0131 tahmini (bounce point estimation) yapan ger\xE7ek zamanl\u0131 bir computer vision sistemi geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Canl\u0131 oyun s\u0131ras\u0131nda vuru\u015F (shot) olaylar\u0131n\u0131 analiz etmek ve oyuncu aksiyonlar\u0131n\u0131 skorlamak i\xE7in oyuncu tespiti ve takip (player detection & tracking) pipeline'lar\u0131 uygulad\u0131m.
+                            </li>
+                            <li>
+                                Farkl\u0131 kamera a\xE7\u0131lar\u0131 \xFCzerinden top y\xF6r\xFCngelerini birle\u015Ftirmek amac\u0131yla \xE7oklu kamera kalibrasyonu, hizalama (alignment) ve senkronizasyon mekanizmalar\u0131 tasarlad\u0131m.
+                            </li>
+                            <li>
+                                Oyuncu hareketlerini analiz etmek ve performans geli\u015Fimini de\u011Ferlendirmek i\xE7in insan iskelet tahmini (human pose estimation) tekniklerini; v\xFCcut duru\u015Fu (posture) ve hareket paternleri \xFCzerinden uygulad\u0131m.
+                            </li>
+                            <li>
+                                Spor performans analiz sistemlerinde ger\xE7ek zamanl\u0131 geri bildirim sa\u011Flamak amac\u0131yla d\xFC\u015F\xFCk gecikmeli (low-latency) i\u015Fleme i\u015F ak\u0131\u015Flar\u0131 olu\u015Fturdum.
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="relative">
+                        <div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+
+                        <h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Olay Raporlama S\xFCre\xE7lerinin Blok Zinciri ile Korunmas\u0131</h3>
+                        <ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                Dijital adli bili\u015Fim s\xFCre\xE7lerinde veri i\u015Fleme ve raporlama pipeline'lar\u0131n\u0131n de\u011Fi\u015Ftirilemezli\u011Fini (immutability) ve tutarl\u0131l\u0131\u011F\u0131n\u0131 sa\u011Flamak amac\u0131yla blockchain tabanl\u0131 bir sistem tasarlad\u0131m ve geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Adli analiz i\u015F ak\u0131\u015Flar\u0131 boyunca delil b\xFCt\xFCnl\xFC\u011F\xFCn\xFC (evidence integrity) korumak ve yetkisiz m\xFCdahaleleri \xF6nlemek i\xE7in blockchain mekanizmalar\u0131 uygulad\u0131m.
+                            </li>
+                            <li>
+                                G\xFCvenli veri y\xF6netimi ve denetlenebilirlik (auditability) sa\u011Flamak amac\u0131yla sistem bile\u015Fenlerini PHP ve Java kullanarak geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Adli verilerin i\u015F ak\u0131\u015F\u0131 boyunca tutarl\u0131l\u0131\u011F\u0131n\u0131 do\u011Frulamak i\xE7in hash tabanl\u0131 do\u011Frulama (SHA-256 vb.) mekanizmalar\u0131 entegre ettim.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Column 1 -->
+        <div class="md:col-span-5 lg:col-span-4 space-y-10">
+            <section>
+                <h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">
+                    TEKN\u0130K BECER\u0130LER
+                </h2>
+
+                <div class="space-y-4">
+                    <div *ngFor="let group of technicalSkillGroups">
+                        <h3 class="text-resume-teal font-semibold mb-1 text-xs uppercase tracking-wide">
+                            {{ group.title }}
+                        </h3>
+
+                        <div class="flex flex-wrap gap-2">
+                            <span *ngFor="let skill of group.items" class="px-2.5 py-1 bg-slate-100 text-slate-700 text-[11px] font-bold rounded-sm border border-slate-200 print:bg-none print:border-none print:px-0 print:text-sm print:inline print:after:content-[',_'] print:last:after:content-['']">
+                                {{ skill }}
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">D\u0130L</h2>
+                <div class="space-y-4">
+                    <div>
+                        <h3 class="text-base font-bold text-slate-800 leading-tight mb-1">\u0130ngilizce - Profesyonel \xC7al\u0131\u015Fma Yetkinli\u011Fi</h3>
+                    </div>
+                    <div>
+                        <h3 class="text-base font-bold text-slate-800 leading-tight mb-1">T\xFCrk\xE7e - Ana Dil</h3>
+                    </div>
+                </div>
+            </section>
+
+            <section>
+                <h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">E\u011E\u0130T\u0130M</h2>
+                <div>
+                    <h3 class="text-lg font-bold text-slate-900 leading-tight">F\u0131rat \xDCniversitesi</h3>
+                    <h4 class="text-base font-medium text-slate-700 mb-1">Adli Bili\u015Fim M\xFChendisli\u011Fi - Lisans</h4>
+                    <p class="text-md text-resume-gold font-medium"><strong>GNO:</strong> 3.73 / 4</p>
+                    <p class="text-sm text-resume-teal font-medium italic">2017 - 2022</p>
+                </div>
+            </section>
+        </div>
+    </main>
+</div>`, styles: [`/* src/app/component/resume-tr-component/resume-tr-component.scss */
+@layer properties;
+@layer theme {
+  :root,
+  :host {
+    --font-sans:
+      ui-sans-serif,
+      system-ui,
+      sans-serif,
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+      "Noto Color Emoji";
+    --font-mono:
+      ui-monospace,
+      SFMono-Regular,
+      Menlo,
+      Monaco,
+      Consolas,
+      "Liberation Mono",
+      "Courier New",
+      monospace;
+    --color-red-500: oklch(63.7% 0.237 25.331);
+    --color-amber-500: oklch(76.9% 0.188 70.08);
+    --color-emerald-500: oklch(69.6% 0.17 162.48);
+    --color-blue-500: oklch(62.3% 0.214 259.815);
+    --color-purple-400: oklch(71.4% 0.203 305.504);
+    --color-purple-500: oklch(62.7% 0.265 303.9);
+    --color-slate-100: oklch(96.8% 0.007 247.896);
+    --color-slate-200: oklch(92.9% 0.013 255.508);
+    --color-slate-300: oklch(86.9% 0.022 252.894);
+    --color-slate-500: oklch(55.4% 0.046 257.417);
+    --color-slate-600: oklch(44.6% 0.043 257.281);
+    --color-slate-700: oklch(37.2% 0.044 257.287);
+    --color-slate-800: oklch(27.9% 0.041 260.031);
+    --color-slate-900: oklch(20.8% 0.042 265.755);
+    --color-gray-50: oklch(98.5% 0.002 247.839);
+    --color-gray-600: oklch(44.6% 0.03 256.802);
+    --color-gray-900: oklch(21% 0.034 264.665);
+    --color-black: #000;
+    --color-white: #fff;
+    --spacing: 0.25rem;
+    --container-sm: 24rem;
+    --container-md: 28rem;
+    --container-lg: 32rem;
+    --container-2xl: 42rem;
+    --container-3xl: 48rem;
+    --container-4xl: 56rem;
+    --container-6xl: 72rem;
+    --text-xs: 0.75rem;
+    --text-xs--line-height: calc(1 / 0.75);
+    --text-sm: 0.875rem;
+    --text-sm--line-height: calc(1.25 / 0.875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --text-lg: 1.125rem;
+    --text-lg--line-height: calc(1.75 / 1.125);
+    --text-xl: 1.25rem;
+    --text-xl--line-height: calc(1.75 / 1.25);
+    --text-2xl: 1.5rem;
+    --text-2xl--line-height: calc(2 / 1.5);
+    --text-4xl: 2.25rem;
+    --text-4xl--line-height: calc(2.5 / 2.25);
+    --text-5xl: 3rem;
+    --text-5xl--line-height: 1;
+    --text-6xl: 3.75rem;
+    --text-6xl--line-height: 1;
+    --text-7xl: 4.5rem;
+    --text-7xl--line-height: 1;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --font-weight-black: 900;
+    --tracking-tight: -0.025em;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --tracking-widest: 0.1em;
+    --leading-tight: 1.25;
+    --leading-relaxed: 1.625;
+    --radius-2xl: 1rem;
+    --radius-3xl: 1.5rem;
+    --ease-out: cubic-bezier(0, 0, 0.2, 1);
+    --animate-spin: spin 1s linear infinite;
+    --animate-ping: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+    --animate-pulse: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --blur-sm: 8px;
+    --blur-xl: 24px;
+    --blur-2xl: 40px;
+    --aspect-video: 16 / 9;
+    --default-transition-duration: 150ms;
+    --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+  }
+}
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0 solid;
+  }
+  html,
+  :host {
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+  b,
+  strong {
+    font-weight: bolder;
+  }
+  code,
+  kbd,
+  samp,
+  pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+  small {
+    font-size: 80%;
+  }
+  sub,
+  sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+  sub {
+    bottom: -0.25em;
+  }
+  sup {
+    top: -0.5em;
+  }
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+  :-moz-focusring {
+    outline: auto;
+  }
+  progress {
+    vertical-align: baseline;
+  }
+  summary {
+    display: list-item;
+  }
+  ol,
+  ul,
+  menu {
+    list-style: none;
+  }
+  img,
+  svg,
+  video,
+  canvas,
+  audio,
+  iframe,
+  embed,
+  object {
+    display: block;
+    vertical-align: middle;
+  }
+  img,
+  video {
+    max-width: 100%;
+    height: auto;
+  }
+  button,
+  input,
+  select,
+  optgroup,
+  textarea,
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    border-radius: 0;
+    background-color: transparent;
+    opacity: 1;
+  }
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+  ::placeholder {
+    opacity: 1;
+  }
+  @supports (not (-webkit-appearance: -apple-pay-button)) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentcolor;
+    }
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+  textarea {
+    resize: vertical;
+  }
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+  ::-webkit-datetime-edit,
+  ::-webkit-datetime-edit-year-field,
+  ::-webkit-datetime-edit-month-field,
+  ::-webkit-datetime-edit-day-field,
+  ::-webkit-datetime-edit-hour-field,
+  ::-webkit-datetime-edit-minute-field,
+  ::-webkit-datetime-edit-second-field,
+  ::-webkit-datetime-edit-millisecond-field,
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+  ::-webkit-calendar-picker-indicator {
+    line-height: 1;
+  }
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+  button,
+  input:where([type=button], [type=reset], [type=submit]),
+  ::file-selector-button {
+    appearance: button;
+  }
+  ::-webkit-inner-spin-button,
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+  [hidden]:where(:not([hidden=until-found])) {
+    display: none !important;
+  }
+}
+.pointer-events-auto {
+  pointer-events: auto;
+}
+.pointer-events-none {
+  pointer-events: none;
+}
+.visible {
+  visibility: visible;
+}
+.absolute {
+  position: absolute;
+}
+.fixed {
+  position: fixed;
+}
+.relative {
+  position: relative;
+}
+.static {
+  position: static;
+}
+.sticky {
+  position: sticky;
+}
+.inset-0 {
+  inset: calc(var(--spacing) * 0);
+}
+.-top-\\[10\\%\\] {
+  top: calc(10% * -1);
+}
+.top-0 {
+  top: calc(var(--spacing) * 0);
+}
+.top-1 {
+  top: calc(var(--spacing) * 1);
+}
+.top-1\\/2 {
+  top: calc(1/2 * 100%);
+}
+.top-2 {
+  top: calc(var(--spacing) * 2);
+}
+.top-24 {
+  top: calc(var(--spacing) * 24);
+}
+.-right-\\[5\\%\\] {
+  right: calc(5% * -1);
+}
+.right-0 {
+  right: calc(var(--spacing) * 0);
+}
+.right-2 {
+  right: calc(var(--spacing) * 2);
+}
+.right-8 {
+  right: calc(var(--spacing) * 8);
+}
+.bottom-2 {
+  bottom: calc(var(--spacing) * 2);
+}
+.bottom-\\[-10\\%\\] {
+  bottom: -10%;
+}
+.bottom-\\[10\\%\\] {
+  bottom: 10%;
+}
+.-left-\\[5\\%\\] {
+  left: calc(5% * -1);
+}
+.-left-\\[23px\\] {
+  left: calc(23px * -1);
+}
+.-left-\\[25px\\] {
+  left: calc(25px * -1);
+}
+.left-2 {
+  left: calc(var(--spacing) * 2);
+}
+.left-4 {
+  left: calc(var(--spacing) * 4);
+}
+.left-8 {
+  left: calc(var(--spacing) * 8);
+}
+.-z-10 {
+  z-index: calc(10 * -1);
+}
+.z-0 {
+  z-index: 0;
+}
+.z-10 {
+  z-index: 10;
+}
+.z-20 {
+  z-index: 20;
+}
+.z-50 {
+  z-index: 50;
+}
+.z-\\[100\\] {
+  z-index: 100;
+}
+.col-span-full {
+  grid-column: 1 / -1;
+}
+.container {
+  width: 100%;
+}
+@media (width >= 40rem) {
+  .container {
+    max-width: 40rem;
+  }
+}
+@media (width >= 48rem) {
+  .container {
+    max-width: 48rem;
+  }
+}
+@media (width >= 64rem) {
+  .container {
+    max-width: 64rem;
+  }
+}
+@media (width >= 80rem) {
+  .container {
+    max-width: 80rem;
+  }
+}
+@media (width >= 96rem) {
+  .container {
+    max-width: 96rem;
+  }
+}
+.mx-4 {
+  margin-inline: calc(var(--spacing) * 4);
+}
+.mx-auto {
+  margin-inline: auto;
+}
+.mt-0 {
+  margin-top: calc(var(--spacing) * 0);
+}
+.mt-1 {
+  margin-top: calc(var(--spacing) * 1);
+}
+.mt-1\\.5 {
+  margin-top: calc(var(--spacing) * 1.5);
+}
+.mt-2 {
+  margin-top: calc(var(--spacing) * 2);
+}
+.mt-4 {
+  margin-top: calc(var(--spacing) * 4);
+}
+.mt-6 {
+  margin-top: calc(var(--spacing) * 6);
+}
+.mt-12 {
+  margin-top: calc(var(--spacing) * 12);
+}
+.mt-auto {
+  margin-top: auto;
+}
+.mb-0 {
+  margin-bottom: calc(var(--spacing) * 0);
+}
+.mb-1 {
+  margin-bottom: calc(var(--spacing) * 1);
+}
+.mb-2 {
+  margin-bottom: calc(var(--spacing) * 2);
+}
+.mb-3 {
+  margin-bottom: calc(var(--spacing) * 3);
+}
+.mb-4 {
+  margin-bottom: calc(var(--spacing) * 4);
+}
+.mb-6 {
+  margin-bottom: calc(var(--spacing) * 6);
+}
+.mb-8 {
+  margin-bottom: calc(var(--spacing) * 8);
+}
+.mb-10 {
+  margin-bottom: calc(var(--spacing) * 10);
+}
+.mb-12 {
+  margin-bottom: calc(var(--spacing) * 12);
+}
+.mb-16 {
+  margin-bottom: calc(var(--spacing) * 16);
+}
+.ml-0 {
+  margin-left: calc(var(--spacing) * 0);
+}
+.ml-2 {
+  margin-left: calc(var(--spacing) * 2);
+}
+.ml-4 {
+  margin-left: calc(var(--spacing) * 4);
+}
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+.block {
+  display: block;
+}
+.flex {
+  display: flex;
+}
+.grid {
+  display: grid;
+}
+.hidden {
+  display: none;
+}
+.inline-flex {
+  display: inline-flex;
+}
+.aspect-video {
+  aspect-ratio: var(--aspect-video);
+}
+.size-4 {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.size-8 {
+  width: calc(var(--spacing) * 8);
+  height: calc(var(--spacing) * 8);
+}
+.size-9 {
+  width: calc(var(--spacing) * 9);
+  height: calc(var(--spacing) * 9);
+}
+.size-10 {
+  width: calc(var(--spacing) * 10);
+  height: calc(var(--spacing) * 10);
+}
+.size-48 {
+  width: calc(var(--spacing) * 48);
+  height: calc(var(--spacing) * 48);
+}
+.size-72 {
+  width: calc(var(--spacing) * 72);
+  height: calc(var(--spacing) * 72);
+}
+.size-\\[500px\\] {
+  width: 500px;
+  height: 500px;
+}
+.size-\\[600px\\] {
+  width: 600px;
+  height: 600px;
+}
+.h-1 {
+  height: calc(var(--spacing) * 1);
+}
+.h-1\\.5 {
+  height: calc(var(--spacing) * 1.5);
+}
+.h-2 {
+  height: calc(var(--spacing) * 2);
+}
+.h-3 {
+  height: calc(var(--spacing) * 3);
+}
+.h-4 {
+  height: calc(var(--spacing) * 4);
+}
+.h-5 {
+  height: calc(var(--spacing) * 5);
+}
+.h-6 {
+  height: calc(var(--spacing) * 6);
+}
+.h-8 {
+  height: calc(var(--spacing) * 8);
+}
+.h-9 {
+  height: calc(var(--spacing) * 9);
+}
+.h-10 {
+  height: calc(var(--spacing) * 10);
+}
+.h-16 {
+  height: calc(var(--spacing) * 16);
+}
+.h-96 {
+  height: calc(var(--spacing) * 96);
+}
+.h-\\[1px\\] {
+  height: 1px;
+}
+.h-\\[500px\\] {
+  height: 500px;
+}
+.h-auto {
+  height: auto;
+}
+.h-full {
+  height: 100%;
+}
+.h-px {
+  height: 1px;
+}
+.max-h-\\[600px\\] {
+  max-height: 600px;
+}
+.max-h-screen {
+  max-height: 100vh;
+}
+.min-h-8 {
+  min-height: calc(var(--spacing) * 8);
+}
+.min-h-9 {
+  min-height: calc(var(--spacing) * 9);
+}
+.min-h-10 {
+  min-height: calc(var(--spacing) * 10);
+}
+.min-h-\\[90vh\\] {
+  min-height: 90vh;
+}
+.min-h-screen {
+  min-height: 100vh;
+}
+.w-2 {
+  width: calc(var(--spacing) * 2);
+}
+.w-3 {
+  width: calc(var(--spacing) * 3);
+}
+.w-4 {
+  width: calc(var(--spacing) * 4);
+}
+.w-5 {
+  width: calc(var(--spacing) * 5);
+}
+.w-6 {
+  width: calc(var(--spacing) * 6);
+}
+.w-8 {
+  width: calc(var(--spacing) * 8);
+}
+.w-9 {
+  width: calc(var(--spacing) * 9);
+}
+.w-10 {
+  width: calc(var(--spacing) * 10);
+}
+.w-\\[500px\\] {
+  width: 500px;
+}
+.w-auto {
+  width: auto;
+}
+.w-full {
+  width: 100%;
+}
+.max-w-2xl {
+  max-width: var(--container-2xl);
+}
+.max-w-3xl {
+  max-width: var(--container-3xl);
+}
+.max-w-4xl {
+  max-width: var(--container-4xl);
+}
+.max-w-6xl {
+  max-width: var(--container-6xl);
+}
+.max-w-full {
+  max-width: 100%;
+}
+.max-w-lg {
+  max-width: var(--container-lg);
+}
+.max-w-md {
+  max-width: var(--container-md);
+}
+.max-w-none {
+  max-width: none;
+}
+.max-w-sm {
+  max-width: var(--container-sm);
+}
+.flex-1 {
+  flex: 1;
+}
+.flex-shrink-0 {
+  flex-shrink: 0;
+}
+.shrink-0 {
+  flex-shrink: 0;
+}
+.flex-grow {
+  flex-grow: 1;
+}
+.-translate-y-1\\/2 {
+  --tw-translate-y: calc(calc(1/2 * 100%) * -1);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+}
+.scale-110 {
+  --tw-scale-x: 110%;
+  --tw-scale-y: 110%;
+  --tw-scale-z: 110%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.scale-x-0 {
+  --tw-scale-x: 0%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.transform {
+  transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
+}
+.animate-ping {
+  animation: var(--animate-ping);
+}
+.animate-pulse {
+  animation: var(--animate-pulse);
+}
+.animate-spin {
+  animation: var(--animate-spin);
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.list-outside {
+  list-style-position: outside;
+}
+.list-disc {
+  list-style-type: disc;
+}
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.items-baseline {
+  align-items: baseline;
+}
+.items-center {
+  align-items: center;
+}
+.items-end {
+  align-items: flex-end;
+}
+.items-start {
+  align-items: flex-start;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-center {
+  justify-content: center;
+}
+.gap-1 {
+  gap: calc(var(--spacing) * 1);
+}
+.gap-1\\.5 {
+  gap: calc(var(--spacing) * 1.5);
+}
+.gap-2 {
+  gap: calc(var(--spacing) * 2);
+}
+.gap-3 {
+  gap: calc(var(--spacing) * 3);
+}
+.gap-4 {
+  gap: calc(var(--spacing) * 4);
+}
+.gap-6 {
+  gap: calc(var(--spacing) * 6);
+}
+.gap-8 {
+  gap: calc(var(--spacing) * 8);
+}
+.gap-12 {
+  gap: calc(var(--spacing) * 12);
+}
+.gap-16 {
+  gap: calc(var(--spacing) * 16);
+}
+:where(.space-y-1 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-1\\.5 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1.5) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1.5) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-2 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-4 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-6 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 6) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 6) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-8 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 8) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 8) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-10 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 10) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 10) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-12 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 12) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 12) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-14 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 14) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 14) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-x-4 > :not(:last-child)) {
+  --tw-space-x-reverse: 0;
+  margin-inline-start: calc(calc(var(--spacing) * 4) * var(--tw-space-x-reverse));
+  margin-inline-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-x-reverse)));
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+.rounded-2xl {
+  border-radius: var(--radius-2xl);
+}
+.rounded-3xl {
+  border-radius: var(--radius-3xl);
+}
+.rounded-full {
+  border-radius: calc(infinity * 1px);
+}
+.rounded-lg {
+  border-radius: var(--resume-radius);
+}
+.rounded-md {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-sm {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-xl {
+  border-radius: calc(var(--resume-radius) + 4px);
+}
+.rounded-r {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+.border {
+  border-style: var(--tw-border-style);
+  border-width: 1px;
+}
+.border-2 {
+  border-style: var(--tw-border-style);
+  border-width: 2px;
+}
+.border-3 {
+  border-style: var(--tw-border-style);
+  border-width: 3px;
+}
+.border-4 {
+  border-style: var(--tw-border-style);
+  border-width: 4px;
+}
+.border-t {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 1px;
+}
+.border-t-2 {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 2px;
+}
+.border-r-2 {
+  border-right-style: var(--tw-border-style);
+  border-right-width: 2px;
+}
+.border-b {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 1px;
+}
+.border-b-2 {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 2px;
+}
+.border-l-2 {
+  border-left-style: var(--tw-border-style);
+  border-left-width: 2px;
+}
+.\\[border-color\\:var\\(--badge-outline\\)\\] {
+  border-color: var(--badge-outline);
+}
+.\\[border-color\\:var\\(--button-outline\\)\\] {
+  border-color: var(--button-outline);
+}
+.border-amber-500\\/20 {
+  border-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-amber-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-amber-500) 20%, transparent);
+  }
+}
+.border-blue-500\\/20 {
+  border-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-blue-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-blue-500) 20%, transparent);
+  }
+}
+.border-border {
+  border-color: hsl(var(--border));
+}
+.border-border\\/40 {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/40 {
+    border-color: color-mix(in oklab, hsl(var(--border)) 40%, transparent);
+  }
+}
+.border-border\\/50 {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/50 {
+    border-color: color-mix(in oklab, hsl(var(--border)) 50%, transparent);
+  }
+}
+.border-card-border {
+  border-color: hsl(var(--card-border));
+}
+.border-destructive {
+  border-color: hsl(var(--destructive));
+}
+.border-destructive-border {
+  border-color: var(--destructive-border);
+}
+.border-emerald-500\\/20 {
+  border-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-emerald-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-emerald-500) 20%, transparent);
+  }
+}
+.border-primary-border {
+  border-color: var(--primary-border);
+}
+.border-primary\\/20 {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/20 {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+  }
+}
+.border-primary\\/30 {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/30 {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.border-primary\\/50 {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/50 {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.border-purple-500\\/20 {
+  border-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-purple-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-purple-500) 20%, transparent);
+  }
+}
+.border-resume-gold\\/30 {
+  border-color: color-mix(in oklab, rgba(207, 170, 110, 1) 30%, transparent);
+}
+.border-secondary-border {
+  border-color: var(--secondary-border);
+}
+.border-slate-200 {
+  border-color: var(--color-slate-200);
+}
+.border-slate-300 {
+  border-color: var(--color-slate-300);
+}
+.border-transparent {
+  border-color: transparent;
+}
+.border-white {
+  border-color: var(--color-white);
+}
+.border-white\\/10 {
+  border-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/10 {
+    border-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.border-white\\/\\[0\\.15\\] {
+  border-color: color-mix(in srgb, #fff 15%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/\\[0\\.15\\] {
+    border-color: color-mix(in oklab, var(--color-white) 15%, transparent);
+  }
+}
+.bg-accent {
+  background-color: hsl(var(--accent));
+}
+.bg-accent\\/5 {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/5 {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 5%, transparent);
+  }
+}
+.bg-accent\\/15 {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/15 {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 15%, transparent);
+  }
+}
+.bg-amber-500\\/5 {
+  background-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-amber-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-amber-500) 5%, transparent);
+  }
+}
+.bg-background {
+  background-color: hsl(var(--background));
+}
+.bg-background\\/50 {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/50 {
+    background-color: color-mix(in oklab, hsl(var(--background)) 50%, transparent);
+  }
+}
+.bg-background\\/80 {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/80 {
+    background-color: color-mix(in oklab, hsl(var(--background)) 80%, transparent);
+  }
+}
+.bg-black {
+  background-color: var(--color-black);
+}
+.bg-black\\/5 {
+  background-color: color-mix(in srgb, #000 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-black\\/5 {
+    background-color: color-mix(in oklab, var(--color-black) 5%, transparent);
+  }
+}
+.bg-blue-500\\/5 {
+  background-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-blue-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-blue-500) 5%, transparent);
+  }
+}
+.bg-border {
+  background-color: hsl(var(--border));
+}
+.bg-card {
+  background-color: hsl(var(--card));
+}
+.bg-current {
+  background-color: currentcolor;
+}
+.bg-destructive {
+  background-color: hsl(var(--destructive));
+}
+.bg-emerald-500\\/5 {
+  background-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-emerald-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-emerald-500) 5%, transparent);
+  }
+}
+.bg-foreground {
+  background-color: hsl(var(--foreground));
+}
+.bg-gray-50 {
+  background-color: var(--color-gray-50);
+}
+.bg-muted {
+  background-color: hsl(var(--muted));
+}
+.bg-primary {
+  background-color: hsl(var(--primary));
+}
+.bg-primary\\/5 {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/5 {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+  }
+}
+.bg-primary\\/10 {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/10 {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 10%, transparent);
+  }
+}
+.bg-purple-500\\/5 {
+  background-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-purple-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-purple-500) 5%, transparent);
+  }
+}
+.bg-resume-gold {
+  background-color: rgba(207, 170, 110, 1);
+}
+.bg-resume-teal {
+  background-color: var(--resume-teal);
+}
+.bg-resume-teal\\/10 {
+  background-color: var(--resume-teal);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-resume-teal\\/10 {
+    background-color: color-mix(in oklab, var(--resume-teal) 10%, transparent);
+  }
+}
+.bg-secondary {
+  background-color: hsl(var(--secondary));
+}
+.bg-secondary\\/10 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/10 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 10%, transparent);
+  }
+}
+.bg-secondary\\/20 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/20 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 20%, transparent);
+  }
+}
+.bg-secondary\\/30 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/30 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 30%, transparent);
+  }
+}
+.bg-secondary\\/50 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/50 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 50%, transparent);
+  }
+}
+.bg-slate-100 {
+  background-color: var(--color-slate-100);
+}
+.bg-transparent {
+  background-color: transparent;
+}
+.bg-white {
+  background-color: var(--color-white);
+}
+.bg-white\\/5 {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/5 {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+.bg-white\\/10 {
+  background-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/10 {
+    background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.bg-white\\/\\[0\\.08\\] {
+  background-color: color-mix(in srgb, #fff 8%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/\\[0\\.08\\] {
+    background-color: color-mix(in oklab, var(--color-white) 8%, transparent);
+  }
+}
+.bg-gradient-to-br {
+  --tw-gradient-position: to bottom right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-r {
+  --tw-gradient-position: to right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-t {
+  --tw-gradient-position: to top in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.from-background {
+  --tw-gradient-from: hsl(var(--background));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary\\/30 {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .from-primary\\/30 {
+    --tw-gradient-from: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.via-purple-400 {
+  --tw-gradient-via: var(--color-purple-400);
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.via-transparent {
+  --tw-gradient-via: transparent;
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.to-accent {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.to-accent\\/30 {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .to-accent\\/30 {
+    --tw-gradient-to: color-mix(in oklab, hsl(var(--accent)) 30%, transparent);
+  }
+}
+.to-transparent {
+  --tw-gradient-to: transparent;
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.bg-clip-text {
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.object-contain {
+  object-fit: contain;
+}
+.object-cover {
+  object-fit: cover;
+}
+.p-1 {
+  padding: calc(var(--spacing) * 1);
+}
+.p-2 {
+  padding: calc(var(--spacing) * 2);
+}
+.p-3 {
+  padding: calc(var(--spacing) * 3);
+}
+.p-4 {
+  padding: calc(var(--spacing) * 4);
+}
+.p-6 {
+  padding: calc(var(--spacing) * 6);
+}
+.p-8 {
+  padding: calc(var(--spacing) * 8);
+}
+.px-2 {
+  padding-inline: calc(var(--spacing) * 2);
+}
+.px-2\\.5 {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.px-3 {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.px-4 {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.px-6 {
+  padding-inline: calc(var(--spacing) * 6);
+}
+.px-8 {
+  padding-inline: calc(var(--spacing) * 8);
+}
+.py-0\\.5 {
+  padding-block: calc(var(--spacing) * 0.5);
+}
+.py-1 {
+  padding-block: calc(var(--spacing) * 1);
+}
+.py-2 {
+  padding-block: calc(var(--spacing) * 2);
+}
+.py-3 {
+  padding-block: calc(var(--spacing) * 3);
+}
+.py-4 {
+  padding-block: calc(var(--spacing) * 4);
+}
+.py-6 {
+  padding-block: calc(var(--spacing) * 6);
+}
+.py-10 {
+  padding-block: calc(var(--spacing) * 10);
+}
+.py-12 {
+  padding-block: calc(var(--spacing) * 12);
+}
+.py-16 {
+  padding-block: calc(var(--spacing) * 16);
+}
+.py-20 {
+  padding-block: calc(var(--spacing) * 20);
+}
+.py-24 {
+  padding-block: calc(var(--spacing) * 24);
+}
+.pt-0 {
+  padding-top: calc(var(--spacing) * 0);
+}
+.pt-2 {
+  padding-top: calc(var(--spacing) * 2);
+}
+.pt-6 {
+  padding-top: calc(var(--spacing) * 6);
+}
+.pt-8 {
+  padding-top: calc(var(--spacing) * 8);
+}
+.pt-10 {
+  padding-top: calc(var(--spacing) * 10);
+}
+.pr-8 {
+  padding-right: calc(var(--spacing) * 8);
+}
+.pb-2 {
+  padding-bottom: calc(var(--spacing) * 2);
+}
+.pb-12 {
+  padding-bottom: calc(var(--spacing) * 12);
+}
+.pb-20 {
+  padding-bottom: calc(var(--spacing) * 20);
+}
+.pb-24 {
+  padding-bottom: calc(var(--spacing) * 24);
+}
+.pl-4 {
+  padding-left: calc(var(--spacing) * 4);
+}
+.pl-12 {
+  padding-left: calc(var(--spacing) * 12);
+}
+.text-center {
+  text-align: center;
+}
+.font-mono {
+  font-family: var(--font-mono);
+}
+.font-sans {
+  font-family: var(--font-sans);
+}
+.text-2xl {
+  font-size: var(--text-2xl);
+  line-height: var(--tw-leading, var(--text-2xl--line-height));
+}
+.text-4xl {
+  font-size: var(--text-4xl);
+  line-height: var(--tw-leading, var(--text-4xl--line-height));
+}
+.text-5xl {
+  font-size: var(--text-5xl);
+  line-height: var(--tw-leading, var(--text-5xl--line-height));
+}
+.text-base {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.text-lg {
+  font-size: var(--text-lg);
+  line-height: var(--tw-leading, var(--text-lg--line-height));
+}
+.text-sm {
+  font-size: var(--text-sm);
+  line-height: var(--tw-leading, var(--text-sm--line-height));
+}
+.text-xl {
+  font-size: var(--text-xl);
+  line-height: var(--tw-leading, var(--text-xl--line-height));
+}
+.text-xs {
+  font-size: var(--text-xs);
+  line-height: var(--tw-leading, var(--text-xs--line-height));
+}
+.text-\\[11px\\] {
+  font-size: 11px;
+}
+.leading-\\[1\\.1\\] {
+  --tw-leading: 1.1;
+  line-height: 1.1;
+}
+.leading-none {
+  --tw-leading: 1;
+  line-height: 1;
+}
+.leading-relaxed {
+  --tw-leading: var(--leading-relaxed);
+  line-height: var(--leading-relaxed);
+}
+.leading-tight {
+  --tw-leading: var(--leading-tight);
+  line-height: var(--leading-tight);
+}
+.font-black {
+  --tw-font-weight: var(--font-weight-black);
+  font-weight: var(--font-weight-black);
+}
+.font-bold {
+  --tw-font-weight: var(--font-weight-bold);
+  font-weight: var(--font-weight-bold);
+}
+.font-light {
+  --tw-font-weight: var(--font-weight-light);
+  font-weight: var(--font-weight-light);
+}
+.font-medium {
+  --tw-font-weight: var(--font-weight-medium);
+  font-weight: var(--font-weight-medium);
+}
+.font-normal {
+  --tw-font-weight: var(--font-weight-normal);
+  font-weight: var(--font-weight-normal);
+}
+.font-semibold {
+  --tw-font-weight: var(--font-weight-semibold);
+  font-weight: var(--font-weight-semibold);
+}
+.tracking-tight {
+  --tw-tracking: var(--tracking-tight);
+  letter-spacing: var(--tracking-tight);
+}
+.tracking-wide {
+  --tw-tracking: var(--tracking-wide);
+  letter-spacing: var(--tracking-wide);
+}
+.tracking-wider {
+  --tw-tracking: var(--tracking-wider);
+  letter-spacing: var(--tracking-wider);
+}
+.tracking-widest {
+  --tw-tracking: var(--tracking-widest);
+  letter-spacing: var(--tracking-widest);
+}
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+.text-amber-500 {
+  color: var(--color-amber-500);
+}
+.text-background {
+  color: hsl(var(--background));
+}
+.text-blue-500 {
+  color: var(--color-blue-500);
+}
+.text-card-foreground {
+  color: hsl(var(--card-foreground));
+}
+.text-destructive-foreground {
+  color: hsl(var(--destructive-foreground));
+}
+.text-emerald-500 {
+  color: var(--color-emerald-500);
+}
+.text-foreground {
+  color: hsl(var(--foreground));
+}
+.text-gray-600 {
+  color: var(--color-gray-600);
+}
+.text-gray-900 {
+  color: var(--color-gray-900);
+}
+.text-muted-foreground {
+  color: hsl(var(--muted-foreground));
+}
+.text-primary {
+  color: hsl(var(--primary));
+}
+.text-primary-foreground {
+  color: hsl(var(--primary-foreground));
+}
+.text-purple-500 {
+  color: var(--color-purple-500);
+}
+.text-red-500 {
+  color: var(--color-red-500);
+}
+.text-resume-gold {
+  color: rgba(207, 170, 110, 1);
+}
+.text-resume-teal {
+  color: var(--resume-teal);
+}
+.text-resume-teal-dark {
+  color: rgba(58, 111, 122, 1);
+}
+.text-resume-teal-light {
+  color: rgba(142, 195, 204, 1);
+}
+.text-secondary-foreground {
+  color: hsl(var(--secondary-foreground));
+}
+.text-slate-500 {
+  color: var(--color-slate-500);
+}
+.text-slate-600 {
+  color: var(--color-slate-600);
+}
+.text-slate-700 {
+  color: var(--color-slate-700);
+}
+.text-slate-800 {
+  color: var(--color-slate-800);
+}
+.text-slate-900 {
+  color: var(--color-slate-900);
+}
+.text-transparent {
+  color: transparent;
+}
+.text-white {
+  color: var(--color-white);
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.italic {
+  font-style: italic;
+}
+.underline-offset-4 {
+  text-underline-offset: 4px;
+}
+.opacity-0 {
+  opacity: 0%;
+}
+.opacity-10 {
+  opacity: 10%;
+}
+.opacity-15 {
+  opacity: 15%;
+}
+.opacity-20 {
+  opacity: 20%;
+}
+.opacity-60 {
+  opacity: 60%;
+}
+.opacity-70 {
+  opacity: 70%;
+}
+.opacity-75 {
+  opacity: 75%;
+}
+.opacity-80 {
+  opacity: 80%;
+}
+.opacity-90 {
+  opacity: 90%;
+}
+.shadow-2xl {
+  --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0 0 0 / 0.25));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\[0_8px_32px_0_rgba\\(0\\,0\\,0\\,0\\.37\\)\\] {
+  --tw-shadow: 0 8px 32px 0 var(--tw-shadow-color, rgba(0,0,0,0.37));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\[0_10px_20px_-10px_rgba\\(var\\(--primary\\)\\,0\\.5\\)\\] {
+  --tw-shadow: 0 10px 20px -10px var(--tw-shadow-color, rgba(var(--primary),0.5));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-lg {
+  --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-sm {
+  --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-xs {
+  --tw-shadow: 0 1px 2px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.05));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.outline {
+  outline-style: var(--tw-outline-style);
+  outline-width: 1px;
+}
+.blur-\\[90px\\] {
+  --tw-blur: blur(90px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\[100px\\] {
+  --tw-blur: blur(100px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\[120px\\] {
+  --tw-blur: blur(120px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\[150px\\] {
+  --tw-blur: blur(150px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-xl {
+  --tw-blur: blur(var(--blur-xl));
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.backdrop-blur-2xl {
+  --tw-backdrop-blur: blur(var(--blur-2xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-sm {
+  --tw-backdrop-blur: blur(var(--blur-sm));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-xl {
+  --tw-backdrop-blur: blur(var(--blur-xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.transition-all {
+  transition-property: all;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-colors {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-opacity {
+  transition-property: opacity;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-transform {
+  transition-property:
+    transform,
+    translate,
+    scale,
+    rotate;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.duration-300 {
+  --tw-duration: 300ms;
+  transition-duration: 300ms;
+}
+.duration-500 {
+  --tw-duration: 500ms;
+  transition-duration: 500ms;
+}
+.duration-650 {
+  --tw-duration: 650ms;
+  transition-duration: 650ms;
+}
+.duration-700 {
+  --tw-duration: 700ms;
+  transition-duration: 700ms;
+}
+.duration-1000 {
+  --tw-duration: 1000ms;
+  transition-duration: 1000ms;
+}
+.ease-out {
+  --tw-ease: var(--ease-out);
+  transition-timing-function: var(--ease-out);
+}
+.outline-none {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:translate-x-2:is(:where(.group):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 2);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-105:is(:where(.group):hover *) {
+    --tw-scale-x: 105%;
+    --tw-scale-y: 105%;
+    --tw-scale-z: 105%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-110:is(:where(.group):hover *) {
+    --tw-scale-x: 110%;
+    --tw-scale-y: 110%;
+    --tw-scale-z: 110%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-x-100:is(:where(.group):hover *) {
+    --tw-scale-x: 100%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:-rotate-12:is(:where(.group):hover *) {
+    rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:bg-primary\\/20:is(:where(.group):hover *) {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .group-hover\\:bg-primary\\/20:is(:where(.group):hover *) {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:text-primary:is(:where(.group):hover *) {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-20:is(:where(.group):hover *) {
+    opacity: 20%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-100:is(:where(.group):hover *) {
+    opacity: 100%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-\\[0\\.03\\]:is(:where(.group):hover *) {
+    opacity: 0.03;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\/link\\:translate-x-1:is(:where(.group\\/link):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+.marker\\:text-resume-teal *::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal *::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.last\\:border-0:last-child {
+  border-style: var(--tw-border-style);
+  border-width: 0px;
+}
+@media (hover: hover) {
+  .hover\\:-translate-y-1:hover {
+    --tw-translate-y: calc(var(--spacing) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/50:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/50:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/60:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/60:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 60%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-accent:hover {
+    background-color: hsl(var(--accent));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-destructive\\/90:hover {
+    background-color: hsl(var(--destructive));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-destructive\\/90:hover {
+      background-color: color-mix(in oklab, hsl(var(--destructive)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/5:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/5:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/20:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/20:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/90:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/90:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary:hover {
+    background-color: hsl(var(--secondary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary\\/80:hover {
+    background-color: hsl(var(--secondary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-secondary\\/80:hover {
+      background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-white\\/\\[0\\.12\\]:hover {
+    background-color: color-mix(in srgb, #fff 12%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-white\\/\\[0\\.12\\]:hover {
+      background-color: color-mix(in oklab, var(--color-white) 12%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-accent-foreground:hover {
+    color: hsl(var(--accent-foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-foreground:hover {
+    color: hsl(var(--foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary:hover {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary\\/80:hover {
+    color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-primary\\/80:hover {
+      color: color-mix(in oklab, hsl(var(--primary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-white\\/80:hover {
+    color: color-mix(in srgb, #fff 80%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-white\\/80:hover {
+      color: color-mix(in oklab, var(--color-white) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:underline:hover {
+    text-decoration-line: underline;
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\[0_20px_30px_-10px_rgba\\(var\\(--primary\\)\\,0\\.6\\)\\]:hover {
+    --tw-shadow: 0 20px 30px -10px var(--tw-shadow-color, rgba(var(--primary),0.6));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\[0_20px_40px_rgba\\(0\\,0\\,0\\,0\\.5\\)\\,0_0_20px_rgba\\(var\\(--primary\\)\\,0\\.1\\)\\]:hover {
+    --tw-shadow: 0 20px 40px var(--tw-shadow-color, rgba(0,0,0,0.5)), 0 0 20px var(--tw-shadow-color, rgba(var(--primary),0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-lg:hover {
+    --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+.focus\\:border-primary\\/50:focus {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus\\:border-primary\\/50:focus {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.focus\\:ring-2:focus {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus\\:ring-ring:focus {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus\\:ring-offset-2:focus {
+  --tw-ring-offset-width: 2px;
+  --tw-ring-offset-shadow: var(--tw-ring-inset,) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+}
+.focus\\:outline-none:focus {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.focus-visible\\:border-ring:focus-visible {
+  border-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-1:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-\\[3px\\]:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-destructive\\/20:focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-destructive\\/20:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+.focus-visible\\:ring-ring:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-ring\\/50:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-ring\\/50:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--ring)) 50%, transparent);
+  }
+}
+.focus-visible\\:outline-none:focus-visible {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.active\\:scale-95:active {
+  --tw-scale-x: 95%;
+  --tw-scale-y: 95%;
+  --tw-scale-z: 95%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.active\\:shadow-none:active {
+  --tw-shadow: 0 0 #0000;
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.disabled\\:pointer-events-none:disabled {
+  pointer-events: none;
+}
+.disabled\\:opacity-50:disabled {
+  opacity: 50%;
+}
+.has-\\[\\>ng-icon\\]\\:px-2\\.5:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.has-\\[\\>ng-icon\\]\\:px-3:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.has-\\[\\>ng-icon\\]\\:px-4:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.aria-invalid\\:border-destructive[aria-invalid=true] {
+  border-color: hsl(var(--destructive));
+}
+.aria-invalid\\:ring-destructive\\/20[aria-invalid=true] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .aria-invalid\\:ring-destructive\\/20[aria-invalid=true] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:top-auto {
+    top: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:bottom-0 {
+    bottom: calc(var(--spacing) * 0);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:w-auto {
+    width: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-col {
+    flex-direction: column;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-row {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-1 {
+    grid-column: span 1 / span 1;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-2 {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-3 {
+    grid-column: span 3 / span 3;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-5 {
+    grid-column: span 5 / span 5;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-7 {
+    grid-column: span 7 / span 7;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex {
+    display: flex;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:hidden {
+    display: none;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:max-w-\\[420px\\] {
+    max-width: 420px;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex-row {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-12 {
+    padding-block: calc(var(--spacing) * 12);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-20 {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-24 {
+    padding-block: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-2xl {
+    font-size: var(--text-2xl);
+    line-height: var(--tw-leading, var(--text-2xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-5xl {
+    font-size: var(--text-5xl);
+    line-height: var(--tw-leading, var(--text-5xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-6xl {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-base {
+    font-size: var(--text-base);
+    line-height: var(--tw-leading, var(--text-base--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:sticky {
+    position: sticky;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:top-24 {
+    top: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-2 {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-4 {
+    grid-column: span 4 / span 4;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-8 {
+    grid-column: span 8 / span 8;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:block {
+    display: block;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex {
+    display: flex;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-1\\/3 {
+    width: calc(1/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-2\\/3 {
+    width: calc(2/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex-row {
+    flex-direction: row;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:py-20 {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-6xl {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-7xl {
+    font-size: var(--text-7xl);
+    line-height: var(--tw-leading, var(--text-7xl--line-height));
+  }
+}
+.dark\\:border-input:is(.dark *) {
+  border-color: hsl(var(--input));
+}
+.dark\\:bg-destructive\\/60:is(.dark *) {
+  background-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-destructive\\/60:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--destructive)) 60%, transparent);
+  }
+}
+.dark\\:bg-input\\/30:is(.dark *) {
+  background-color: hsl(var(--input));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-input\\/30:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--input)) 30%, transparent);
+  }
+}
+.dark\\:bg-white\\/5:is(.dark *) {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-white\\/5:is(.dark *) {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-accent\\/50:is(.dark *):hover {
+    background-color: hsl(var(--accent));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-accent\\/50:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--accent)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-input\\/50:is(.dark *):hover {
+    background-color: hsl(var(--input));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-input\\/50:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--input)) 50%, transparent);
+    }
+  }
+}
+.dark\\:focus-visible\\:ring-destructive\\/40:is(.dark *):focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:focus-visible\\:ring-destructive\\/40:is(.dark *):focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+.dark\\:aria-invalid\\:ring-destructive\\/40:is(.dark *)[aria-invalid=true] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:aria-invalid\\:ring-destructive\\/40:is(.dark *)[aria-invalid=true] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+@media print {
+  .print\\:inline {
+    display: inline;
+  }
+}
+@media print {
+  .print\\:border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+}
+@media print {
+  .print\\:bg-none {
+    background-image: none;
+  }
+}
+@media print {
+  .print\\:px-0 {
+    padding-inline: calc(var(--spacing) * 0);
+  }
+}
+@media print {
+  .print\\:text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+}
+@media print {
+  .print\\:after\\:content-\\[\\'\\,_\\'\\]::after {
+    --tw-content: ", ";
+    content: var(--tw-content);
+  }
+}
+@media print {
+  .print\\:last\\:after\\:content-\\[\\'\\'\\]:last-child::after {
+    --tw-content: "";
+    content: var(--tw-content);
+  }
+}
+.\\[\\&_ng-icon\\]\\:pointer-events-none ng-icon {
+  pointer-events: none;
+}
+.\\[\\&_ng-icon\\]\\:shrink-0 ng-icon {
+  flex-shrink: 0;
+}
+.\\[\\&_ng-icon\\:not\\(\\[class\\*\\=\\'text-\\'\\]\\)\\]\\:text-base ng-icon:not([class*=text-]) {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.\\[\\&_svg\\]\\:pointer-events-none svg {
+  pointer-events: none;
+}
+.\\[\\&_svg\\]\\:size-4 svg {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.\\[\\&_svg\\]\\:shrink-0 svg {
+  flex-shrink: 0;
+}
+@layer theme, base, components, utilities;
+@layer base {
+  .root {
+    --button-outline: rgba(0, 0, 0, .10);
+    --badge-outline: rgba(0, 0, 0, .05);
+    --opaque-button-border-intensity: -8;
+    --elevate-1: rgba(0, 0, 0, .03);
+    --elevate-2: rgba(0, 0, 0, .08);
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+    --my-radius: 10px;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --sidebar: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+    --font-sans:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-serif:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-mono:
+      "Courier New",
+      Courier,
+      monospace;
+    --tracking-normal: 0em;
+    --spacing: 0.25rem;
+    --sidebar-primary-border: hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --sidebar-accent-border: hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --primary-border: hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --secondary-border: hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --muted-border: hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --accent-border: hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --destructive-border: hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --cursor-outline-color: oklch(68.762% 0.30745 333.944);
+  }
+  .dark {
+    --button-outline: rgba(255, 255, 255, .10);
+    --badge-outline: rgba(255, 255, 255, .05);
+    --opaque-button-border-intensity: 9;
+    --elevate-1: rgba(255, 255, 255, .04);
+    --elevate-2: rgba(255, 255, 255, .09);
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+  * {
+    border-color: hsl(var(--border));
+  }
+  body {
+    background-color: hsl(var(--background));
+    font-family: var(--font-sans);
+    color: hsl(var(--foreground));
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  * {
+    font-family:
+      Arial,
+      Helvetica,
+      sans-serif !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    box-sizing: border-box !important;
+  }
+}
+@layer utilities {
+  input[type=search]::-webkit-search-cancel-button {
+    display: none;
+  }
+  [contenteditable][data-placeholder]:empty::before {
+    content: attr(data-placeholder);
+    color: hsl(var(--muted-foreground));
+    pointer-events: none;
+  }
+}
+@property --tw-translate-x { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-y { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-z { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-scale-x { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-y { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-z { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-rotate-x { syntax: "*"; inherits: false; }
+@property --tw-rotate-y { syntax: "*"; inherits: false; }
+@property --tw-rotate-z { syntax: "*"; inherits: false; }
+@property --tw-skew-x { syntax: "*"; inherits: false; }
+@property --tw-skew-y { syntax: "*"; inherits: false; }
+@property --tw-space-y-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-space-x-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-border-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-gradient-position { syntax: "*"; inherits: false; }
+@property --tw-gradient-from { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-via { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-to { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-via-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-from-position { syntax: "<length-percentage>"; inherits: false; initial-value: 0%; }
+@property --tw-gradient-via-position { syntax: "<length-percentage>"; inherits: false; initial-value: 50%; }
+@property --tw-gradient-to-position { syntax: "<length-percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-leading { syntax: "*"; inherits: false; }
+@property --tw-font-weight { syntax: "*"; inherits: false; }
+@property --tw-tracking { syntax: "*"; inherits: false; }
+@property --tw-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-inset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-inset-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-ring-color { syntax: "*"; inherits: false; }
+@property --tw-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-ring-color { syntax: "*"; inherits: false; }
+@property --tw-inset-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-ring-inset { syntax: "*"; inherits: false; }
+@property --tw-ring-offset-width { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --tw-ring-offset-color { syntax: "*"; inherits: false; initial-value: #fff; }
+@property --tw-ring-offset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-outline-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-blur { syntax: "*"; inherits: false; }
+@property --tw-brightness { syntax: "*"; inherits: false; }
+@property --tw-contrast { syntax: "*"; inherits: false; }
+@property --tw-grayscale { syntax: "*"; inherits: false; }
+@property --tw-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-invert { syntax: "*"; inherits: false; }
+@property --tw-opacity { syntax: "*"; inherits: false; }
+@property --tw-saturate { syntax: "*"; inherits: false; }
+@property --tw-sepia { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-drop-shadow-size { syntax: "*"; inherits: false; }
+@property --tw-backdrop-blur { syntax: "*"; inherits: false; }
+@property --tw-backdrop-brightness { syntax: "*"; inherits: false; }
+@property --tw-backdrop-contrast { syntax: "*"; inherits: false; }
+@property --tw-backdrop-grayscale { syntax: "*"; inherits: false; }
+@property --tw-backdrop-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-invert { syntax: "*"; inherits: false; }
+@property --tw-backdrop-opacity { syntax: "*"; inherits: false; }
+@property --tw-backdrop-saturate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-sepia { syntax: "*"; inherits: false; }
+@property --tw-duration { syntax: "*"; inherits: false; }
+@property --tw-ease { syntax: "*"; inherits: false; }
+@property --tw-content { syntax: "*"; initial-value: ""; inherits: false; }
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+@keyframes pulse {
+  50% {
+    opacity: 0.5;
+  }
+}
+@layer properties {
+  @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
+    *,
+    ::before,
+    ::after,
+    ::backdrop {
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+      --tw-scale-x: 1;
+      --tw-scale-y: 1;
+      --tw-scale-z: 1;
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-space-y-reverse: 0;
+      --tw-space-x-reverse: 0;
+      --tw-border-style: solid;
+      --tw-gradient-position: initial;
+      --tw-gradient-from: #0000;
+      --tw-gradient-via: #0000;
+      --tw-gradient-to: #0000;
+      --tw-gradient-stops: initial;
+      --tw-gradient-via-stops: initial;
+      --tw-gradient-from-position: 0%;
+      --tw-gradient-via-position: 50%;
+      --tw-gradient-to-position: 100%;
+      --tw-leading: initial;
+      --tw-font-weight: initial;
+      --tw-tracking: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-blur: initial;
+      --tw-brightness: initial;
+      --tw-contrast: initial;
+      --tw-grayscale: initial;
+      --tw-hue-rotate: initial;
+      --tw-invert: initial;
+      --tw-opacity: initial;
+      --tw-saturate: initial;
+      --tw-sepia: initial;
+      --tw-drop-shadow: initial;
+      --tw-drop-shadow-color: initial;
+      --tw-drop-shadow-alpha: 100%;
+      --tw-drop-shadow-size: initial;
+      --tw-backdrop-blur: initial;
+      --tw-backdrop-brightness: initial;
+      --tw-backdrop-contrast: initial;
+      --tw-backdrop-grayscale: initial;
+      --tw-backdrop-hue-rotate: initial;
+      --tw-backdrop-invert: initial;
+      --tw-backdrop-opacity: initial;
+      --tw-backdrop-saturate: initial;
+      --tw-backdrop-sepia: initial;
+      --tw-duration: initial;
+      --tw-ease: initial;
+      --tw-content: "";
+    }
+  }
+}
+/*! tailwindcss v4.1.18 | MIT License | https://tailwindcss.com */
+/*# sourceMappingURL=resume-tr-component.css.map */
+`] }]
+  }], () => [{ type: void 0, decorators: [{
+    type: Inject,
+    args: [PLATFORM_ID]
+  }] }, { type: void 0, decorators: [{
+    type: Inject,
+    args: ["local-config"]
+  }] }], null);
+})();
+(() => {
+  (typeof ngDevMode === "undefined" || ngDevMode) && \u0275setClassDebugInfo(ResumeTrComponent, { className: "ResumeTrComponent", filePath: "src/app/component/resume-tr-component/resume-tr-component.ts", lineNumber: 11 });
+})();
+
+// src/app/component/resume-one-tr-component/resume-one-tr-component.ts
+function ResumeOneTrComponent_div_280_span_4_Template(rf, ctx) {
+  if (rf & 1) {
+    \u0275\u0275elementStart(0, "span", 46);
+    \u0275\u0275text(1);
+    \u0275\u0275elementEnd();
+  }
+  if (rf & 2) {
+    const skill_r1 = ctx.$implicit;
+    \u0275\u0275advance();
+    \u0275\u0275textInterpolate1(" ", skill_r1, " ");
+  }
+}
+function ResumeOneTrComponent_div_280_Template(rf, ctx) {
+  if (rf & 1) {
+    \u0275\u0275elementStart(0, "div")(1, "h3", 43);
+    \u0275\u0275text(2);
+    \u0275\u0275elementEnd();
+    \u0275\u0275elementStart(3, "div", 44);
+    \u0275\u0275template(4, ResumeOneTrComponent_div_280_span_4_Template, 2, 1, "span", 45);
+    \u0275\u0275elementEnd()();
+  }
+  if (rf & 2) {
+    const group_r2 = ctx.$implicit;
+    \u0275\u0275advance(2);
+    \u0275\u0275textInterpolate1(" ", group_r2.title, " ");
+    \u0275\u0275advance(2);
+    \u0275\u0275property("ngForOf", group_r2.items);
+  }
+}
+var ResumeOneTrComponent = class _ResumeOneTrComponent {
+  platform;
+  config;
+  MailIcon = Mail;
+  PhoneIcon = Phone;
+  MapPinIcon = MapPin;
+  GlobeIcon = Globe;
+  LinkedInIcon = Linkedin;
+  GithubIcon = Github;
+  tel = "";
+  constructor(platform, config3) {
+    this.platform = platform;
+    this.config = config3;
+    this.tel = config3?.telephone;
+  }
+  expertiseAreas = [
+    "Computer Vision & Biometric Systems",
+    "Natural Language Processing & Transformer-based Models",
+    "Machine Learning & Deep Learning",
+    "Remote Sensing & Geospatial Analysis"
+  ];
+  technicalSkills = [
+    "Docker",
+    "Kubernetes",
+    "Python",
+    "C#",
+    "Terraform",
+    "ESRI ArcGIS Pro",
+    "Github-Workflows",
+    "ArgoCD",
+    "PyTorch",
+    "Transformers",
+    "TensorFlow",
+    "Scikit-learn",
+    "Pandas",
+    "Numpy",
+    "Matplotlib",
+    "Seaborn",
+    "Cassandra",
+    "PostgresQL",
+    "Confluent Kafka",
+    "Rook-Ceph",
+    "Milvus",
+    "FastAPI",
+    "OpenCV",
+    "Ray",
+    "Git",
+    "Rastervision",
+    "Mediapipe",
+    "gRPC",
+    "Protobuf",
+    "LangChain",
+    "OnnxRuntime",
+    "Sockets",
+    "Linux",
+    "Redis",
+    "Prometheus",
+    "Grafana",
+    "Ansible"
+  ];
+  technicalSkillGroups = [
+    {
+      title: "Programlama",
+      items: [
+        "Python",
+        "C#",
+        "Linux",
+        "Git",
+        "Sockets"
+      ]
+    },
+    {
+      title: "MAK\u0130NE \xD6\u011ERENMES\u0130 & DER\u0130N \xD6\u011ERENME",
+      items: [
+        "PyTorch",
+        "TensorFlow",
+        "Transformers",
+        "Scikit-Learn",
+        "Onnx-Runtime",
+        "DeepSpeed",
+        "FairScale"
+      ]
+    },
+    {
+      title: "B\u0130LG\u0130SAYARLI G\xD6R\xDC & G\xD6R\xDCNT\xDCLEME",
+      items: [
+        "OpenCV",
+        "Mediapipe",
+        "Rastervision",
+        "GEE"
+      ]
+    },
+    {
+      title: "NLP & B\xDCY\xDCK D\u0130L MODELLER\u0130",
+      items: [
+        "LangChain",
+        "Unsloth",
+        "LLMA"
+      ]
+    },
+    {
+      title: "DevOps / MLOps",
+      items: [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Workflows",
+        "ArgoCD",
+        "Ansible",
+        "Prometheus",
+        "Grafana"
+      ]
+    },
+    {
+      title: "DA\u011EITIK S\u0130STEMLER",
+      items: [
+        "Confluent Kafka",
+        "gRPC",
+        "Protobuf",
+        "Rook-Ceph",
+        "Apache Spark",
+        "Ray"
+      ]
+    },
+    {
+      title: "Web Frameworks & APIs",
+      items: [
+        "ASP.NET Core",
+        "FastAPI",
+        "Flask",
+        "Angular"
+      ]
+    },
+    {
+      title: "VER\u0130 & VER\u0130 TABANLARI",
+      items: [
+        "Pandas",
+        "Numpy",
+        "Cassandra",
+        "PostgreSQL",
+        "Redis",
+        "Milvus",
+        "Qdrant",
+        "Firebase",
+        "Copernicus"
+      ]
+    },
+    {
+      title: "G\xD6RSELLE\u015ET\u0130RME",
+      items: [
+        "Matplotlib",
+        "Seaborn",
+        "Plotly"
+      ]
+    },
+    {
+      title: "CBS & UZAKTAN ALGILAMA",
+      items: [
+        "ESRI ArcGIS Pro",
+        "QGIS"
+      ]
+    }
+  ];
+  static \u0275fac = function ResumeOneTrComponent_Factory(__ngFactoryType__) {
+    return new (__ngFactoryType__ || _ResumeOneTrComponent)(\u0275\u0275directiveInject(PLATFORM_ID), \u0275\u0275directiveInject("local-config"));
+  };
+  static \u0275cmp = /* @__PURE__ */ \u0275\u0275defineComponent({ type: _ResumeOneTrComponent, selectors: [["app-resume-one-tr-component"]], decls: 305, vars: 9, consts: [["pdfArea", ""], [1, "min-h-screen", "bg-white", "font-sans", "text-slate-800"], [1, "bg-resume-teal", "text-white", "px-8", "py-10", "md:py-12"], [1, "max-w-6xl", "mx-auto"], [1, "text-4xl", "md:text-6xl", "font-bold", "mb-2", "tracking-tight"], [1, "text-xl", "md:text-2xl", "font-light", "text-resume-teal-light", "mb-6"], [1, "text-sm", "md:text-base", "leading-relaxed", "opacity-90", "mb-6", "max-w-4xl"], [1, "grid", "grid-cols-1", "md:grid-cols-2", "lg:grid-cols-4", "gap-4", "text-sm", "font-medium"], [1, "flex", "items-center", "gap-2", "hover:text-white/80", "transition-colors"], [1, "my-icon", 3, "img"], ["href", "mailto:burakhansamli@proton.me"], [3, "href"], ["href", "https://www.linkedin.com/in/burakhan-\u015Faml\u0131-0000/"], ["href", "https://github.com/blitzkrieg0000"], ["href", "https://blitzkrieg0000.github.io/"], [1, "max-w-6xl", "mx-auto", "px-2", "py-6", "grid", "grid-cols-1", "gap-12"], [1, "md:col-span-7", "lg:col-span-8", "space-y-10"], [1, "text-resume-gold", "text-2xl", "font-bold", "uppercase", "border-b-2", "border-resume-gold/30", "pb-2", "mb-2", "tracking-wide"], [1, "space-y-8", "relative", "pl-4", "border-l-2", "border-slate-300", "ml-2"], [1, "relative", "mb-2"], [1, "absolute", "-left-[25px]", "top-1", "w-4", "h-4", "rounded-full", "bg-resume-gold", "border-4", "border-white", "shadow-sm"], [1, "flex", "justify-between", "items-baseline", "mb-1"], [1, "text-xl", "font-bold", "text-slate-900"], [1, "text-sm", "italic", "text-slate-500"], [1, "text-xs", "font-semibold", "text-resume-teal-dark", "bg-resume-teal/10", "px-2", "py-0.5", "rounded"], [1, "space-y-8", "relative", "pl-4", "border-l-2", "border-slate-200", "ml-0"], [1, "relative"], [1, "absolute", "-left-[23px]", "top-2", "w-3", "h-3", "rounded-full", "bg-resume-teal", "border-3", "border-white", "shadow-sm"], [1, "flex", "justify-between", "items-baseline", "mb-3"], [1, "text-lg", "font-semibold", "text-slate-700"], [1, "list-disc", "list-outside", "ml-4", "space-y-2", "text-sm", "text-slate-600", "marker:text-resume-teal"], [1, "list-disc", "list-outside", "ml-4", "mt-2", "space-y-2", "text-sm", "text-slate-600", "marker:text-resume-teal"], [1, "space-y-8", "relative", "pl-4", "border-l-2", "border-slate-200", "ml-2"], [1, "absolute", "-left-[25px]", "top-1", "w-4", "h-4", "rounded-full", "bg-resume-teal", "border-4", "border-white", "shadow-sm"], [1, "text-lg", "font-bold", "text-slate-900", "mb-0", "mt-1"], [1, "list-disc", "list-outside", "ml-4", "text-md", "text-slate-600", "marker:text-resume-teal"], [1, "space-y-4"], [4, "ngFor", "ngForOf"], [1, "text-base", "font-bold", "text-slate-800", "leading-tight", "mb-1"], [1, "text-lg", "font-bold", "text-slate-900", "leading-tight"], [1, "text-base", "font-medium", "text-slate-700", "mb-1"], [1, "text-md", "text-resume-gold", "font-medium"], [1, "text-sm", "text-resume-teal", "font-medium", "italic"], [1, "text-resume-teal", "font-semibold", "mb-1", "text-xs", "uppercase", "tracking-wide"], [1, "flex", "flex-wrap", "gap-2"], ["class", "px-2.5 py-1 bg-slate-100 text-slate-700 text-[11px] font-bold rounded-sm border border-slate-200 print:bg-none print:border-none print:px-0 print:text-sm print:inline print:after:content-[',_'] print:last:after:content-['']", 4, "ngFor", "ngForOf"], [1, "px-2.5", "py-1", "bg-slate-100", "text-slate-700", "text-[11px]", "font-bold", "rounded-sm", "border", "border-slate-200", "print:bg-none", "print:border-none", "print:px-0", "print:text-sm", "print:inline", "print:after:content-[',_']", "print:last:after:content-['']"]], template: function ResumeOneTrComponent_Template(rf, ctx) {
+    if (rf & 1) {
+      \u0275\u0275elementStart(0, "div", 1, 0)(2, "header", 2)(3, "div", 3)(4, "h1", 4);
+      \u0275\u0275text(5, "Burakhan \u015Eaml\u0131");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(6, "p", 5);
+      \u0275\u0275text(7, "Adli Bili\u015Fim M\xFChendisi | AI, CV, NLP & MLOps ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(8, "p", 6);
+      \u0275\u0275text(9, " \xA0\xA0Adli Bili\u015Fim M\xFChendisli\u011Fi altyap\u0131s\u0131na sahip bir Yapay Zeka Uzman\u0131 (AI Specialist) olarak; Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision), Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing) ve Uzaktan Alg\u0131lama (Remote Sensing) tabanl\u0131 yapay zeka sistemleri \xFCzerine \xE7al\u0131\u015Fmaktay\u0131m. Ger\xE7ek d\xFCnya uygulamalar\u0131na y\xF6nelik olarak; biyometrik kimliklendirme, nesne tespiti ve takibi (object detection & tracking), \xE7ok kameral\u0131 video analiti\u011Fi ve uydu g\xF6r\xFCnt\xFCs\xFC analizi gibi alanlarda u\xE7tan uca ve \xF6l\xE7eklenebilir yapay zeka \xE7\xF6z\xFCmleri geli\u015Ftirme deneyimine sahibim. G\xF6r\xFCnt\xFC ve dil alanlar\u0131nda Transformer tabanl\u0131 mimariler ile uygulamal\u0131 g\xFC\xE7l\xFC bir tecr\xFCbeye sahip olup, geli\u015Ftirdi\u011Fim yapay zeka modellerini Docker ve Kubernetes kullanarak konteyner tabanl\u0131 ve mikroservis mimarileri \xFCzerinde \xFCretim ortamlar\u0131na ta\u015F\u0131maktay\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(10, "div", 7)(11, "div", 8);
+      \u0275\u0275element(12, "lucide-icon", 9);
+      \u0275\u0275elementStart(13, "a", 10);
+      \u0275\u0275text(14, "burakhansamli@proton.me");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(15, "div", 8);
+      \u0275\u0275element(16, "lucide-icon", 9);
+      \u0275\u0275elementStart(17, "span")(18, "a", 11);
+      \u0275\u0275text(19);
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(20, "div", 8);
+      \u0275\u0275element(21, "lucide-icon", 9);
+      \u0275\u0275elementStart(22, "span");
+      \u0275\u0275text(23, "Ankara");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(24, "div", 8);
+      \u0275\u0275element(25, "lucide-icon", 9);
+      \u0275\u0275elementStart(26, "a", 12);
+      \u0275\u0275text(27, "Burakhan \u015Eaml\u0131");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(28, "div", 8);
+      \u0275\u0275element(29, "lucide-icon", 9);
+      \u0275\u0275elementStart(30, "a", 13);
+      \u0275\u0275text(31, "github.com/blitzkrieg0000");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(32, "div", 8);
+      \u0275\u0275element(33, "lucide-icon", 9);
+      \u0275\u0275elementStart(34, "a", 14);
+      \u0275\u0275text(35, "https://blitzkrieg0000.github.io/");
+      \u0275\u0275elementEnd()()()()();
+      \u0275\u0275elementStart(36, "main", 15)(37, "div", 16)(38, "section")(39, "div")(40, "h2", 17);
+      \u0275\u0275text(41, "\u0130\u015E DENEY\u0130M\u0130");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(42, "div", 18)(43, "div", 19);
+      \u0275\u0275element(44, "div", 20);
+      \u0275\u0275elementStart(45, "div", 21)(46, "h3", 22);
+      \u0275\u0275text(47, "Hexaops A.\u015E.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(48, "span", 23);
+      \u0275\u0275text(49, "Teknokent, Kahramanmara\u015F");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(50, "span", 24);
+      \u0275\u0275text(51, "10/2024 - 05/2025");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(52, "div", 25)(53, "div", 26);
+      \u0275\u0275element(54, "div", 27);
+      \u0275\u0275elementStart(55, "div", 28)(56, "h4", 29);
+      \u0275\u0275text(57, "Yapay Zeka M\xFChendisi ve Yaz\u0131l\u0131m Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(58, "ul", 30)(59, "li");
+      \u0275\u0275text(60, "Makine \xC7evirisi (Machine Translation) odakl\u0131 LLM fine-tuning s\xFCre\xE7lerine katk\u0131 sa\u011Flad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(61, "li");
+      \u0275\u0275text(62, "\xDCretim (production) ortamlar\u0131nda Text-to-Speech (TTS), Speech-to-Text (STT) ve voice cloning (ses klonlama) i\u015F ak\u0131\u015Flar\u0131n\u0131n geli\u015Ftirilmesine ve iyile\u015Ftirilmesine m\xFChendislik deste\u011Fi verdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(63, "li");
+      \u0275\u0275text(64, "S\u0131n\u0131rl\u0131 GPU kaynaklar\u0131 \xFCzerinde LLM fine-tuning yap\u0131labilmesini sa\u011Flamak amac\u0131yla Fully Sharded Data Parallel (FSDP) tabanl\u0131 da\u011F\u0131t\u0131k model e\u011Fitim tekniklerini uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(65, "li");
+      \u0275\u0275text(66, "Bellek kullan\u0131m\u0131 (memory footprint), e\u011Fitim s\xFCresi ve toplam hesaplama maliyetlerini azaltarak e\u011Fitim verimlili\u011Fini art\u0131rd\u0131m.");
+      \u0275\u0275elementEnd()()()();
+      \u0275\u0275elementStart(67, "div", 19);
+      \u0275\u0275element(68, "div", 20);
+      \u0275\u0275elementStart(69, "div", 21)(70, "h3", 22);
+      \u0275\u0275text(71, "DGH Arge Yaz\u0131l\u0131m LTD.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(72, "span", 23);
+      \u0275\u0275text(73, "ASB\xDC Teknokent, Ankara");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(74, "span", 24);
+      \u0275\u0275text(75, "08/2021 - 10/2024");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(76, "div", 25)(77, "div", 26);
+      \u0275\u0275element(78, "div", 27);
+      \u0275\u0275elementStart(79, "div", 21)(80, "h4", 29);
+      \u0275\u0275text(81, "Uzaktan Alg\u0131lama (Remote Sensing) & CBS (GIS) Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(82, "ul", 30)(83, "li");
+      \u0275\u0275text(84, " Multispektral ve hiperspektral uzaktan alg\u0131lama verilerini kullanarak uydu g\xF6r\xFCnt\xFCs\xFC analizi ve Co\u011Frafi Bilgi Sistemleri (CBS) tabanl\u0131 i\u015F ak\u0131\u015Flar\u0131 ger\xE7ekle\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(85, "li");
+      \u0275\u0275text(86, " Arazi Kullan\u0131m\u0131 / Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) s\u0131n\u0131fland\u0131rmas\u0131 ve analizi dahil olmak \xFCzere, tar\u0131m odakl\u0131 uzaktan alg\u0131lama projelerinde teknikler uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(87, "li");
+      \u0275\u0275text(88, " Sentinel, Landsat, Google Earth Engine (GEE), ArcGIS Pro ve Copernicus veri setleri gibi uydu platformlar\u0131 ve jeo-uzamsal ara\xE7larla aktif olarak \xE7al\u0131\u015Ft\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(89, "li");
+      \u0275\u0275text(90, " Ger\xE7ek d\xFCnya CBS ve \xE7evresel uygulamalar\u0131n\u0131 desteklemek amac\u0131yla uydu g\xF6r\xFCnt\xFClerinin \xF6n i\u015Fleme (preprocessing), analiz ve yorumlama s\xFCre\xE7lerini y\xFCr\xFCtt\xFCm. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(91, "div", 26);
+      \u0275\u0275element(92, "div", 27);
+      \u0275\u0275elementStart(93, "div", 21)(94, "h4", 29);
+      \u0275\u0275text(95, "Do\u011Fal Dil \u0130\u015Fleme & Transformer Model Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(96, "ul", 31)(97, "li");
+      \u0275\u0275text(98, "Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing - NLP) ve Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision) alanlar\u0131nda Transformer tabanl\u0131 mimariler geli\u015Ftirerek projelere uygun hale getirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(99, "li");
+      \u0275\u0275text(100, "Metin tabanl\u0131 analiz, \xF6zellik temsili (feature representation) ve modern derin \xF6\u011Frenme i\u015F ak\u0131\u015Flar\u0131 i\xE7in Transformer modellerini e\u011Fitimleri yapt\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(101, "li");
+      \u0275\u0275text(102, "Bilgisayarl\u0131 g\xF6r\xFC projelerinde, Transformer tabanl\u0131 yakla\u015F\u0131mlar\u0131 (DETR, VIT) entegre ederek aktif rol ald\u0131m.");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(103, "div", 26);
+      \u0275\u0275element(104, "div", 27);
+      \u0275\u0275elementStart(105, "div", 21)(106, "h3", 29);
+      \u0275\u0275text(107, "Ara\u015Ft\u0131rmac\u0131 & \u0130leri Sistemler");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(108, "ul", 31)(109, "li");
+      \u0275\u0275text(110, "Huawei Atlas 800 sunucular\u0131 \xFCzerinde, NPU acceleration deste\u011Fiyle Docker tabanl\u0131 ortamlarda YOLO tabanl\u0131 mimariler kullanarak hata tespiti (fault detection) i\xE7in deep learning modelleri e\u011Fittim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(111, "li");
+      \u0275\u0275text(112, "Computer Vision tabanl\u0131 altyap\u0131 hata tespit sistemleri i\xE7in sunucu taraf\u0131 AI e\u011Fitim i\u015F ak\u0131\u015Flar\u0131n\u0131 (training workflows) geli\u015Ftirdim ve y\xF6nettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(113, "li");
+      \u0275\u0275text(114, "Yapay zeka sistemlerinin y\xF6netimi ve veri i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla ASP.NET Core kullanarak backend odakl\u0131 web uygulamalar\u0131 tasarlad\u0131m ve hayata ge\xE7irdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(115, "li");
+      \u0275\u0275text(116, "\xC7evresel ve tar\u0131m odakl\u0131 senaryolar i\xE7in uzaktan alg\u0131lama (remote sensing) alan\u0131nda uygulamal\u0131 ara\u015Ft\u0131rmalar y\xFCr\xFCtt\xFCm.");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(117, "div", 26);
+      \u0275\u0275element(118, "div", 27);
+      \u0275\u0275elementStart(119, "div", 21)(120, "h4", 29);
+      \u0275\u0275text(121, "Yapay Zeka ve Bilgisayarl\u0131 G\xF6r\xFC (CV) M\xFChendisi");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(122, "ul", 30)(123, "li");
+      \u0275\u0275text(124, "OpenCV ve deep learning teknikleri kullanarak; OCR, image segmentation, object detection ve multi-object tracking gibi alanlarda AI tabanl\u0131 g\xF6r\xFCnt\xFC i\u015Fleme ve bilgisayarl\u0131 g\xF6r\xFC uygulamalar\u0131 geli\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(125, "li");
+      \u0275\u0275text(126, "Supervised deep learning i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla veri haz\u0131rlama (data preparation), etiketleme (labeling) ve veri art\u0131rma (augmentation) s\xFCre\xE7lerini kapsayan veri setleri olu\u015Fturdum ve y\xF6nettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(127, "li");
+      \u0275\u0275text(128, "GAN ve Transformer tabanl\u0131 g\xF6r\xFCnt\xFC iyile\u015Ftirme tekniklerini; super-resolution ve feature representation learning gibi yakla\u015F\u0131mlar \xFCzerinden uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(129, "li");
+      \u0275\u0275text(130, "Ger\xE7ek zamanl\u0131 (real-time) AI sistemleri tasarlay\u0131p hayata ge\xE7irdim; bu kapsamda kalite kontrol pipeline'lar\u0131, face recognition ve identification platformlar\u0131 ile y\xFCksek gerilim iletim hatlar\u0131nda hata tespiti (fault detection) i\xE7eren altyap\u0131 denetim \xE7\xF6z\xFCmleri geli\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(131, "li");
+      \u0275\u0275text(132, "PyTorch kullanarak derin \xF6\u011Frenme modelleri geli\u015Ftirdim ve bu modelleri NVIDIA Triton Inference Server ve TorchServe \xFCzerinden inference servisleri olarak da\u011F\u0131tt\u0131m.");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(133, "div", 26);
+      \u0275\u0275element(134, "div", 27);
+      \u0275\u0275elementStart(135, "div", 21)(136, "h3", 29);
+      \u0275\u0275text(137, "MLOps ve Backend Geli\u015Ftirici");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(138, "ul", 31)(139, "li");
+      \u0275\u0275text(140, "Python ve FastAPI kullanarak yapay zeka odakl\u0131 backend servisleri geli\u015Ftirdim; model \xE7\u0131kar\u0131m (inference) s\xFCre\xE7lerini NVIDIA Triton Inference Server \xFCzerinden servis ettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(141, "li");
+      \u0275\u0275text(142, "\xD6l\xE7eklenebilir ve mod\xFCler yaz\u0131l\u0131m sistemlerini desteklemek amac\u0131yla mikroservis tabanl\u0131 mimariler tasarlad\u0131m ve uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(143, "li");
+      \u0275\u0275text(144, "Uygulamalar\u0131 Docker, Kubernetes ve Proxmox kullanarak konteynerle\u015Ftirdim; orkestrasyon ve sanalla\u015Ft\u0131rma s\xFCre\xE7lerini y\xF6nettim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(145, "li");
+      \u0275\u0275text(146, "GitHub Actions, GHCR, ArgoCD ve Ansible kullanarak CI/CD pipeline'lar\u0131 olu\u015Fturdum ve da\u011F\u0131t\u0131m (deployment) s\xFCre\xE7lerini otomatikle\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(147, "li");
+      \u0275\u0275text(148, "Kafka, Redis ve RTMP tabanl\u0131 streaming sistemleri ile ger\xE7ek zamanl\u0131 veri i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(149, "li");
+      \u0275\u0275text(150, "Sistem performans\u0131 ve servis s\xFCreklili\u011Fini Prometheus ve Grafana ile izledim ve takip ettim.");
+      \u0275\u0275elementEnd()()()();
+      \u0275\u0275elementStart(151, "div", 19);
+      \u0275\u0275element(152, "div", 20);
+      \u0275\u0275elementStart(153, "div", 21)(154, "h3", 22);
+      \u0275\u0275text(155, "Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - I");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(156, "span", 24);
+      \u0275\u0275text(157, "07/2021 - 08/2021");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(158, "div", 25)(159, "div", 26);
+      \u0275\u0275element(160, "div", 27);
+      \u0275\u0275elementStart(161, "div", 28)(162, "h4", 29);
+      \u0275\u0275text(163, "DGH Arge Yaz\u0131l\u0131m");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(164, "span", 23);
+      \u0275\u0275text(165, "\u0130n\xF6n\xFC Teknokent, Malatya");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(166, "div")(167, "ul", 30)(168, "li");
+      \u0275\u0275text(169, "Python, PyTorch, TensorFlow ve OpenCV kullanarak AI tabanl\u0131 yaz\u0131l\u0131m geli\u015Ftirme s\xFCre\xE7lerinde temel d\xFCzeyde deneyim kazand\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(170, "li");
+      \u0275\u0275text(171, "ASP.NET Core kullan\u0131larak geli\u015Ftirilen backend servislerin olu\u015Fturulmas\u0131na ve Vue.js tabanl\u0131 frontend bile\u015Fenlerin entegrasyonuna destek verdim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(172, "li");
+      \u0275\u0275text(173, "Web tabanl\u0131 uygulamalar i\xE7in Socket.IO kullanarak ger\xE7ek zamanl\u0131 ileti\u015Fim (real-time communication) mekanizmalar\u0131n\u0131 inceledim ve uygulad\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(174, "li");
+      \u0275\u0275text(175, "K\u0131sa s\xFCreli staj projeleri kapsam\u0131nda ger\xE7ek zamanl\u0131 web entegrasyonu \xE7al\u0131\u015Fmalar\u0131na destek sa\u011Flad\u0131m.");
+      \u0275\u0275elementEnd()()()()();
+      \u0275\u0275elementStart(176, "div", 19);
+      \u0275\u0275element(177, "div", 20);
+      \u0275\u0275elementStart(178, "div", 21)(179, "h3", 22);
+      \u0275\u0275text(180, "Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - II");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(181, "span", 24);
+      \u0275\u0275text(182, "07/2020 - 08/2020");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(183, "div", 25)(184, "div", 26);
+      \u0275\u0275element(185, "div", 27);
+      \u0275\u0275elementStart(186, "div", 28)(187, "h4", 29);
+      \u0275\u0275text(188, "Telehouse \u0130stanbul - Teknotel");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(189, "span", 23);
+      \u0275\u0275text(190, "Kozyata\u011F\u0131, Kad\u0131k\xF6y/\u0130stanbul");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(191, "div")(192, "ul", 30)(193, "li");
+      \u0275\u0275text(194, "Cisco Packet Tracer kullanarak y\xF6nlendirme (routing) ve a\u011F protokollerine y\xF6nelik temel network altyap\u0131 \xE7al\u0131\u015Fmalar\u0131nda g\xF6rev ald\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(195, "li");
+      \u0275\u0275text(196, "HP kurumsal sunucular \xFCzerinde sunucu kurulumu ve yap\u0131land\u0131rma s\xFCre\xE7lerine destek verdim; SAS disk yap\u0131land\u0131rmas\u0131 ve RAID birle\u015Ftirme i\u015Flemlerinde yer ald\u0131m.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(197, "li");
+      \u0275\u0275text(198, "REST tabanl\u0131 mimariler ve web hosting sistemleri \xFCzerine pratik deneyim kazand\u0131m; WHMCS tabanl\u0131 servis ve m\xFC\u015Fteri y\xF6netim i\u015F ak\u0131\u015Flar\u0131n\u0131 inceledim.");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(199, "li");
+      \u0275\u0275text(200, "Sunucu, depolama ve ba\u011Flant\u0131 y\xF6netimini kapsayan network ve IT operasyonlar\u0131na destek sa\u011Flad\u0131m.");
+      \u0275\u0275elementEnd()()()()()()()();
+      \u0275\u0275elementStart(201, "section")(202, "h2", 17);
+      \u0275\u0275text(203, "Projects");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(204, "div", 32)(205, "div", 26);
+      \u0275\u0275element(206, "div", 33);
+      \u0275\u0275elementStart(207, "h3", 34);
+      \u0275\u0275text(208, "LULC Analizi & Uzaktan Alg\u0131lama (Remote Sensing)");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(209, "ul", 35)(210, "li");
+      \u0275\u0275text(211, " Multispektral Sentinel-2 ve Landsat uydu g\xF6r\xFCnt\xFClerini kullanarak Arazi Kullan\u0131m\u0131 ve Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) segmentasyonu ger\xE7ekle\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(212, "li");
+      \u0275\u0275text(213, " ArcGIS Pro ve QGIS kullanarak bile\u015Fik veri setleri (composite datasets) olu\u015Fturdum; arazi \xF6rt\xFCs\xFC s\u0131n\u0131flar\u0131n\u0131n alan da\u011F\u0131l\u0131mlar\u0131n\u0131 hesaplamak i\xE7in co\u011Frafi analizler yapt\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(214, "li");
+      \u0275\u0275text(215, " Google Earth Engine (GEE) API'leri ve Copernicus veri setleri \xFCzerinden, LULC analizine y\xF6nelik \xF6l\xE7eklenebilir veri toplama ve i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(216, "li");
+      \u0275\u0275text(217, " Web tabanl\u0131 jeo-uzamsal protokoller arac\u0131l\u0131\u011F\u0131yla map tile verilerini \xE7ekip i\u015Fleyerek, b\xFCy\xFCk \xF6l\xE7ekli mekansal analiz i\u015F ak\u0131\u015Flar\u0131n\u0131 destekledim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(218, "li");
+      \u0275\u0275text(219, " Radar verileri \xFCzerinden InSAR tabanl\u0131 teknikler kullanarak Say\u0131sal Y\xFCkseklik Modelleri (Digital Elevation Model - DEM) \xFCrettim ve arazi/y\xFCkseklik analizleri ger\xE7ekle\u015Ftirdim. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(220, "div", 26);
+      \u0275\u0275element(221, "div", 33);
+      \u0275\u0275elementStart(222, "h3", 34);
+      \u0275\u0275text(223, "Hata Tespiti Projesi - Y\xFCksek Gerilim \u0130letim Hatlar\u0131");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(224, "ul", 35)(225, "li");
+      \u0275\u0275text(226, " YOLOv11 tabanl\u0131 object detection ve segmentation modelleri kullanarak y\xFCksek gerilim iletim hatlar\u0131 i\xE7in computer vision tabanl\u0131 hata tespit sistemi geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(227, "li");
+      \u0275\u0275text(228, " \u0130zolat\xF6rler (insulators), direkler (poles) ve di\u011Fer yap\u0131sal bile\u015Fenleri kapsayan tespit ve segmentasyon pipeline'lar\u0131 tasarlad\u0131m ve uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(229, "li");
+      \u0275\u0275text(230, " Altyap\u0131 g\xFCvenli\u011Fi ve proaktif bak\u0131m s\xFCre\xE7lerini desteklemek amac\u0131yla, iletim hatlar\u0131 \xFCzerindeki ku\u015F yuvalar\u0131n\u0131n tespiti i\xE7in object detection modelleri geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(231, "li");
+      \u0275\u0275text(232, " Model e\u011Fitimi ve de\u011Ferlendirmesi i\xE7in \xF6zel veri setleri haz\u0131rlad\u0131m; veri etiketleme (annotation) ve kalite kontrol s\xFCre\xE7lerini y\xF6nettim. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(233, "div", 26);
+      \u0275\u0275element(234, "div", 33);
+      \u0275\u0275elementStart(235, "h3", 34);
+      \u0275\u0275text(236, " \xC7oklu Kamera Tabanl\u0131 AI G\xFCvenlik & G\xF6zetim Sistemi ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(237, "ul", 35)(238, "li");
+      \u0275\u0275text(239, " Y\xFCz tespiti, y\xFCz tan\u0131ma, \xE7oklu obje takibi ve ki\u015Fi yeniden-tan\u0131mlama (person re-identification) bile\u015Fenlerini bir araya getirerek kimlik tabanl\u0131 g\xF6zetim senaryolar\u0131 i\xE7in entegre bir bilgisayarl\u0131 g\xF6r\xFC sistemi geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(240, "li");
+      \u0275\u0275text(241, " G\xFCvenlik izleme kabiliyetlerini art\u0131rmak amac\u0131yla maske tespiti(COVID-19), duygu tan\u0131ma ve silah tespiti gibi ek AI mod\xFCllerini sisteme entegre ettim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(242, "li");
+      \u0275\u0275text(243, " Sistemi, birden fazla kamera ak\u0131\u015F\u0131 \xFCzerinde ger\xE7ek zamanl\u0131 video i\u015Fleme ve olay tabanl\u0131 analitik yapabilecek \u015Fekilde tasarlad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(244, "li");
+      \u0275\u0275text(245, " Mikroservis tabanl\u0131 bir backend mimarisi kurgulad\u0131m; AI inference servislerini Docker ve Kubernetes kullanarak \xF6l\xE7eklenebilir ve hataya dayan\u0131kl\u0131 bi\xE7imde da\u011F\u0131tt\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(246, "li");
+      \u0275\u0275text(247, " Da\u011F\u0131t\u0131k sistem bile\u015Fenleri aras\u0131nda video stream y\xF6netimi, inference servisleri ve sistem koordinasyonunu sa\u011Flayan gRPC backend API'leri geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(248, "div", 26);
+      \u0275\u0275element(249, "div", 33);
+      \u0275\u0275elementStart(250, "h3", 34);
+      \u0275\u0275text(251, " Ger\xE7ek Zamanl\u0131 Tenis Performans Analiz Sistemi ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(252, "ul", 35)(253, "li");
+      \u0275\u0275text(254, " ITN (International Tennis Number) performans de\u011Ferlendirmesini desteklemek amac\u0131yla; tenis topu tespiti (ball detection), takibi (tracking) ve sekme noktas\u0131 tahmini (bounce point estimation) yapan ger\xE7ek zamanl\u0131 bir computer vision sistemi geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(255, "li");
+      \u0275\u0275text(256, " Canl\u0131 oyun s\u0131ras\u0131nda vuru\u015F (shot) olaylar\u0131n\u0131 analiz etmek ve oyuncu aksiyonlar\u0131n\u0131 skorlamak i\xE7in oyuncu tespiti ve takip (player detection & tracking) pipeline'lar\u0131 uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(257, "li");
+      \u0275\u0275text(258, " Farkl\u0131 kamera a\xE7\u0131lar\u0131 \xFCzerinden top y\xF6r\xFCngelerini birle\u015Ftirmek amac\u0131yla \xE7oklu kamera kalibrasyonu, hizalama (alignment) ve senkronizasyon mekanizmalar\u0131 tasarlad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(259, "li");
+      \u0275\u0275text(260, " Oyuncu hareketlerini analiz etmek ve performans geli\u015Fimini de\u011Ferlendirmek i\xE7in insan iskelet tahmini (human pose estimation) tekniklerini; v\xFCcut duru\u015Fu (posture) ve hareket paternleri \xFCzerinden uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(261, "li");
+      \u0275\u0275text(262, " Spor performans analiz sistemlerinde ger\xE7ek zamanl\u0131 geri bildirim sa\u011Flamak amac\u0131yla d\xFC\u015F\xFCk gecikmeli (low-latency) i\u015Fleme i\u015F ak\u0131\u015Flar\u0131 olu\u015Fturdum. ");
+      \u0275\u0275elementEnd()()();
+      \u0275\u0275elementStart(263, "div", 26);
+      \u0275\u0275element(264, "div", 33);
+      \u0275\u0275elementStart(265, "h3", 34);
+      \u0275\u0275text(266, "Olay Raporlama S\xFCre\xE7lerinin Blok Zinciri ile Korunmas\u0131");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(267, "ul", 35)(268, "li");
+      \u0275\u0275text(269, " Dijital adli bili\u015Fim s\xFCre\xE7lerinde veri i\u015Fleme ve raporlama pipeline'lar\u0131n\u0131n de\u011Fi\u015Ftirilemezli\u011Fini (immutability) ve tutarl\u0131l\u0131\u011F\u0131n\u0131 sa\u011Flamak amac\u0131yla blockchain tabanl\u0131 bir sistem tasarlad\u0131m ve geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(270, "li");
+      \u0275\u0275text(271, " Adli analiz i\u015F ak\u0131\u015Flar\u0131 boyunca delil b\xFCt\xFCnl\xFC\u011F\xFCn\xFC (evidence integrity) korumak ve yetkisiz m\xFCdahaleleri \xF6nlemek i\xE7in blockchain mekanizmalar\u0131 uygulad\u0131m. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(272, "li");
+      \u0275\u0275text(273, " G\xFCvenli veri y\xF6netimi ve denetlenebilirlik (auditability) sa\u011Flamak amac\u0131yla sistem bile\u015Fenlerini PHP ve Java kullanarak geli\u015Ftirdim. ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(274, "li");
+      \u0275\u0275text(275, " Adli verilerin i\u015F ak\u0131\u015F\u0131 boyunca tutarl\u0131l\u0131\u011F\u0131n\u0131 do\u011Frulamak i\xE7in hash tabanl\u0131 do\u011Frulama (SHA-256 vb.) mekanizmalar\u0131 entegre ettim. ");
+      \u0275\u0275elementEnd()()()()();
+      \u0275\u0275elementStart(276, "section")(277, "h2", 17);
+      \u0275\u0275text(278, " TEKN\u0130K BECER\u0130LER ");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(279, "div", 36);
+      \u0275\u0275template(280, ResumeOneTrComponent_div_280_Template, 5, 2, "div", 37);
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(281, "section")(282, "h2", 17);
+      \u0275\u0275text(283, "D\u0130L");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(284, "div", 36)(285, "div")(286, "h3", 38);
+      \u0275\u0275text(287, "\u0130ngilizce - Profesyonel \xC7al\u0131\u015Fma Yetkinli\u011Fi");
+      \u0275\u0275elementEnd()();
+      \u0275\u0275elementStart(288, "div")(289, "h3", 38);
+      \u0275\u0275text(290, "T\xFCrk\xE7e - Ana Dil");
+      \u0275\u0275elementEnd()()()();
+      \u0275\u0275elementStart(291, "section")(292, "h2", 17);
+      \u0275\u0275text(293, "E\u011E\u0130T\u0130M");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(294, "div")(295, "h3", 39);
+      \u0275\u0275text(296, "F\u0131rat \xDCniversitesi");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(297, "h4", 40);
+      \u0275\u0275text(298, "Adli Bili\u015Fim M\xFChendisli\u011Fi - Lisans");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(299, "p", 41)(300, "strong");
+      \u0275\u0275text(301, "GNO:");
+      \u0275\u0275elementEnd();
+      \u0275\u0275text(302, " 3.73 / 4");
+      \u0275\u0275elementEnd();
+      \u0275\u0275elementStart(303, "p", 42);
+      \u0275\u0275text(304, "2017 - 2022");
+      \u0275\u0275elementEnd()()()()()();
+    }
+    if (rf & 2) {
+      \u0275\u0275advance(12);
+      \u0275\u0275property("img", ctx.MailIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.PhoneIcon);
+      \u0275\u0275advance(2);
+      \u0275\u0275property("href", "tel:" + ctx.tel, \u0275\u0275sanitizeUrl);
+      \u0275\u0275advance();
+      \u0275\u0275textInterpolate(ctx.tel);
+      \u0275\u0275advance(2);
+      \u0275\u0275property("img", ctx.MapPinIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.LinkedInIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.GithubIcon);
+      \u0275\u0275advance(4);
+      \u0275\u0275property("img", ctx.GlobeIcon);
+      \u0275\u0275advance(247);
+      \u0275\u0275property("ngForOf", ctx.technicalSkillGroups);
+    }
+  }, dependencies: [LucideAngularModule, LucideAngularComponent, CommonModule, NgForOf], styles: [`
+
+@layer properties;
+@layer theme {
+  [_ngcontent-%COMP%]:root, 
+   [_nghost-%COMP%] {
+    --font-sans:
+      ui-sans-serif,
+      system-ui,
+      sans-serif,
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+      "Noto Color Emoji";
+    --font-mono:
+      ui-monospace,
+      SFMono-Regular,
+      Menlo,
+      Monaco,
+      Consolas,
+      "Liberation Mono",
+      "Courier New",
+      monospace;
+    --color-red-500: oklch(63.7% 0.237 25.331);
+    --color-amber-500: oklch(76.9% 0.188 70.08);
+    --color-emerald-500: oklch(69.6% 0.17 162.48);
+    --color-blue-500: oklch(62.3% 0.214 259.815);
+    --color-purple-400: oklch(71.4% 0.203 305.504);
+    --color-purple-500: oklch(62.7% 0.265 303.9);
+    --color-slate-100: oklch(96.8% 0.007 247.896);
+    --color-slate-200: oklch(92.9% 0.013 255.508);
+    --color-slate-300: oklch(86.9% 0.022 252.894);
+    --color-slate-500: oklch(55.4% 0.046 257.417);
+    --color-slate-600: oklch(44.6% 0.043 257.281);
+    --color-slate-700: oklch(37.2% 0.044 257.287);
+    --color-slate-800: oklch(27.9% 0.041 260.031);
+    --color-slate-900: oklch(20.8% 0.042 265.755);
+    --color-gray-50: oklch(98.5% 0.002 247.839);
+    --color-gray-600: oklch(44.6% 0.03 256.802);
+    --color-gray-900: oklch(21% 0.034 264.665);
+    --color-black: #000;
+    --color-white: #fff;
+    --spacing: 0.25rem;
+    --container-sm: 24rem;
+    --container-md: 28rem;
+    --container-lg: 32rem;
+    --container-2xl: 42rem;
+    --container-3xl: 48rem;
+    --container-4xl: 56rem;
+    --container-6xl: 72rem;
+    --text-xs: 0.75rem;
+    --text-xs--line-height: calc(1 / 0.75);
+    --text-sm: 0.875rem;
+    --text-sm--line-height: calc(1.25 / 0.875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --text-lg: 1.125rem;
+    --text-lg--line-height: calc(1.75 / 1.125);
+    --text-xl: 1.25rem;
+    --text-xl--line-height: calc(1.75 / 1.25);
+    --text-2xl: 1.5rem;
+    --text-2xl--line-height: calc(2 / 1.5);
+    --text-4xl: 2.25rem;
+    --text-4xl--line-height: calc(2.5 / 2.25);
+    --text-5xl: 3rem;
+    --text-5xl--line-height: 1;
+    --text-6xl: 3.75rem;
+    --text-6xl--line-height: 1;
+    --text-7xl: 4.5rem;
+    --text-7xl--line-height: 1;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --font-weight-black: 900;
+    --tracking-tight: -0.025em;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --tracking-widest: 0.1em;
+    --leading-tight: 1.25;
+    --leading-relaxed: 1.625;
+    --radius-2xl: 1rem;
+    --radius-3xl: 1.5rem;
+    --ease-out: cubic-bezier(0, 0, 0.2, 1);
+    --animate-spin: spin 1s linear infinite;
+    --animate-ping: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+    --animate-pulse: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --blur-sm: 8px;
+    --blur-xl: 24px;
+    --blur-2xl: 40px;
+    --aspect-video: 16 / 9;
+    --default-transition-duration: 150ms;
+    --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+  }
+}
+@layer base {
+  *[_ngcontent-%COMP%], 
+   [_ngcontent-%COMP%]::after, 
+   [_ngcontent-%COMP%]::before, 
+   [_ngcontent-%COMP%]::backdrop, 
+   [_ngcontent-%COMP%]::file-selector-button {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0 solid;
+  }
+  html[_ngcontent-%COMP%], 
+   [_nghost-%COMP%] {
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+  hr[_ngcontent-%COMP%] {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+  abbr[_ngcontent-%COMP%]:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+  h1[_ngcontent-%COMP%], 
+   h2[_ngcontent-%COMP%], 
+   h3[_ngcontent-%COMP%], 
+   h4[_ngcontent-%COMP%], 
+   h5[_ngcontent-%COMP%], 
+   h6[_ngcontent-%COMP%] {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+  a[_ngcontent-%COMP%] {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+  b[_ngcontent-%COMP%], 
+   strong[_ngcontent-%COMP%] {
+    font-weight: bolder;
+  }
+  code[_ngcontent-%COMP%], 
+   kbd[_ngcontent-%COMP%], 
+   samp[_ngcontent-%COMP%], 
+   pre[_ngcontent-%COMP%] {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+  small[_ngcontent-%COMP%] {
+    font-size: 80%;
+  }
+  sub[_ngcontent-%COMP%], 
+   sup[_ngcontent-%COMP%] {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+  sub[_ngcontent-%COMP%] {
+    bottom: -0.25em;
+  }
+  sup[_ngcontent-%COMP%] {
+    top: -0.5em;
+  }
+  table[_ngcontent-%COMP%] {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+  [_ngcontent-%COMP%]:-moz-focusring {
+    outline: auto;
+  }
+  progress[_ngcontent-%COMP%] {
+    vertical-align: baseline;
+  }
+  summary[_ngcontent-%COMP%] {
+    display: list-item;
+  }
+  ol[_ngcontent-%COMP%], 
+   ul[_ngcontent-%COMP%], 
+   menu[_ngcontent-%COMP%] {
+    list-style: none;
+  }
+  img[_ngcontent-%COMP%], 
+   svg[_ngcontent-%COMP%], 
+   video[_ngcontent-%COMP%], 
+   canvas[_ngcontent-%COMP%], 
+   audio[_ngcontent-%COMP%], 
+   iframe[_ngcontent-%COMP%], 
+   embed[_ngcontent-%COMP%], 
+   object[_ngcontent-%COMP%] {
+    display: block;
+    vertical-align: middle;
+  }
+  img[_ngcontent-%COMP%], 
+   video[_ngcontent-%COMP%] {
+    max-width: 100%;
+    height: auto;
+  }
+  button[_ngcontent-%COMP%], 
+   input[_ngcontent-%COMP%], 
+   select[_ngcontent-%COMP%], 
+   optgroup[_ngcontent-%COMP%], 
+   textarea[_ngcontent-%COMP%], 
+   [_ngcontent-%COMP%]::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    border-radius: 0;
+    background-color: transparent;
+    opacity: 1;
+  }
+  :where(select[_ngcontent-%COMP%]:is([multiple], [size]))   optgroup[_ngcontent-%COMP%] {
+    font-weight: bolder;
+  }
+  :where(select[_ngcontent-%COMP%]:is([multiple], [size]))   optgroup[_ngcontent-%COMP%]   option[_ngcontent-%COMP%] {
+    padding-inline-start: 20px;
+  }
+  [_ngcontent-%COMP%]::file-selector-button {
+    margin-inline-end: 4px;
+  }
+  [_ngcontent-%COMP%]::placeholder {
+    opacity: 1;
+  }
+  @supports (not (-webkit-appearance: -apple-pay-button)) or (contain-intrinsic-size: 1px) {
+    [_ngcontent-%COMP%]::placeholder {
+      color: currentcolor;
+    }
+    @supports (color: color-mix(in lab, red, red)) {
+      [_ngcontent-%COMP%]::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+  textarea[_ngcontent-%COMP%] {
+    resize: vertical;
+  }
+  [_ngcontent-%COMP%]::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+  [_ngcontent-%COMP%]::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+  [_ngcontent-%COMP%]::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+  [_ngcontent-%COMP%]::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+  [_ngcontent-%COMP%]::-webkit-datetime-edit, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-year-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-month-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-day-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-hour-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-minute-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-second-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-millisecond-field, 
+   [_ngcontent-%COMP%]::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+  [_ngcontent-%COMP%]::-webkit-calendar-picker-indicator {
+    line-height: 1;
+  }
+  [_ngcontent-%COMP%]:-moz-ui-invalid {
+    box-shadow: none;
+  }
+  button[_ngcontent-%COMP%], 
+   input[_ngcontent-%COMP%]:where([type=button], [type=reset], [type=submit]), 
+   [_ngcontent-%COMP%]::file-selector-button {
+    appearance: button;
+  }
+  [_ngcontent-%COMP%]::-webkit-inner-spin-button, 
+   [_ngcontent-%COMP%]::-webkit-outer-spin-button {
+    height: auto;
+  }
+  [hidden][_ngcontent-%COMP%]:where(:not([hidden=until-found])) {
+    display: none !important;
+  }
+}
+.pointer-events-auto[_ngcontent-%COMP%] {
+  pointer-events: auto;
+}
+.pointer-events-none[_ngcontent-%COMP%] {
+  pointer-events: none;
+}
+.visible[_ngcontent-%COMP%] {
+  visibility: visible;
+}
+.absolute[_ngcontent-%COMP%] {
+  position: absolute;
+}
+.fixed[_ngcontent-%COMP%] {
+  position: fixed;
+}
+.relative[_ngcontent-%COMP%] {
+  position: relative;
+}
+.static[_ngcontent-%COMP%] {
+  position: static;
+}
+.sticky[_ngcontent-%COMP%] {
+  position: sticky;
+}
+.inset-0[_ngcontent-%COMP%] {
+  inset: calc(var(--spacing) * 0);
+}
+.-top-\\__ph-0__[_ngcontent-%COMP%] {
+  top: calc(10% * -1);
+}
+.top-0[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 0);
+}
+.top-1[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 1);
+}
+.top-1\\/2[_ngcontent-%COMP%] {
+  top: calc(1/2 * 100%);
+}
+.top-2[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 2);
+}
+.top-24[_ngcontent-%COMP%] {
+  top: calc(var(--spacing) * 24);
+}
+.-right-\\__ph-0__[_ngcontent-%COMP%] {
+  right: calc(5% * -1);
+}
+.right-0[_ngcontent-%COMP%] {
+  right: calc(var(--spacing) * 0);
+}
+.right-2[_ngcontent-%COMP%] {
+  right: calc(var(--spacing) * 2);
+}
+.right-8[_ngcontent-%COMP%] {
+  right: calc(var(--spacing) * 8);
+}
+.bottom-2[_ngcontent-%COMP%] {
+  bottom: calc(var(--spacing) * 2);
+}
+.bottom-\\__ph-0__[_ngcontent-%COMP%] {
+  bottom: -10%;
+}
+.bottom-\\__ph-0__[_ngcontent-%COMP%] {
+  bottom: 10%;
+}
+.-left-\\__ph-0__[_ngcontent-%COMP%] {
+  left: calc(5% * -1);
+}
+.-left-\\__ph-0__[_ngcontent-%COMP%] {
+  left: calc(23px * -1);
+}
+.-left-\\__ph-0__[_ngcontent-%COMP%] {
+  left: calc(25px * -1);
+}
+.left-2[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 2);
+}
+.left-4[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 4);
+}
+.left-8[_ngcontent-%COMP%] {
+  left: calc(var(--spacing) * 8);
+}
+.-z-10[_ngcontent-%COMP%] {
+  z-index: calc(10 * -1);
+}
+.z-0[_ngcontent-%COMP%] {
+  z-index: 0;
+}
+.z-10[_ngcontent-%COMP%] {
+  z-index: 10;
+}
+.z-20[_ngcontent-%COMP%] {
+  z-index: 20;
+}
+.z-50[_ngcontent-%COMP%] {
+  z-index: 50;
+}
+.z-\\__ph-0__[_ngcontent-%COMP%] {
+  z-index: 100;
+}
+.col-span-full[_ngcontent-%COMP%] {
+  grid-column: 1 / -1;
+}
+.container[_ngcontent-%COMP%] {
+  width: 100%;
+}
+@media (width >= 40rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 40rem;
+  }
+}
+@media (width >= 48rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 48rem;
+  }
+}
+@media (width >= 64rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 64rem;
+  }
+}
+@media (width >= 80rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 80rem;
+  }
+}
+@media (width >= 96rem) {
+  .container[_ngcontent-%COMP%] {
+    max-width: 96rem;
+  }
+}
+.mx-4[_ngcontent-%COMP%] {
+  margin-inline: calc(var(--spacing) * 4);
+}
+.mx-auto[_ngcontent-%COMP%] {
+  margin-inline: auto;
+}
+.mt-0[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 0);
+}
+.mt-1[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 1);
+}
+.mt-1\\.5[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 1.5);
+}
+.mt-2[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 2);
+}
+.mt-4[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 4);
+}
+.mt-6[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 6);
+}
+.mt-12[_ngcontent-%COMP%] {
+  margin-top: calc(var(--spacing) * 12);
+}
+.mt-auto[_ngcontent-%COMP%] {
+  margin-top: auto;
+}
+.mb-0[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 0);
+}
+.mb-1[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 1);
+}
+.mb-2[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 2);
+}
+.mb-3[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 3);
+}
+.mb-4[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 4);
+}
+.mb-6[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 6);
+}
+.mb-8[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 8);
+}
+.mb-10[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 10);
+}
+.mb-12[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 12);
+}
+.mb-16[_ngcontent-%COMP%] {
+  margin-bottom: calc(var(--spacing) * 16);
+}
+.ml-0[_ngcontent-%COMP%] {
+  margin-left: calc(var(--spacing) * 0);
+}
+.ml-2[_ngcontent-%COMP%] {
+  margin-left: calc(var(--spacing) * 2);
+}
+.ml-4[_ngcontent-%COMP%] {
+  margin-left: calc(var(--spacing) * 4);
+}
+.line-clamp-3[_ngcontent-%COMP%] {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+.block[_ngcontent-%COMP%] {
+  display: block;
+}
+.flex[_ngcontent-%COMP%] {
+  display: flex;
+}
+.grid[_ngcontent-%COMP%] {
+  display: grid;
+}
+.hidden[_ngcontent-%COMP%] {
+  display: none;
+}
+.inline-flex[_ngcontent-%COMP%] {
+  display: inline-flex;
+}
+.aspect-video[_ngcontent-%COMP%] {
+  aspect-ratio: var(--aspect-video);
+}
+.size-4[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.size-8[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 8);
+  height: calc(var(--spacing) * 8);
+}
+.size-9[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 9);
+  height: calc(var(--spacing) * 9);
+}
+.size-10[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 10);
+  height: calc(var(--spacing) * 10);
+}
+.size-48[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 48);
+  height: calc(var(--spacing) * 48);
+}
+.size-72[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 72);
+  height: calc(var(--spacing) * 72);
+}
+.size-\\__ph-0__[_ngcontent-%COMP%] {
+  width: 500px;
+  height: 500px;
+}
+.size-\\__ph-0__[_ngcontent-%COMP%] {
+  width: 600px;
+  height: 600px;
+}
+.h-1[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 1);
+}
+.h-1\\.5[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 1.5);
+}
+.h-2[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 2);
+}
+.h-3[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 3);
+}
+.h-4[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 4);
+}
+.h-5[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 5);
+}
+.h-6[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 6);
+}
+.h-8[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 8);
+}
+.h-9[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 9);
+}
+.h-10[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 10);
+}
+.h-16[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 16);
+}
+.h-96[_ngcontent-%COMP%] {
+  height: calc(var(--spacing) * 96);
+}
+.h-\\__ph-0__[_ngcontent-%COMP%] {
+  height: 1px;
+}
+.h-\\__ph-0__[_ngcontent-%COMP%] {
+  height: 500px;
+}
+.h-auto[_ngcontent-%COMP%] {
+  height: auto;
+}
+.h-full[_ngcontent-%COMP%] {
+  height: 100%;
+}
+.h-px[_ngcontent-%COMP%] {
+  height: 1px;
+}
+.max-h-\\__ph-0__[_ngcontent-%COMP%] {
+  max-height: 600px;
+}
+.max-h-screen[_ngcontent-%COMP%] {
+  max-height: 100vh;
+}
+.min-h-8[_ngcontent-%COMP%] {
+  min-height: calc(var(--spacing) * 8);
+}
+.min-h-9[_ngcontent-%COMP%] {
+  min-height: calc(var(--spacing) * 9);
+}
+.min-h-10[_ngcontent-%COMP%] {
+  min-height: calc(var(--spacing) * 10);
+}
+.min-h-\\__ph-0__[_ngcontent-%COMP%] {
+  min-height: 90vh;
+}
+.min-h-screen[_ngcontent-%COMP%] {
+  min-height: 100vh;
+}
+.w-2[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 2);
+}
+.w-3[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 3);
+}
+.w-4[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 4);
+}
+.w-5[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 5);
+}
+.w-6[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 6);
+}
+.w-8[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 8);
+}
+.w-9[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 9);
+}
+.w-10[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 10);
+}
+.w-\\__ph-0__[_ngcontent-%COMP%] {
+  width: 500px;
+}
+.w-auto[_ngcontent-%COMP%] {
+  width: auto;
+}
+.w-full[_ngcontent-%COMP%] {
+  width: 100%;
+}
+.max-w-2xl[_ngcontent-%COMP%] {
+  max-width: var(--container-2xl);
+}
+.max-w-3xl[_ngcontent-%COMP%] {
+  max-width: var(--container-3xl);
+}
+.max-w-4xl[_ngcontent-%COMP%] {
+  max-width: var(--container-4xl);
+}
+.max-w-6xl[_ngcontent-%COMP%] {
+  max-width: var(--container-6xl);
+}
+.max-w-full[_ngcontent-%COMP%] {
+  max-width: 100%;
+}
+.max-w-lg[_ngcontent-%COMP%] {
+  max-width: var(--container-lg);
+}
+.max-w-md[_ngcontent-%COMP%] {
+  max-width: var(--container-md);
+}
+.max-w-none[_ngcontent-%COMP%] {
+  max-width: none;
+}
+.max-w-sm[_ngcontent-%COMP%] {
+  max-width: var(--container-sm);
+}
+.flex-1[_ngcontent-%COMP%] {
+  flex: 1;
+}
+.flex-shrink-0[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+.shrink-0[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+.flex-grow[_ngcontent-%COMP%] {
+  flex-grow: 1;
+}
+.-translate-y-1\\/2[_ngcontent-%COMP%] {
+  --tw-translate-y: calc(calc(1/2 * 100%) * -1);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+}
+.scale-110[_ngcontent-%COMP%] {
+  --tw-scale-x: 110%;
+  --tw-scale-y: 110%;
+  --tw-scale-z: 110%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.scale-x-0[_ngcontent-%COMP%] {
+  --tw-scale-x: 0%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.transform[_ngcontent-%COMP%] {
+  transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
+}
+.animate-ping[_ngcontent-%COMP%] {
+  animation: var(--animate-ping);
+}
+.animate-pulse[_ngcontent-%COMP%] {
+  animation: var(--animate-pulse);
+}
+.animate-spin[_ngcontent-%COMP%] {
+  animation: var(--animate-spin);
+}
+.cursor-pointer[_ngcontent-%COMP%] {
+  cursor: pointer;
+}
+.list-outside[_ngcontent-%COMP%] {
+  list-style-position: outside;
+}
+.list-disc[_ngcontent-%COMP%] {
+  list-style-type: disc;
+}
+.grid-cols-1[_ngcontent-%COMP%] {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+.flex-col[_ngcontent-%COMP%] {
+  flex-direction: column;
+}
+.flex-col-reverse[_ngcontent-%COMP%] {
+  flex-direction: column-reverse;
+}
+.flex-wrap[_ngcontent-%COMP%] {
+  flex-wrap: wrap;
+}
+.items-baseline[_ngcontent-%COMP%] {
+  align-items: baseline;
+}
+.items-center[_ngcontent-%COMP%] {
+  align-items: center;
+}
+.items-end[_ngcontent-%COMP%] {
+  align-items: flex-end;
+}
+.items-start[_ngcontent-%COMP%] {
+  align-items: flex-start;
+}
+.justify-between[_ngcontent-%COMP%] {
+  justify-content: space-between;
+}
+.justify-center[_ngcontent-%COMP%] {
+  justify-content: center;
+}
+.gap-1[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 1);
+}
+.gap-1\\.5[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 1.5);
+}
+.gap-2[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 2);
+}
+.gap-3[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 3);
+}
+.gap-4[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 4);
+}
+.gap-6[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 6);
+}
+.gap-8[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 8);
+}
+.gap-12[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 12);
+}
+.gap-16[_ngcontent-%COMP%] {
+  gap: calc(var(--spacing) * 16);
+}
+:where(.space-y-1[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-1\\.5[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1.5) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1.5) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-2[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-4[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-6[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 6) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 6) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-8[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 8) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 8) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-10[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 10) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 10) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-12[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 12) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 12) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-14[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 14) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 14) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-x-4[_ngcontent-%COMP%]    > [_ngcontent-%COMP%]:not(:last-child)) {
+  --tw-space-x-reverse: 0;
+  margin-inline-start: calc(calc(var(--spacing) * 4) * var(--tw-space-x-reverse));
+  margin-inline-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-x-reverse)));
+}
+.overflow-hidden[_ngcontent-%COMP%] {
+  overflow: hidden;
+}
+.rounded[_ngcontent-%COMP%] {
+  border-radius: 0.25rem;
+}
+.rounded-2xl[_ngcontent-%COMP%] {
+  border-radius: var(--radius-2xl);
+}
+.rounded-3xl[_ngcontent-%COMP%] {
+  border-radius: var(--radius-3xl);
+}
+.rounded-full[_ngcontent-%COMP%] {
+  border-radius: calc(infinity * 1px);
+}
+.rounded-lg[_ngcontent-%COMP%] {
+  border-radius: var(--resume-radius);
+}
+.rounded-md[_ngcontent-%COMP%] {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-sm[_ngcontent-%COMP%] {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-xl[_ngcontent-%COMP%] {
+  border-radius: calc(var(--resume-radius) + 4px);
+}
+.rounded-r[_ngcontent-%COMP%] {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+.border[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 1px;
+}
+.border-2[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 2px;
+}
+.border-3[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 3px;
+}
+.border-4[_ngcontent-%COMP%] {
+  border-style: var(--tw-border-style);
+  border-width: 4px;
+}
+.border-t[_ngcontent-%COMP%] {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 1px;
+}
+.border-t-2[_ngcontent-%COMP%] {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 2px;
+}
+.border-r-2[_ngcontent-%COMP%] {
+  border-right-style: var(--tw-border-style);
+  border-right-width: 2px;
+}
+.border-b[_ngcontent-%COMP%] {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 1px;
+}
+.border-b-2[_ngcontent-%COMP%] {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 2px;
+}
+.border-l-2[_ngcontent-%COMP%] {
+  border-left-style: var(--tw-border-style);
+  border-left-width: 2px;
+}
+.\\__ph-0__[_ngcontent-%COMP%] {
+  border-color: var(--badge-outline);
+}
+.\\__ph-0__[_ngcontent-%COMP%] {
+  border-color: var(--button-outline);
+}
+.border-amber-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-amber-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-amber-500) 20%, transparent);
+  }
+}
+.border-blue-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-blue-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-blue-500) 20%, transparent);
+  }
+}
+.border-border[_ngcontent-%COMP%] {
+  border-color: hsl(var(--border));
+}
+.border-border\\/40[_ngcontent-%COMP%] {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/40[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--border)) 40%, transparent);
+  }
+}
+.border-border\\/50[_ngcontent-%COMP%] {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/50[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--border)) 50%, transparent);
+  }
+}
+.border-card-border[_ngcontent-%COMP%] {
+  border-color: hsl(var(--card-border));
+}
+.border-destructive[_ngcontent-%COMP%] {
+  border-color: hsl(var(--destructive));
+}
+.border-destructive-border[_ngcontent-%COMP%] {
+  border-color: var(--destructive-border);
+}
+.border-emerald-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-emerald-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-emerald-500) 20%, transparent);
+  }
+}
+.border-primary-border[_ngcontent-%COMP%] {
+  border-color: var(--primary-border);
+}
+.border-primary\\/20[_ngcontent-%COMP%] {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+  }
+}
+.border-primary\\/30[_ngcontent-%COMP%] {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/30[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.border-primary\\/50[_ngcontent-%COMP%] {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/50[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.border-purple-500\\/20[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-purple-500\\/20[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-purple-500) 20%, transparent);
+  }
+}
+.border-resume-gold\\/30[_ngcontent-%COMP%] {
+  border-color: color-mix(in oklab, rgba(207, 170, 110, 1) 30%, transparent);
+}
+.border-secondary-border[_ngcontent-%COMP%] {
+  border-color: var(--secondary-border);
+}
+.border-slate-200[_ngcontent-%COMP%] {
+  border-color: var(--color-slate-200);
+}
+.border-slate-300[_ngcontent-%COMP%] {
+  border-color: var(--color-slate-300);
+}
+.border-transparent[_ngcontent-%COMP%] {
+  border-color: transparent;
+}
+.border-white[_ngcontent-%COMP%] {
+  border-color: var(--color-white);
+}
+.border-white\\/10[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/10[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.border-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+  border-color: color-mix(in srgb, #fff 15%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+    border-color: color-mix(in oklab, var(--color-white) 15%, transparent);
+  }
+}
+.bg-accent[_ngcontent-%COMP%] {
+  background-color: hsl(var(--accent));
+}
+.bg-accent\\/5[_ngcontent-%COMP%] {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 5%, transparent);
+  }
+}
+.bg-accent\\/15[_ngcontent-%COMP%] {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/15[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 15%, transparent);
+  }
+}
+.bg-amber-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-amber-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-amber-500) 5%, transparent);
+  }
+}
+.bg-background[_ngcontent-%COMP%] {
+  background-color: hsl(var(--background));
+}
+.bg-background\\/50[_ngcontent-%COMP%] {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/50[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--background)) 50%, transparent);
+  }
+}
+.bg-background\\/80[_ngcontent-%COMP%] {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/80[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--background)) 80%, transparent);
+  }
+}
+.bg-black[_ngcontent-%COMP%] {
+  background-color: var(--color-black);
+}
+.bg-black\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #000 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-black\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-black) 5%, transparent);
+  }
+}
+.bg-blue-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-blue-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-blue-500) 5%, transparent);
+  }
+}
+.bg-border[_ngcontent-%COMP%] {
+  background-color: hsl(var(--border));
+}
+.bg-card[_ngcontent-%COMP%] {
+  background-color: hsl(var(--card));
+}
+.bg-current[_ngcontent-%COMP%] {
+  background-color: currentcolor;
+}
+.bg-destructive[_ngcontent-%COMP%] {
+  background-color: hsl(var(--destructive));
+}
+.bg-emerald-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-emerald-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-emerald-500) 5%, transparent);
+  }
+}
+.bg-foreground[_ngcontent-%COMP%] {
+  background-color: hsl(var(--foreground));
+}
+.bg-gray-50[_ngcontent-%COMP%] {
+  background-color: var(--color-gray-50);
+}
+.bg-muted[_ngcontent-%COMP%] {
+  background-color: hsl(var(--muted));
+}
+.bg-primary[_ngcontent-%COMP%] {
+  background-color: hsl(var(--primary));
+}
+.bg-primary\\/5[_ngcontent-%COMP%] {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+  }
+}
+.bg-primary\\/10[_ngcontent-%COMP%] {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 10%, transparent);
+  }
+}
+.bg-purple-500\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-purple-500\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-purple-500) 5%, transparent);
+  }
+}
+.bg-resume-gold[_ngcontent-%COMP%] {
+  background-color: rgba(207, 170, 110, 1);
+}
+.bg-resume-teal[_ngcontent-%COMP%] {
+  background-color: var(--resume-teal);
+}
+.bg-resume-teal\\/10[_ngcontent-%COMP%] {
+  background-color: var(--resume-teal);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-resume-teal\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--resume-teal) 10%, transparent);
+  }
+}
+.bg-secondary[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+.bg-secondary\\/10[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 10%, transparent);
+  }
+}
+.bg-secondary\\/20[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/20[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 20%, transparent);
+  }
+}
+.bg-secondary\\/30[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/30[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 30%, transparent);
+  }
+}
+.bg-secondary\\/50[_ngcontent-%COMP%] {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/50[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 50%, transparent);
+  }
+}
+.bg-slate-100[_ngcontent-%COMP%] {
+  background-color: var(--color-slate-100);
+}
+.bg-transparent[_ngcontent-%COMP%] {
+  background-color: transparent;
+}
+.bg-white[_ngcontent-%COMP%] {
+  background-color: var(--color-white);
+}
+.bg-white\\/5[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/5[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+.bg-white\\/10[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/10[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.bg-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+  background-color: color-mix(in srgb, #fff 8%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/\\__ph-0__[_ngcontent-%COMP%] {
+    background-color: color-mix(in oklab, var(--color-white) 8%, transparent);
+  }
+}
+.bg-gradient-to-br[_ngcontent-%COMP%] {
+  --tw-gradient-position: to bottom right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-r[_ngcontent-%COMP%] {
+  --tw-gradient-position: to right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-t[_ngcontent-%COMP%] {
+  --tw-gradient-position: to top in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.from-background[_ngcontent-%COMP%] {
+  --tw-gradient-from: hsl(var(--background));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary[_ngcontent-%COMP%] {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary\\/30[_ngcontent-%COMP%] {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .from-primary\\/30[_ngcontent-%COMP%] {
+    --tw-gradient-from: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.via-purple-400[_ngcontent-%COMP%] {
+  --tw-gradient-via: var(--color-purple-400);
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.via-transparent[_ngcontent-%COMP%] {
+  --tw-gradient-via: transparent;
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.to-accent[_ngcontent-%COMP%] {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.to-accent\\/30[_ngcontent-%COMP%] {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .to-accent\\/30[_ngcontent-%COMP%] {
+    --tw-gradient-to: color-mix(in oklab, hsl(var(--accent)) 30%, transparent);
+  }
+}
+.to-transparent[_ngcontent-%COMP%] {
+  --tw-gradient-to: transparent;
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.bg-clip-text[_ngcontent-%COMP%] {
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.object-contain[_ngcontent-%COMP%] {
+  object-fit: contain;
+}
+.object-cover[_ngcontent-%COMP%] {
+  object-fit: cover;
+}
+.p-1[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 1);
+}
+.p-2[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 2);
+}
+.p-3[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 3);
+}
+.p-4[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 4);
+}
+.p-6[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 6);
+}
+.p-8[_ngcontent-%COMP%] {
+  padding: calc(var(--spacing) * 8);
+}
+.px-2[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 2);
+}
+.px-2\\.5[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.px-3[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.px-4[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.px-6[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 6);
+}
+.px-8[_ngcontent-%COMP%] {
+  padding-inline: calc(var(--spacing) * 8);
+}
+.py-0\\.5[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 0.5);
+}
+.py-1[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 1);
+}
+.py-2[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 2);
+}
+.py-3[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 3);
+}
+.py-4[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 4);
+}
+.py-6[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 6);
+}
+.py-10[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 10);
+}
+.py-12[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 12);
+}
+.py-16[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 16);
+}
+.py-20[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 20);
+}
+.py-24[_ngcontent-%COMP%] {
+  padding-block: calc(var(--spacing) * 24);
+}
+.pt-0[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 0);
+}
+.pt-2[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 2);
+}
+.pt-6[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 6);
+}
+.pt-8[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 8);
+}
+.pt-10[_ngcontent-%COMP%] {
+  padding-top: calc(var(--spacing) * 10);
+}
+.pr-8[_ngcontent-%COMP%] {
+  padding-right: calc(var(--spacing) * 8);
+}
+.pb-2[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 2);
+}
+.pb-12[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 12);
+}
+.pb-20[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 20);
+}
+.pb-24[_ngcontent-%COMP%] {
+  padding-bottom: calc(var(--spacing) * 24);
+}
+.pl-4[_ngcontent-%COMP%] {
+  padding-left: calc(var(--spacing) * 4);
+}
+.pl-12[_ngcontent-%COMP%] {
+  padding-left: calc(var(--spacing) * 12);
+}
+.text-center[_ngcontent-%COMP%] {
+  text-align: center;
+}
+.font-mono[_ngcontent-%COMP%] {
+  font-family: var(--font-mono);
+}
+.font-sans[_ngcontent-%COMP%] {
+  font-family: var(--font-sans);
+}
+.text-2xl[_ngcontent-%COMP%] {
+  font-size: var(--text-2xl);
+  line-height: var(--tw-leading, var(--text-2xl--line-height));
+}
+.text-4xl[_ngcontent-%COMP%] {
+  font-size: var(--text-4xl);
+  line-height: var(--tw-leading, var(--text-4xl--line-height));
+}
+.text-5xl[_ngcontent-%COMP%] {
+  font-size: var(--text-5xl);
+  line-height: var(--tw-leading, var(--text-5xl--line-height));
+}
+.text-base[_ngcontent-%COMP%] {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.text-lg[_ngcontent-%COMP%] {
+  font-size: var(--text-lg);
+  line-height: var(--tw-leading, var(--text-lg--line-height));
+}
+.text-sm[_ngcontent-%COMP%] {
+  font-size: var(--text-sm);
+  line-height: var(--tw-leading, var(--text-sm--line-height));
+}
+.text-xl[_ngcontent-%COMP%] {
+  font-size: var(--text-xl);
+  line-height: var(--tw-leading, var(--text-xl--line-height));
+}
+.text-xs[_ngcontent-%COMP%] {
+  font-size: var(--text-xs);
+  line-height: var(--tw-leading, var(--text-xs--line-height));
+}
+.text-\\__ph-0__[_ngcontent-%COMP%] {
+  font-size: 11px;
+}
+.leading-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-leading: 1.1;
+  line-height: 1.1;
+}
+.leading-none[_ngcontent-%COMP%] {
+  --tw-leading: 1;
+  line-height: 1;
+}
+.leading-relaxed[_ngcontent-%COMP%] {
+  --tw-leading: var(--leading-relaxed);
+  line-height: var(--leading-relaxed);
+}
+.leading-tight[_ngcontent-%COMP%] {
+  --tw-leading: var(--leading-tight);
+  line-height: var(--leading-tight);
+}
+.font-black[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-black);
+  font-weight: var(--font-weight-black);
+}
+.font-bold[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-bold);
+  font-weight: var(--font-weight-bold);
+}
+.font-light[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-light);
+  font-weight: var(--font-weight-light);
+}
+.font-medium[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-medium);
+  font-weight: var(--font-weight-medium);
+}
+.font-normal[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-normal);
+  font-weight: var(--font-weight-normal);
+}
+.font-semibold[_ngcontent-%COMP%] {
+  --tw-font-weight: var(--font-weight-semibold);
+  font-weight: var(--font-weight-semibold);
+}
+.tracking-tight[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-tight);
+  letter-spacing: var(--tracking-tight);
+}
+.tracking-wide[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-wide);
+  letter-spacing: var(--tracking-wide);
+}
+.tracking-wider[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-wider);
+  letter-spacing: var(--tracking-wider);
+}
+.tracking-widest[_ngcontent-%COMP%] {
+  --tw-tracking: var(--tracking-widest);
+  letter-spacing: var(--tracking-widest);
+}
+.whitespace-nowrap[_ngcontent-%COMP%] {
+  white-space: nowrap;
+}
+.text-amber-500[_ngcontent-%COMP%] {
+  color: var(--color-amber-500);
+}
+.text-background[_ngcontent-%COMP%] {
+  color: hsl(var(--background));
+}
+.text-blue-500[_ngcontent-%COMP%] {
+  color: var(--color-blue-500);
+}
+.text-card-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--card-foreground));
+}
+.text-destructive-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--destructive-foreground));
+}
+.text-emerald-500[_ngcontent-%COMP%] {
+  color: var(--color-emerald-500);
+}
+.text-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--foreground));
+}
+.text-gray-600[_ngcontent-%COMP%] {
+  color: var(--color-gray-600);
+}
+.text-gray-900[_ngcontent-%COMP%] {
+  color: var(--color-gray-900);
+}
+.text-muted-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--muted-foreground));
+}
+.text-primary[_ngcontent-%COMP%] {
+  color: hsl(var(--primary));
+}
+.text-primary-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--primary-foreground));
+}
+.text-purple-500[_ngcontent-%COMP%] {
+  color: var(--color-purple-500);
+}
+.text-red-500[_ngcontent-%COMP%] {
+  color: var(--color-red-500);
+}
+.text-resume-gold[_ngcontent-%COMP%] {
+  color: rgba(207, 170, 110, 1);
+}
+.text-resume-teal[_ngcontent-%COMP%] {
+  color: var(--resume-teal);
+}
+.text-resume-teal-dark[_ngcontent-%COMP%] {
+  color: rgba(58, 111, 122, 1);
+}
+.text-resume-teal-light[_ngcontent-%COMP%] {
+  color: rgba(142, 195, 204, 1);
+}
+.text-secondary-foreground[_ngcontent-%COMP%] {
+  color: hsl(var(--secondary-foreground));
+}
+.text-slate-500[_ngcontent-%COMP%] {
+  color: var(--color-slate-500);
+}
+.text-slate-600[_ngcontent-%COMP%] {
+  color: var(--color-slate-600);
+}
+.text-slate-700[_ngcontent-%COMP%] {
+  color: var(--color-slate-700);
+}
+.text-slate-800[_ngcontent-%COMP%] {
+  color: var(--color-slate-800);
+}
+.text-slate-900[_ngcontent-%COMP%] {
+  color: var(--color-slate-900);
+}
+.text-transparent[_ngcontent-%COMP%] {
+  color: transparent;
+}
+.text-white[_ngcontent-%COMP%] {
+  color: var(--color-white);
+}
+.uppercase[_ngcontent-%COMP%] {
+  text-transform: uppercase;
+}
+.italic[_ngcontent-%COMP%] {
+  font-style: italic;
+}
+.underline-offset-4[_ngcontent-%COMP%] {
+  text-underline-offset: 4px;
+}
+.opacity-0[_ngcontent-%COMP%] {
+  opacity: 0%;
+}
+.opacity-10[_ngcontent-%COMP%] {
+  opacity: 10%;
+}
+.opacity-15[_ngcontent-%COMP%] {
+  opacity: 15%;
+}
+.opacity-20[_ngcontent-%COMP%] {
+  opacity: 20%;
+}
+.opacity-60[_ngcontent-%COMP%] {
+  opacity: 60%;
+}
+.opacity-70[_ngcontent-%COMP%] {
+  opacity: 70%;
+}
+.opacity-75[_ngcontent-%COMP%] {
+  opacity: 75%;
+}
+.opacity-80[_ngcontent-%COMP%] {
+  opacity: 80%;
+}
+.opacity-90[_ngcontent-%COMP%] {
+  opacity: 90%;
+}
+.shadow-2xl[_ngcontent-%COMP%] {
+  --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0 0 0 / 0.25));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-shadow: 0 8px 32px 0 var(--tw-shadow-color, rgba(0,0,0,0.37));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-shadow: 0 10px 20px -10px var(--tw-shadow-color, rgba(var(--primary),0.5));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-lg[_ngcontent-%COMP%] {
+  --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-sm[_ngcontent-%COMP%] {
+  --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-xs[_ngcontent-%COMP%] {
+  --tw-shadow: 0 1px 2px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.05));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.outline[_ngcontent-%COMP%] {
+  outline-style: var(--tw-outline-style);
+  outline-width: 1px;
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(90px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(100px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(120px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\__ph-0__[_ngcontent-%COMP%] {
+  --tw-blur: blur(150px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-xl[_ngcontent-%COMP%] {
+  --tw-blur: blur(var(--blur-xl));
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.backdrop-blur-2xl[_ngcontent-%COMP%] {
+  --tw-backdrop-blur: blur(var(--blur-2xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-sm[_ngcontent-%COMP%] {
+  --tw-backdrop-blur: blur(var(--blur-sm));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-xl[_ngcontent-%COMP%] {
+  --tw-backdrop-blur: blur(var(--blur-xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.transition-all[_ngcontent-%COMP%] {
+  transition-property: all;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-colors[_ngcontent-%COMP%] {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-opacity[_ngcontent-%COMP%] {
+  transition-property: opacity;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-transform[_ngcontent-%COMP%] {
+  transition-property:
+    transform,
+    translate,
+    scale,
+    rotate;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.duration-300[_ngcontent-%COMP%] {
+  --tw-duration: 300ms;
+  transition-duration: 300ms;
+}
+.duration-500[_ngcontent-%COMP%] {
+  --tw-duration: 500ms;
+  transition-duration: 500ms;
+}
+.duration-650[_ngcontent-%COMP%] {
+  --tw-duration: 650ms;
+  transition-duration: 650ms;
+}
+.duration-700[_ngcontent-%COMP%] {
+  --tw-duration: 700ms;
+  transition-duration: 700ms;
+}
+.duration-1000[_ngcontent-%COMP%] {
+  --tw-duration: 1000ms;
+  transition-duration: 1000ms;
+}
+.ease-out[_ngcontent-%COMP%] {
+  --tw-ease: var(--ease-out);
+  transition-timing-function: var(--ease-out);
+}
+.outline-none[_ngcontent-%COMP%] {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:translate-x-2[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 2);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-105[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-scale-x: 105%;
+    --tw-scale-y: 105%;
+    --tw-scale-z: 105%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-110[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-scale-x: 110%;
+    --tw-scale-y: 110%;
+    --tw-scale-z: 110%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-x-100[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    --tw-scale-x: 100%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:-rotate-12[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:bg-primary\\/20[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .group-hover\\:bg-primary\\/20[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:text-primary[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-20[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    opacity: 20%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-100[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    opacity: 100%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-\\__ph-0__[_ngcontent-%COMP%]:is(:where(.group):hover *) {
+    opacity: 0.03;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\/link\\:translate-x-1[_ngcontent-%COMP%]:is(:where(.group\\/link):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]   *[_ngcontent-%COMP%]::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]   *[_ngcontent-%COMP%]::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal[_ngcontent-%COMP%]::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.last\\:border-0[_ngcontent-%COMP%]:last-child {
+  border-style: var(--tw-border-style);
+  border-width: 0px;
+}
+@media (hover: hover) {
+  .hover\\:-translate-y-1[_ngcontent-%COMP%]:hover {
+    --tw-translate-y: calc(var(--spacing) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/50[_ngcontent-%COMP%]:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/50[_ngcontent-%COMP%]:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/60[_ngcontent-%COMP%]:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/60[_ngcontent-%COMP%]:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 60%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-accent[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--accent));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-destructive\\/90[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--destructive));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-destructive\\/90[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--destructive)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/5[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/5[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/20[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/20[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/90[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/90[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--secondary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
+    background-color: hsl(var(--secondary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-secondary\\/80[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-white\\/\\__ph-0__[_ngcontent-%COMP%]:hover {
+    background-color: color-mix(in srgb, #fff 12%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-white\\/\\__ph-0__[_ngcontent-%COMP%]:hover {
+      background-color: color-mix(in oklab, var(--color-white) 12%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-accent-foreground[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--accent-foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-foreground[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary\\/80[_ngcontent-%COMP%]:hover {
+    color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-primary\\/80[_ngcontent-%COMP%]:hover {
+      color: color-mix(in oklab, hsl(var(--primary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-white\\/80[_ngcontent-%COMP%]:hover {
+    color: color-mix(in srgb, #fff 80%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-white\\/80[_ngcontent-%COMP%]:hover {
+      color: color-mix(in oklab, var(--color-white) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:underline[_ngcontent-%COMP%]:hover {
+    text-decoration-line: underline;
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\__ph-0__[_ngcontent-%COMP%]:hover {
+    --tw-shadow: 0 20px 30px -10px var(--tw-shadow-color, rgba(var(--primary),0.6));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\[0_20px_40px_rgba\\(0\\,0\\,0\\,0\\.5\\)\\[_ngcontent-%COMP%], 0_0_20px_rgba\\(var\\(--primary\\)\\,0\\.1\\)\\][_ngcontent-%COMP%]:hover {
+    --tw-shadow: 0 20px 40px var(--tw-shadow-color, rgba(0,0,0,0.5)), 0 0 20px var(--tw-shadow-color, rgba(var(--primary),0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-lg[_ngcontent-%COMP%]:hover {
+    --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+.focus\\:border-primary\\/50[_ngcontent-%COMP%]:focus {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus\\:border-primary\\/50[_ngcontent-%COMP%]:focus {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.focus\\:ring-2[_ngcontent-%COMP%]:focus {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus\\:ring-ring[_ngcontent-%COMP%]:focus {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus\\:ring-offset-2[_ngcontent-%COMP%]:focus {
+  --tw-ring-offset-width: 2px;
+  --tw-ring-offset-shadow: var(--tw-ring-inset,) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+}
+.focus\\:outline-none[_ngcontent-%COMP%]:focus {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.focus-visible\\:border-ring[_ngcontent-%COMP%]:focus-visible {
+  border-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-1[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-\\__ph-0__[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-destructive\\/20[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-destructive\\/20[_ngcontent-%COMP%]:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+.focus-visible\\:ring-ring[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-ring\\/50[_ngcontent-%COMP%]:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-ring\\/50[_ngcontent-%COMP%]:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--ring)) 50%, transparent);
+  }
+}
+.focus-visible\\:outline-none[_ngcontent-%COMP%]:focus-visible {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.active\\:scale-95[_ngcontent-%COMP%]:active {
+  --tw-scale-x: 95%;
+  --tw-scale-y: 95%;
+  --tw-scale-z: 95%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.active\\:shadow-none[_ngcontent-%COMP%]:active {
+  --tw-shadow: 0 0 #0000;
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.disabled\\:pointer-events-none[_ngcontent-%COMP%]:disabled {
+  pointer-events: none;
+}
+.disabled\\:opacity-50[_ngcontent-%COMP%]:disabled {
+  opacity: 50%;
+}
+.has-\\__ph-0__\\:px-2\\.5[_ngcontent-%COMP%]:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.has-\\__ph-0__\\:px-3[_ngcontent-%COMP%]:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.has-\\__ph-0__\\:px-4[_ngcontent-%COMP%]:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.aria-invalid\\:border-destructive[aria-invalid=true][_ngcontent-%COMP%] {
+  border-color: hsl(var(--destructive));
+}
+.aria-invalid\\:ring-destructive\\/20[aria-invalid=true][_ngcontent-%COMP%] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .aria-invalid\\:ring-destructive\\/20[aria-invalid=true][_ngcontent-%COMP%] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:top-auto[_ngcontent-%COMP%] {
+    top: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:bottom-0[_ngcontent-%COMP%] {
+    bottom: calc(var(--spacing) * 0);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:w-auto[_ngcontent-%COMP%] {
+    width: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:grid-cols-2[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-col[_ngcontent-%COMP%] {
+    flex-direction: column;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-row[_ngcontent-%COMP%] {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-1[_ngcontent-%COMP%] {
+    grid-column: span 1 / span 1;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-2[_ngcontent-%COMP%] {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-3[_ngcontent-%COMP%] {
+    grid-column: span 3 / span 3;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-5[_ngcontent-%COMP%] {
+    grid-column: span 5 / span 5;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-7[_ngcontent-%COMP%] {
+    grid-column: span 7 / span 7;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex[_ngcontent-%COMP%] {
+    display: flex;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:hidden[_ngcontent-%COMP%] {
+    display: none;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:max-w-\\__ph-0__[_ngcontent-%COMP%] {
+    max-width: 420px;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-2[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-4[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-12[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex-row[_ngcontent-%COMP%] {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-12[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 12);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-20[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-24[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-2xl[_ngcontent-%COMP%] {
+    font-size: var(--text-2xl);
+    line-height: var(--tw-leading, var(--text-2xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-5xl[_ngcontent-%COMP%] {
+    font-size: var(--text-5xl);
+    line-height: var(--tw-leading, var(--text-5xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-6xl[_ngcontent-%COMP%] {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-base[_ngcontent-%COMP%] {
+    font-size: var(--text-base);
+    line-height: var(--tw-leading, var(--text-base--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:sticky[_ngcontent-%COMP%] {
+    position: sticky;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:top-24[_ngcontent-%COMP%] {
+    top: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-2[_ngcontent-%COMP%] {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-4[_ngcontent-%COMP%] {
+    grid-column: span 4 / span 4;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-8[_ngcontent-%COMP%] {
+    grid-column: span 8 / span 8;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:block[_ngcontent-%COMP%] {
+    display: block;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex[_ngcontent-%COMP%] {
+    display: flex;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-1\\/3[_ngcontent-%COMP%] {
+    width: calc(1/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-2\\/3[_ngcontent-%COMP%] {
+    width: calc(2/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-2[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-3[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-4[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-12[_ngcontent-%COMP%] {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex-row[_ngcontent-%COMP%] {
+    flex-direction: row;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:py-20[_ngcontent-%COMP%] {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-6xl[_ngcontent-%COMP%] {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-7xl[_ngcontent-%COMP%] {
+    font-size: var(--text-7xl);
+    line-height: var(--tw-leading, var(--text-7xl--line-height));
+  }
+}
+.dark\\:border-input[_ngcontent-%COMP%]:is(.dark *) {
+  border-color: hsl(var(--input));
+}
+.dark\\:bg-destructive\\/60[_ngcontent-%COMP%]:is(.dark *) {
+  background-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-destructive\\/60[_ngcontent-%COMP%]:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--destructive)) 60%, transparent);
+  }
+}
+.dark\\:bg-input\\/30[_ngcontent-%COMP%]:is(.dark *) {
+  background-color: hsl(var(--input));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-input\\/30[_ngcontent-%COMP%]:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--input)) 30%, transparent);
+  }
+}
+.dark\\:bg-white\\/5[_ngcontent-%COMP%]:is(.dark *) {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-white\\/5[_ngcontent-%COMP%]:is(.dark *) {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-accent\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+    background-color: hsl(var(--accent));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-accent\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--accent)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-input\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+    background-color: hsl(var(--input));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-input\\/50[_ngcontent-%COMP%]:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--input)) 50%, transparent);
+    }
+  }
+}
+.dark\\:focus-visible\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *):focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:focus-visible\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *):focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+.dark\\:aria-invalid\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *)[aria-invalid=true] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:aria-invalid\\:ring-destructive\\/40[_ngcontent-%COMP%]:is(.dark *)[aria-invalid=true] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+@media print {
+  .print\\:inline[_ngcontent-%COMP%] {
+    display: inline;
+  }
+}
+@media print {
+  .print\\:border-none[_ngcontent-%COMP%] {
+    --tw-border-style: none;
+    border-style: none;
+  }
+}
+@media print {
+  .print\\:bg-none[_ngcontent-%COMP%] {
+    background-image: none;
+  }
+}
+@media print {
+  .print\\:px-0[_ngcontent-%COMP%] {
+    padding-inline: calc(var(--spacing) * 0);
+  }
+}
+@media print {
+  .print\\:text-sm[_ngcontent-%COMP%] {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+}
+@media print {
+  .print\\:after\\:content-\\[\\'\\[_ngcontent-%COMP%], _\\'\\][_ngcontent-%COMP%]::after {
+    --tw-content: ", ";
+    content: var(--tw-content);
+  }
+}
+@media print {
+  .print\\:last\\:after\\:content-\\__ph-0__[_ngcontent-%COMP%]:last-child::after {
+    --tw-content: "";
+    content: var(--tw-content);
+  }
+}
+.\\__ph-0__\\:pointer-events-none[_ngcontent-%COMP%]   ng-icon[_ngcontent-%COMP%] {
+  pointer-events: none;
+}
+.\\__ph-0__\\:shrink-0[_ngcontent-%COMP%]   ng-icon[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+.\\__ph-0__\\)\\]\\:text-base[_ngcontent-%COMP%]   ng-icon[_ngcontent-%COMP%]:not([class*=text-]) {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.\\__ph-0__\\:pointer-events-none[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {
+  pointer-events: none;
+}
+.\\__ph-0__\\:size-4[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.\\__ph-0__\\:shrink-0[_ngcontent-%COMP%]   svg[_ngcontent-%COMP%] {
+  flex-shrink: 0;
+}
+@layer theme, base, components, utilities;
+@layer base {
+  .root[_ngcontent-%COMP%] {
+    --button-outline: rgba(0, 0, 0, .10);
+    --badge-outline: rgba(0, 0, 0, .05);
+    --opaque-button-border-intensity: -8;
+    --elevate-1: rgba(0, 0, 0, .03);
+    --elevate-2: rgba(0, 0, 0, .08);
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+    --my-radius: 10px;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --sidebar: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+    --font-sans:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-serif:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-mono:
+      "Courier New",
+      Courier,
+      monospace;
+    --tracking-normal: 0em;
+    --spacing: 0.25rem;
+    --sidebar-primary-border: hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --sidebar-accent-border: hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --primary-border: hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --secondary-border: hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --muted-border: hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --accent-border: hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --destructive-border: hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --cursor-outline-color: oklch(68.762% 0.30745 333.944);
+  }
+  .dark[_ngcontent-%COMP%] {
+    --button-outline: rgba(255, 255, 255, .10);
+    --badge-outline: rgba(255, 255, 255, .05);
+    --opaque-button-border-intensity: 9;
+    --elevate-1: rgba(255, 255, 255, .04);
+    --elevate-2: rgba(255, 255, 255, .09);
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+  *[_ngcontent-%COMP%] {
+    border-color: hsl(var(--border));
+  }
+  body[_ngcontent-%COMP%] {
+    background-color: hsl(var(--background));
+    font-family: var(--font-sans);
+    color: hsl(var(--foreground));
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  *[_ngcontent-%COMP%] {
+    font-family:
+      Arial,
+      Helvetica,
+      sans-serif !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    box-sizing: border-box !important;
+  }
+}
+@layer utilities {
+  input[type=search][_ngcontent-%COMP%]::-webkit-search-cancel-button {
+    display: none;
+  }
+  [contenteditable][data-placeholder][_ngcontent-%COMP%]:empty::before {
+    content: attr(data-placeholder);
+    color: hsl(var(--muted-foreground));
+    pointer-events: none;
+  }
+}
+@property --tw-translate-x { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-y { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-z { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-scale-x { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-y { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-z { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-rotate-x { syntax: "*"; inherits: false; }
+@property --tw-rotate-y { syntax: "*"; inherits: false; }
+@property --tw-rotate-z { syntax: "*"; inherits: false; }
+@property --tw-skew-x { syntax: "*"; inherits: false; }
+@property --tw-skew-y { syntax: "*"; inherits: false; }
+@property --tw-space-y-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-space-x-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-border-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-gradient-position { syntax: "*"; inherits: false; }
+@property --tw-gradient-from { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-via { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-to { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-via-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-from-position { syntax: "<length-percentage>"; inherits: false; initial-value: 0%; }
+@property --tw-gradient-via-position { syntax: "<length-percentage>"; inherits: false; initial-value: 50%; }
+@property --tw-gradient-to-position { syntax: "<length-percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-leading { syntax: "*"; inherits: false; }
+@property --tw-font-weight { syntax: "*"; inherits: false; }
+@property --tw-tracking { syntax: "*"; inherits: false; }
+@property --tw-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-inset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-inset-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-ring-color { syntax: "*"; inherits: false; }
+@property --tw-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-ring-color { syntax: "*"; inherits: false; }
+@property --tw-inset-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-ring-inset { syntax: "*"; inherits: false; }
+@property --tw-ring-offset-width { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --tw-ring-offset-color { syntax: "*"; inherits: false; initial-value: #fff; }
+@property --tw-ring-offset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-outline-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-blur { syntax: "*"; inherits: false; }
+@property --tw-brightness { syntax: "*"; inherits: false; }
+@property --tw-contrast { syntax: "*"; inherits: false; }
+@property --tw-grayscale { syntax: "*"; inherits: false; }
+@property --tw-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-invert { syntax: "*"; inherits: false; }
+@property --tw-opacity { syntax: "*"; inherits: false; }
+@property --tw-saturate { syntax: "*"; inherits: false; }
+@property --tw-sepia { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-drop-shadow-size { syntax: "*"; inherits: false; }
+@property --tw-backdrop-blur { syntax: "*"; inherits: false; }
+@property --tw-backdrop-brightness { syntax: "*"; inherits: false; }
+@property --tw-backdrop-contrast { syntax: "*"; inherits: false; }
+@property --tw-backdrop-grayscale { syntax: "*"; inherits: false; }
+@property --tw-backdrop-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-invert { syntax: "*"; inherits: false; }
+@property --tw-backdrop-opacity { syntax: "*"; inherits: false; }
+@property --tw-backdrop-saturate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-sepia { syntax: "*"; inherits: false; }
+@property --tw-duration { syntax: "*"; inherits: false; }
+@property --tw-ease { syntax: "*"; inherits: false; }
+@property --tw-content { syntax: "*"; initial-value: ""; inherits: false; }
+@keyframes _ngcontent-%COMP%_spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes _ngcontent-%COMP%_ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+@keyframes _ngcontent-%COMP%_pulse {
+  50% {
+    opacity: 0.5;
+  }
+}
+@layer properties {
+  @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
+    *[_ngcontent-%COMP%], 
+   [_ngcontent-%COMP%]::before, 
+   [_ngcontent-%COMP%]::after, 
+   [_ngcontent-%COMP%]::backdrop {
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+      --tw-scale-x: 1;
+      --tw-scale-y: 1;
+      --tw-scale-z: 1;
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-space-y-reverse: 0;
+      --tw-space-x-reverse: 0;
+      --tw-border-style: solid;
+      --tw-gradient-position: initial;
+      --tw-gradient-from: #0000;
+      --tw-gradient-via: #0000;
+      --tw-gradient-to: #0000;
+      --tw-gradient-stops: initial;
+      --tw-gradient-via-stops: initial;
+      --tw-gradient-from-position: 0%;
+      --tw-gradient-via-position: 50%;
+      --tw-gradient-to-position: 100%;
+      --tw-leading: initial;
+      --tw-font-weight: initial;
+      --tw-tracking: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-blur: initial;
+      --tw-brightness: initial;
+      --tw-contrast: initial;
+      --tw-grayscale: initial;
+      --tw-hue-rotate: initial;
+      --tw-invert: initial;
+      --tw-opacity: initial;
+      --tw-saturate: initial;
+      --tw-sepia: initial;
+      --tw-drop-shadow: initial;
+      --tw-drop-shadow-color: initial;
+      --tw-drop-shadow-alpha: 100%;
+      --tw-drop-shadow-size: initial;
+      --tw-backdrop-blur: initial;
+      --tw-backdrop-brightness: initial;
+      --tw-backdrop-contrast: initial;
+      --tw-backdrop-grayscale: initial;
+      --tw-backdrop-hue-rotate: initial;
+      --tw-backdrop-invert: initial;
+      --tw-backdrop-opacity: initial;
+      --tw-backdrop-saturate: initial;
+      --tw-backdrop-sepia: initial;
+      --tw-duration: initial;
+      --tw-ease: initial;
+      --tw-content: "";
+    }
+  }
+}
+
+
+/*# sourceMappingURL=resume-one-tr-component.css.map */`] });
+};
+(() => {
+  (typeof ngDevMode === "undefined" || ngDevMode) && setClassMetadata(ResumeOneTrComponent, [{
+    type: Component,
+    args: [{ selector: "app-resume-one-tr-component", imports: [LucideAngularModule, CommonModule], template: `<div #pdfArea class="min-h-screen bg-white font-sans text-slate-800">
+	<header class="bg-resume-teal text-white px-8 py-10 md:py-12">
+		<div class="max-w-6xl mx-auto">
+			<h1 class="text-4xl md:text-6xl font-bold mb-2 tracking-tight">Burakhan \u015Eaml\u0131</h1>
+			<p class="text-xl md:text-2xl font-light text-resume-teal-light mb-6">Adli Bili\u015Fim M\xFChendisi | AI, CV, NLP & MLOps
+			</p>
+
+			<p class="text-sm md:text-base leading-relaxed opacity-90 mb-6 max-w-4xl">
+				&nbsp;&nbsp;Adli Bili\u015Fim M\xFChendisli\u011Fi altyap\u0131s\u0131na sahip bir Yapay Zeka Uzman\u0131 (AI Specialist) olarak;
+				Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision), Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing) ve
+				Uzaktan Alg\u0131lama (Remote Sensing) tabanl\u0131 yapay zeka sistemleri \xFCzerine \xE7al\u0131\u015Fmaktay\u0131m.
+
+				Ger\xE7ek d\xFCnya uygulamalar\u0131na y\xF6nelik olarak; biyometrik kimliklendirme,
+				nesne tespiti ve takibi (object detection & tracking), \xE7ok kameral\u0131 video analiti\u011Fi
+				ve uydu g\xF6r\xFCnt\xFCs\xFC analizi gibi alanlarda u\xE7tan uca ve \xF6l\xE7eklenebilir yapay zeka \xE7\xF6z\xFCmleri geli\u015Ftirme
+				deneyimine sahibim.
+
+				G\xF6r\xFCnt\xFC ve dil alanlar\u0131nda Transformer tabanl\u0131 mimariler ile uygulamal\u0131 g\xFC\xE7l\xFC bir tecr\xFCbeye sahip olup,
+				geli\u015Ftirdi\u011Fim yapay zeka modellerini Docker ve Kubernetes kullanarak konteyner tabanl\u0131 ve
+				mikroservis mimarileri \xFCzerinde \xFCretim ortamlar\u0131na ta\u015F\u0131maktay\u0131m.
+			</p>
+
+			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm font-medium">
+				<div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+					<lucide-icon [img]="MailIcon" class="my-icon"></lucide-icon>
+					<a href="mailto:burakhansamli@proton.me">burakhansamli@proton.me</a>
+				</div>
+				<div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+					<lucide-icon [img]="PhoneIcon" class="my-icon"></lucide-icon>
+					<span><a [href]="'tel:'+tel">{{ tel }}</a></span>
+				</div>
+				<div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+					<lucide-icon [img]="MapPinIcon" class="my-icon"></lucide-icon>
+					<span>Ankara</span>
+				</div>
+				<div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+					<lucide-icon [img]="LinkedInIcon" class="my-icon"></lucide-icon>
+					<a href="https://www.linkedin.com/in/burakhan-\u015Faml\u0131-0000/">Burakhan \u015Eaml\u0131</a>
+				</div>
+				<div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+					<lucide-icon [img]="GithubIcon" class="my-icon"></lucide-icon>
+					<a href="https://github.com/blitzkrieg0000">github.com/blitzkrieg0000</a>
+				</div>
+				<div class="flex items-center gap-2 hover:text-white/80 transition-colors">
+					<lucide-icon [img]="GlobeIcon" class="my-icon"></lucide-icon>
+					<a href="https://blitzkrieg0000.github.io/">https://blitzkrieg0000.github.io/</a>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	<main class="max-w-6xl mx-auto px-2 py-6 grid grid-cols-1 gap-12">
+		<!-- Column 0 -->
+		<div class="md:col-span-7 lg:col-span-8 space-y-10">
+			<!-- CV -->
+			<section>
+				<div>
+					<h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">\u0130\u015E DENEY\u0130M\u0130</h2>
+					<div class="space-y-8 relative pl-4 border-l-2 border-slate-300 ml-2">
+						<div class="relative mb-2">
+							<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+							<div class="flex justify-between items-baseline mb-1">
+								<h3 class="text-xl font-bold text-slate-900">Hexaops A.\u015E.</h3>
+								<span class="text-sm italic text-slate-500">Teknokent, Kahramanmara\u015F</span>
+								<span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">10/2024 - 05/2025</span>
+							</div>
+						</div>
+
+						<div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-3">
+									<h4 class="text-lg font-semibold text-slate-700">Yapay Zeka M\xFChendisi ve Yaz\u0131l\u0131m Geli\u015Ftirici</h4>
+								</div>
+								<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+									<li>Makine \xC7evirisi (Machine Translation) odakl\u0131 LLM fine-tuning s\xFCre\xE7lerine katk\u0131 sa\u011Flad\u0131m.</li>
+									<li>\xDCretim (production) ortamlar\u0131nda Text-to-Speech (TTS), Speech-to-Text (STT) ve voice cloning (ses klonlama) i\u015F ak\u0131\u015Flar\u0131n\u0131n geli\u015Ftirilmesine ve iyile\u015Ftirilmesine m\xFChendislik deste\u011Fi verdim.</li>
+									<li>S\u0131n\u0131rl\u0131 GPU kaynaklar\u0131 \xFCzerinde LLM fine-tuning yap\u0131labilmesini sa\u011Flamak amac\u0131yla Fully Sharded Data Parallel (FSDP) tabanl\u0131 da\u011F\u0131t\u0131k model e\u011Fitim tekniklerini uygulad\u0131m.</li>
+									<li>Bellek kullan\u0131m\u0131 (memory footprint), e\u011Fitim s\xFCresi ve toplam hesaplama maliyetlerini azaltarak e\u011Fitim verimlili\u011Fini art\u0131rd\u0131m.</li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="relative mb-2">
+							<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+							<div class="flex justify-between items-baseline mb-1">
+								<h3 class="text-xl font-bold text-slate-900">DGH Arge Yaz\u0131l\u0131m LTD.</h3>
+								<span class="text-sm italic text-slate-500">ASB\xDC Teknokent, Ankara</span>
+								<span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">08/2021 - 10/2024</span>
+							</div>
+						</div>
+
+						<div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-1">
+									<h4 class="text-lg font-semibold text-slate-700">Uzaktan Alg\u0131lama (Remote Sensing) & CBS (GIS) Geli\u015Ftirici</h4>
+								</div>
+
+								<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>
+                                        Multispektral ve hiperspektral uzaktan alg\u0131lama verilerini kullanarak uydu g\xF6r\xFCnt\xFCs\xFC analizi ve Co\u011Frafi Bilgi Sistemleri (CBS) tabanl\u0131 i\u015F ak\u0131\u015Flar\u0131 ger\xE7ekle\u015Ftirdim. </li>
+                                    <li>
+                                        Arazi Kullan\u0131m\u0131 / Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) s\u0131n\u0131fland\u0131rmas\u0131 ve analizi dahil olmak \xFCzere, tar\u0131m odakl\u0131 uzaktan alg\u0131lama projelerinde teknikler uygulad\u0131m.
+                                    <li>
+                                        Sentinel, Landsat, Google Earth Engine (GEE), ArcGIS Pro ve Copernicus veri setleri gibi uydu platformlar\u0131 ve jeo-uzamsal ara\xE7larla aktif olarak \xE7al\u0131\u015Ft\u0131m.
+                                    <li>
+                                        Ger\xE7ek d\xFCnya CBS ve \xE7evresel uygulamalar\u0131n\u0131 desteklemek amac\u0131yla uydu g\xF6r\xFCnt\xFClerinin \xF6n i\u015Fleme (preprocessing), analiz ve yorumlama s\xFCre\xE7lerini y\xFCr\xFCtt\xFCm.
+                                    </li>
+								</ul>
+							</div>
+
+
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-1">
+									<h4 class="text-lg font-semibold text-slate-700">Do\u011Fal Dil \u0130\u015Fleme & Transformer Model Geli\u015Ftirici</h4>
+								</div>
+
+								<ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>Do\u011Fal Dil \u0130\u015Fleme (Natural Language Processing - NLP) ve Bilgisayarl\u0131 G\xF6r\xFC (Computer Vision) alanlar\u0131nda Transformer tabanl\u0131 mimariler geli\u015Ftirerek projelere uygun hale getirdim.</li>
+                                    <li>Metin tabanl\u0131 analiz, \xF6zellik temsili (feature representation) ve modern derin \xF6\u011Frenme i\u015F ak\u0131\u015Flar\u0131 i\xE7in Transformer modellerini e\u011Fitimleri yapt\u0131m.</li>
+                                    <li>Bilgisayarl\u0131 g\xF6r\xFC projelerinde, Transformer tabanl\u0131 yakla\u015F\u0131mlar\u0131 (DETR, VIT) entegre ederek aktif rol ald\u0131m.</li>
+								</ul>
+							</div>
+
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-1">
+									<h3 class="text-lg font-semibold text-slate-700">Ara\u015Ft\u0131rmac\u0131 & \u0130leri Sistemler</h3>
+								</div>
+								<ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>Huawei Atlas 800 sunucular\u0131 \xFCzerinde, NPU acceleration deste\u011Fiyle Docker tabanl\u0131 ortamlarda YOLO tabanl\u0131 mimariler kullanarak hata tespiti (fault detection) i\xE7in deep learning modelleri e\u011Fittim.</li>
+                                    <li>Computer Vision tabanl\u0131 altyap\u0131 hata tespit sistemleri i\xE7in sunucu taraf\u0131 AI e\u011Fitim i\u015F ak\u0131\u015Flar\u0131n\u0131 (training workflows) geli\u015Ftirdim ve y\xF6nettim.</li>
+                                    <li>Yapay zeka sistemlerinin y\xF6netimi ve veri i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla ASP.NET Core kullanarak backend odakl\u0131 web uygulamalar\u0131 tasarlad\u0131m ve hayata ge\xE7irdim.</li>
+                                    <li>\xC7evresel ve tar\u0131m odakl\u0131 senaryolar i\xE7in uzaktan alg\u0131lama (remote sensing) alan\u0131nda uygulamal\u0131 ara\u015Ft\u0131rmalar y\xFCr\xFCtt\xFCm.</li>
+								</ul>
+							</div>
+
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-1">
+									<h4 class="text-lg font-semibold text-slate-700">Yapay Zeka ve Bilgisayarl\u0131 G\xF6r\xFC (CV) M\xFChendisi</h4>
+
+								</div>
+								<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+ <li>OpenCV ve deep learning teknikleri kullanarak; OCR, image segmentation, object detection ve multi-object tracking gibi alanlarda AI tabanl\u0131 g\xF6r\xFCnt\xFC i\u015Fleme ve bilgisayarl\u0131 g\xF6r\xFC uygulamalar\u0131 geli\u015Ftirdim.</li>
+                                    <li>Supervised deep learning i\u015F ak\u0131\u015Flar\u0131n\u0131 desteklemek amac\u0131yla veri haz\u0131rlama (data preparation), etiketleme (labeling) ve veri art\u0131rma (augmentation) s\xFCre\xE7lerini kapsayan veri setleri olu\u015Fturdum ve y\xF6nettim.</li>
+                                    <li>GAN ve Transformer tabanl\u0131 g\xF6r\xFCnt\xFC iyile\u015Ftirme tekniklerini; super-resolution ve feature representation learning gibi yakla\u015F\u0131mlar \xFCzerinden uygulad\u0131m.</li>
+                                    <li>Ger\xE7ek zamanl\u0131 (real-time) AI sistemleri tasarlay\u0131p hayata ge\xE7irdim; bu kapsamda kalite kontrol pipeline'lar\u0131, face recognition ve identification platformlar\u0131 ile y\xFCksek gerilim iletim hatlar\u0131nda hata tespiti (fault detection) i\xE7eren altyap\u0131 denetim \xE7\xF6z\xFCmleri geli\u015Ftirdim.</li>
+                                    <li>PyTorch kullanarak derin \xF6\u011Frenme modelleri geli\u015Ftirdim ve bu modelleri NVIDIA Triton Inference Server ve TorchServe \xFCzerinden inference servisleri olarak da\u011F\u0131tt\u0131m.</li>
+								</ul>
+							</div>
+
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-1">
+									<h3 class="text-lg font-semibold text-slate-700">MLOps ve Backend Geli\u015Ftirici</h3>
+								</div>
+								<ul class="list-disc list-outside ml-4 mt-2 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                    <li>Python ve FastAPI kullanarak yapay zeka odakl\u0131 backend servisleri geli\u015Ftirdim; model \xE7\u0131kar\u0131m (inference) s\xFCre\xE7lerini NVIDIA Triton Inference Server \xFCzerinden servis ettim.</li>
+                                    <li>\xD6l\xE7eklenebilir ve mod\xFCler yaz\u0131l\u0131m sistemlerini desteklemek amac\u0131yla mikroservis tabanl\u0131 mimariler tasarlad\u0131m ve uygulad\u0131m.</li>
+                                    <li>Uygulamalar\u0131 Docker, Kubernetes ve Proxmox kullanarak konteynerle\u015Ftirdim; orkestrasyon ve sanalla\u015Ft\u0131rma s\xFCre\xE7lerini y\xF6nettim.</li>
+                                    <li>GitHub Actions, GHCR, ArgoCD ve Ansible kullanarak CI/CD pipeline'lar\u0131 olu\u015Fturdum ve da\u011F\u0131t\u0131m (deployment) s\xFCre\xE7lerini otomatikle\u015Ftirdim.</li>
+                                    <li>Kafka, Redis ve RTMP tabanl\u0131 streaming sistemleri ile ger\xE7ek zamanl\u0131 veri i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim.</li>
+                                    <li>Sistem performans\u0131 ve servis s\xFCreklili\u011Fini Prometheus ve Grafana ile izledim ve takip ettim.</li>
+								</ul>
+							</div>
+						</div>
+
+						<div class="relative  mb-2">
+							<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+							<div class="flex justify-between items-baseline mb-1">
+								<h3 class="text-xl font-bold text-slate-900">Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - I</h3>
+								<span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">07/2021 - 08/2021</span>
+							</div>
+
+						</div>
+
+						<div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-3">
+									<h4 class="text-lg font-semibold text-slate-700">DGH Arge Yaz\u0131l\u0131m</h4>
+									<span class="text-sm italic text-slate-500">\u0130n\xF6n\xFC Teknokent, Malatya</span>
+								</div>
+								<div>
+									<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                        <li>Python, PyTorch, TensorFlow ve OpenCV kullanarak AI tabanl\u0131 yaz\u0131l\u0131m geli\u015Ftirme s\xFCre\xE7lerinde temel d\xFCzeyde deneyim kazand\u0131m.</li>
+                                        <li>ASP.NET Core kullan\u0131larak geli\u015Ftirilen backend servislerin olu\u015Fturulmas\u0131na ve Vue.js tabanl\u0131 frontend bile\u015Fenlerin entegrasyonuna destek verdim.</li>
+                                        <li>Web tabanl\u0131 uygulamalar i\xE7in Socket.IO kullanarak ger\xE7ek zamanl\u0131 ileti\u015Fim (real-time communication) mekanizmalar\u0131n\u0131 inceledim ve uygulad\u0131m.</li>
+                                        <li>K\u0131sa s\xFCreli staj projeleri kapsam\u0131nda ger\xE7ek zamanl\u0131 web entegrasyonu \xE7al\u0131\u015Fmalar\u0131na destek sa\u011Flad\u0131m.</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+
+						<div class="relative  mb-2">
+							<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-gold border-4 border-white shadow-sm"></div>
+							<div class="flex justify-between items-baseline mb-1">
+								<h3 class="text-xl font-bold text-slate-900">Adli Bili\u015Fim M\xFChendisli\u011Fi Staj\u0131 - II</h3>
+								<span class="text-xs font-semibold text-resume-teal-dark bg-resume-teal/10 px-2 py-0.5 rounded">07/2020 - 08/2020</span>
+							</div>
+						</div>
+
+						<div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-0">
+							<div class="relative">
+								<div class="absolute -left-[23px] top-2 w-3 h-3 rounded-full bg-resume-teal border-3 border-white shadow-sm"></div>
+								<div class="flex justify-between items-baseline mb-3">
+									<h4 class="text-lg font-semibold text-slate-700">Telehouse \u0130stanbul - Teknotel</h4>
+									<span class="text-sm italic text-slate-500">Kozyata\u011F\u0131, Kad\u0131k\xF6y/\u0130stanbul</span>
+								</div>
+								<div>
+									<ul class="list-disc list-outside ml-4 space-y-2 text-sm text-slate-600 marker:text-resume-teal">
+                                        <li>Cisco Packet Tracer kullanarak y\xF6nlendirme (routing) ve a\u011F protokollerine y\xF6nelik temel network altyap\u0131 \xE7al\u0131\u015Fmalar\u0131nda g\xF6rev ald\u0131m.</li>
+                                        <li>HP kurumsal sunucular \xFCzerinde sunucu kurulumu ve yap\u0131land\u0131rma s\xFCre\xE7lerine destek verdim; SAS disk yap\u0131land\u0131rmas\u0131 ve RAID birle\u015Ftirme i\u015Flemlerinde yer ald\u0131m.</li>
+                                        <li>REST tabanl\u0131 mimariler ve web hosting sistemleri \xFCzerine pratik deneyim kazand\u0131m; WHMCS tabanl\u0131 servis ve m\xFC\u015Fteri y\xF6netim i\u015F ak\u0131\u015Flar\u0131n\u0131 inceledim.</li>
+                                        <li>Sunucu, depolama ve ba\u011Flant\u0131 y\xF6netimini kapsayan network ve IT operasyonlar\u0131na destek sa\u011Flad\u0131m.</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Projects -->
+			<section>
+				<h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">Projects</h2>
+				<div class="space-y-8 relative pl-4 border-l-2 border-slate-200 ml-2">
+					<div class="relative">
+						<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">LULC Analizi & Uzaktan Alg\u0131lama (Remote Sensing)</h3>
+						<ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                Multispektral Sentinel-2 ve Landsat uydu g\xF6r\xFCnt\xFClerini kullanarak Arazi Kullan\u0131m\u0131 ve Arazi \xD6rt\xFCs\xFC (Land Use and Land Cover) segmentasyonu ger\xE7ekle\u015Ftirdim.
+                            </li>
+                            <li>
+                                ArcGIS Pro ve QGIS kullanarak bile\u015Fik veri setleri (composite datasets) olu\u015Fturdum; arazi \xF6rt\xFCs\xFC s\u0131n\u0131flar\u0131n\u0131n alan da\u011F\u0131l\u0131mlar\u0131n\u0131 hesaplamak i\xE7in co\u011Frafi analizler yapt\u0131m.
+                            </li>
+                            <li>
+                                Google Earth Engine (GEE) API'leri ve Copernicus veri setleri \xFCzerinden, LULC analizine y\xF6nelik \xF6l\xE7eklenebilir veri toplama ve i\u015Fleme pipeline'lar\u0131 geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Web tabanl\u0131 jeo-uzamsal protokoller arac\u0131l\u0131\u011F\u0131yla map tile verilerini \xE7ekip i\u015Fleyerek, b\xFCy\xFCk \xF6l\xE7ekli mekansal analiz i\u015F ak\u0131\u015Flar\u0131n\u0131 destekledim.
+                            </li>
+                            <li>
+                                Radar verileri \xFCzerinden InSAR tabanl\u0131 teknikler kullanarak Say\u0131sal Y\xFCkseklik Modelleri (Digital Elevation Model - DEM) \xFCrettim ve arazi/y\xFCkseklik analizleri ger\xE7ekle\u015Ftirdim.
+                            </li>
+						</ul>
+					</div>
+
+					<div class="relative">
+						<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Hata Tespiti Projesi - Y\xFCksek Gerilim \u0130letim Hatlar\u0131</h3>
+						<ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                YOLOv11 tabanl\u0131 object detection ve segmentation modelleri kullanarak y\xFCksek gerilim iletim hatlar\u0131 i\xE7in computer vision tabanl\u0131 hata tespit sistemi geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                \u0130zolat\xF6rler (insulators), direkler (poles) ve di\u011Fer yap\u0131sal bile\u015Fenleri kapsayan tespit ve segmentasyon pipeline'lar\u0131 tasarlad\u0131m ve uygulad\u0131m.
+                            </li>
+                            <li>
+                                Altyap\u0131 g\xFCvenli\u011Fi ve proaktif bak\u0131m s\xFCre\xE7lerini desteklemek amac\u0131yla, iletim hatlar\u0131 \xFCzerindeki ku\u015F yuvalar\u0131n\u0131n tespiti i\xE7in object detection modelleri geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Model e\u011Fitimi ve de\u011Ferlendirmesi i\xE7in \xF6zel veri setleri haz\u0131rlad\u0131m; veri etiketleme (annotation) ve kalite kontrol s\xFCre\xE7lerini y\xF6nettim.
+                            </li>
+						</ul>
+					</div>
+
+					<div class="relative">
+						<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+
+						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">
+							\xC7oklu Kamera Tabanl\u0131 AI G\xFCvenlik & G\xF6zetim Sistemi
+						</h3>
+
+						<ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                Y\xFCz tespiti, y\xFCz tan\u0131ma, \xE7oklu obje takibi ve ki\u015Fi yeniden-tan\u0131mlama (person re-identification) bile\u015Fenlerini bir araya getirerek kimlik tabanl\u0131 g\xF6zetim senaryolar\u0131 i\xE7in entegre bir bilgisayarl\u0131 g\xF6r\xFC sistemi geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                G\xFCvenlik izleme kabiliyetlerini art\u0131rmak amac\u0131yla maske tespiti(COVID-19), duygu tan\u0131ma ve silah tespiti gibi ek AI mod\xFCllerini sisteme entegre ettim.
+                            </li>
+                            <li>
+                                Sistemi, birden fazla kamera ak\u0131\u015F\u0131 \xFCzerinde ger\xE7ek zamanl\u0131 video i\u015Fleme ve olay tabanl\u0131 analitik yapabilecek \u015Fekilde tasarlad\u0131m.
+                            </li>
+                            <li>
+                                Mikroservis tabanl\u0131 bir backend mimarisi kurgulad\u0131m; AI inference servislerini Docker ve Kubernetes kullanarak \xF6l\xE7eklenebilir ve hataya dayan\u0131kl\u0131 bi\xE7imde da\u011F\u0131tt\u0131m.
+                            </li>
+                            <li>
+                                Da\u011F\u0131t\u0131k sistem bile\u015Fenleri aras\u0131nda video stream y\xF6netimi, inference servisleri ve sistem koordinasyonunu sa\u011Flayan gRPC backend API'leri geli\u015Ftirdim.
+                            </li>
+						</ul>
+					</div>
+
+					<div class="relative">
+						<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+
+						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">
+							Ger\xE7ek Zamanl\u0131 Tenis Performans Analiz Sistemi
+						</h3>
+						<ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                ITN (International Tennis Number) performans de\u011Ferlendirmesini desteklemek amac\u0131yla; tenis topu tespiti (ball detection), takibi (tracking) ve sekme noktas\u0131 tahmini (bounce point estimation) yapan ger\xE7ek zamanl\u0131 bir computer vision sistemi geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Canl\u0131 oyun s\u0131ras\u0131nda vuru\u015F (shot) olaylar\u0131n\u0131 analiz etmek ve oyuncu aksiyonlar\u0131n\u0131 skorlamak i\xE7in oyuncu tespiti ve takip (player detection & tracking) pipeline'lar\u0131 uygulad\u0131m.
+                            </li>
+                            <li>
+                                Farkl\u0131 kamera a\xE7\u0131lar\u0131 \xFCzerinden top y\xF6r\xFCngelerini birle\u015Ftirmek amac\u0131yla \xE7oklu kamera kalibrasyonu, hizalama (alignment) ve senkronizasyon mekanizmalar\u0131 tasarlad\u0131m.
+                            </li>
+                            <li>
+                                Oyuncu hareketlerini analiz etmek ve performans geli\u015Fimini de\u011Ferlendirmek i\xE7in insan iskelet tahmini (human pose estimation) tekniklerini; v\xFCcut duru\u015Fu (posture) ve hareket paternleri \xFCzerinden uygulad\u0131m.
+                            </li>
+                            <li>
+                                Spor performans analiz sistemlerinde ger\xE7ek zamanl\u0131 geri bildirim sa\u011Flamak amac\u0131yla d\xFC\u015F\xFCk gecikmeli (low-latency) i\u015Fleme i\u015F ak\u0131\u015Flar\u0131 olu\u015Fturdum.
+                            </li>
+						</ul>
+					</div>
+
+					<div class="relative">
+						<div class="absolute -left-[25px] top-1 w-4 h-4 rounded-full bg-resume-teal border-4 border-white shadow-sm"></div>
+
+						<h3 class="text-lg font-bold text-slate-900 mb-0 mt-1">Olay Raporlama S\xFCre\xE7lerinin Blok Zinciri ile Korunmas\u0131</h3>
+						<ul class="list-disc list-outside ml-4 text-md text-slate-600 marker:text-resume-teal">
+                            <li>
+                                Dijital adli bili\u015Fim s\xFCre\xE7lerinde veri i\u015Fleme ve raporlama pipeline'lar\u0131n\u0131n de\u011Fi\u015Ftirilemezli\u011Fini (immutability) ve tutarl\u0131l\u0131\u011F\u0131n\u0131 sa\u011Flamak amac\u0131yla blockchain tabanl\u0131 bir sistem tasarlad\u0131m ve geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Adli analiz i\u015F ak\u0131\u015Flar\u0131 boyunca delil b\xFCt\xFCnl\xFC\u011F\xFCn\xFC (evidence integrity) korumak ve yetkisiz m\xFCdahaleleri \xF6nlemek i\xE7in blockchain mekanizmalar\u0131 uygulad\u0131m.
+                            </li>
+                            <li>
+                                G\xFCvenli veri y\xF6netimi ve denetlenebilirlik (auditability) sa\u011Flamak amac\u0131yla sistem bile\u015Fenlerini PHP ve Java kullanarak geli\u015Ftirdim.
+                            </li>
+                            <li>
+                                Adli verilerin i\u015F ak\u0131\u015F\u0131 boyunca tutarl\u0131l\u0131\u011F\u0131n\u0131 do\u011Frulamak i\xE7in hash tabanl\u0131 do\u011Frulama (SHA-256 vb.) mekanizmalar\u0131 entegre ettim.
+                            </li>
+						</ul>
+					</div>
+				</div>
+			</section>
+
+
+			<section>
+				<h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">
+					TEKN\u0130K BECER\u0130LER
+				</h2>
+
+				<div class="space-y-4">
+					<div *ngFor="let group of technicalSkillGroups">
+						<h3 class="text-resume-teal font-semibold mb-1 text-xs uppercase tracking-wide">
+							{{ group.title }}
+						</h3>
+
+						<div class="flex flex-wrap gap-2">
+							<span *ngFor="let skill of group.items" class="px-2.5 py-1 bg-slate-100 text-slate-700 text-[11px] font-bold rounded-sm border border-slate-200 print:bg-none print:border-none print:px-0 print:text-sm print:inline print:after:content-[',_'] print:last:after:content-['']">
+								{{ skill }}
+							</span>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section>
+				<h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">D\u0130L</h2>
+				<div class="space-y-4">
+					<div>
+						<h3 class="text-base font-bold text-slate-800 leading-tight mb-1">\u0130ngilizce - Profesyonel \xC7al\u0131\u015Fma Yetkinli\u011Fi</h3>
+					</div>
+					<div>
+						<h3 class="text-base font-bold text-slate-800 leading-tight mb-1">T\xFCrk\xE7e - Ana Dil</h3>
+					</div>
+				</div>
+			</section>
+
+			<section>
+				<h2 class="text-resume-gold text-2xl font-bold uppercase border-b-2 border-resume-gold/30 pb-2 mb-2 tracking-wide">E\u011E\u0130T\u0130M</h2>
+				<div>
+					<h3 class="text-lg font-bold text-slate-900 leading-tight">F\u0131rat \xDCniversitesi</h3>
+					<h4 class="text-base font-medium text-slate-700 mb-1">Adli Bili\u015Fim M\xFChendisli\u011Fi - Lisans</h4>
+					<p class="text-md text-resume-gold font-medium"><strong>GNO:</strong> 3.73 / 4</p>
+					<p class="text-sm text-resume-teal font-medium italic">2017 - 2022</p>
+				</div>
+			</section>
+
+
+		</div>
+
+		<!-- Column 1 -->
+		<!-- <div class="md:col-span-5 lg:col-span-4 space-y-10">
+			
+		</div> -->
+	</main>
+</div>`, styles: [`/* src/app/component/resume-one-tr-component/resume-one-tr-component.scss */
+@layer properties;
+@layer theme {
+  :root,
+  :host {
+    --font-sans:
+      ui-sans-serif,
+      system-ui,
+      sans-serif,
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+      "Noto Color Emoji";
+    --font-mono:
+      ui-monospace,
+      SFMono-Regular,
+      Menlo,
+      Monaco,
+      Consolas,
+      "Liberation Mono",
+      "Courier New",
+      monospace;
+    --color-red-500: oklch(63.7% 0.237 25.331);
+    --color-amber-500: oklch(76.9% 0.188 70.08);
+    --color-emerald-500: oklch(69.6% 0.17 162.48);
+    --color-blue-500: oklch(62.3% 0.214 259.815);
+    --color-purple-400: oklch(71.4% 0.203 305.504);
+    --color-purple-500: oklch(62.7% 0.265 303.9);
+    --color-slate-100: oklch(96.8% 0.007 247.896);
+    --color-slate-200: oklch(92.9% 0.013 255.508);
+    --color-slate-300: oklch(86.9% 0.022 252.894);
+    --color-slate-500: oklch(55.4% 0.046 257.417);
+    --color-slate-600: oklch(44.6% 0.043 257.281);
+    --color-slate-700: oklch(37.2% 0.044 257.287);
+    --color-slate-800: oklch(27.9% 0.041 260.031);
+    --color-slate-900: oklch(20.8% 0.042 265.755);
+    --color-gray-50: oklch(98.5% 0.002 247.839);
+    --color-gray-600: oklch(44.6% 0.03 256.802);
+    --color-gray-900: oklch(21% 0.034 264.665);
+    --color-black: #000;
+    --color-white: #fff;
+    --spacing: 0.25rem;
+    --container-sm: 24rem;
+    --container-md: 28rem;
+    --container-lg: 32rem;
+    --container-2xl: 42rem;
+    --container-3xl: 48rem;
+    --container-4xl: 56rem;
+    --container-6xl: 72rem;
+    --text-xs: 0.75rem;
+    --text-xs--line-height: calc(1 / 0.75);
+    --text-sm: 0.875rem;
+    --text-sm--line-height: calc(1.25 / 0.875);
+    --text-base: 1rem;
+    --text-base--line-height: calc(1.5 / 1);
+    --text-lg: 1.125rem;
+    --text-lg--line-height: calc(1.75 / 1.125);
+    --text-xl: 1.25rem;
+    --text-xl--line-height: calc(1.75 / 1.25);
+    --text-2xl: 1.5rem;
+    --text-2xl--line-height: calc(2 / 1.5);
+    --text-4xl: 2.25rem;
+    --text-4xl--line-height: calc(2.5 / 2.25);
+    --text-5xl: 3rem;
+    --text-5xl--line-height: 1;
+    --text-6xl: 3.75rem;
+    --text-6xl--line-height: 1;
+    --text-7xl: 4.5rem;
+    --text-7xl--line-height: 1;
+    --font-weight-light: 300;
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --font-weight-black: 900;
+    --tracking-tight: -0.025em;
+    --tracking-wide: 0.025em;
+    --tracking-wider: 0.05em;
+    --tracking-widest: 0.1em;
+    --leading-tight: 1.25;
+    --leading-relaxed: 1.625;
+    --radius-2xl: 1rem;
+    --radius-3xl: 1.5rem;
+    --ease-out: cubic-bezier(0, 0, 0.2, 1);
+    --animate-spin: spin 1s linear infinite;
+    --animate-ping: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+    --animate-pulse: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+    --blur-sm: 8px;
+    --blur-xl: 24px;
+    --blur-2xl: 40px;
+    --aspect-video: 16 / 9;
+    --default-transition-duration: 150ms;
+    --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    --default-font-family: var(--font-sans);
+    --default-mono-font-family: var(--font-mono);
+  }
+}
+@layer base {
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0 solid;
+  }
+  html,
+  :host {
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    tab-size: 4;
+    font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+    font-feature-settings: var(--default-font-feature-settings, normal);
+    font-variation-settings: var(--default-font-variation-settings, normal);
+    -webkit-tap-highlight-color: transparent;
+  }
+  hr {
+    height: 0;
+    color: inherit;
+    border-top-width: 1px;
+  }
+  abbr:where([title]) {
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: inherit;
+    font-weight: inherit;
+  }
+  a {
+    color: inherit;
+    -webkit-text-decoration: inherit;
+    text-decoration: inherit;
+  }
+  b,
+  strong {
+    font-weight: bolder;
+  }
+  code,
+  kbd,
+  samp,
+  pre {
+    font-family: var(--default-mono-font-family, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace);
+    font-feature-settings: var(--default-mono-font-feature-settings, normal);
+    font-variation-settings: var(--default-mono-font-variation-settings, normal);
+    font-size: 1em;
+  }
+  small {
+    font-size: 80%;
+  }
+  sub,
+  sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+  sub {
+    bottom: -0.25em;
+  }
+  sup {
+    top: -0.5em;
+  }
+  table {
+    text-indent: 0;
+    border-color: inherit;
+    border-collapse: collapse;
+  }
+  :-moz-focusring {
+    outline: auto;
+  }
+  progress {
+    vertical-align: baseline;
+  }
+  summary {
+    display: list-item;
+  }
+  ol,
+  ul,
+  menu {
+    list-style: none;
+  }
+  img,
+  svg,
+  video,
+  canvas,
+  audio,
+  iframe,
+  embed,
+  object {
+    display: block;
+    vertical-align: middle;
+  }
+  img,
+  video {
+    max-width: 100%;
+    height: auto;
+  }
+  button,
+  input,
+  select,
+  optgroup,
+  textarea,
+  ::file-selector-button {
+    font: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: inherit;
+    border-radius: 0;
+    background-color: transparent;
+    opacity: 1;
+  }
+  :where(select:is([multiple], [size])) optgroup {
+    font-weight: bolder;
+  }
+  :where(select:is([multiple], [size])) optgroup option {
+    padding-inline-start: 20px;
+  }
+  ::file-selector-button {
+    margin-inline-end: 4px;
+  }
+  ::placeholder {
+    opacity: 1;
+  }
+  @supports (not (-webkit-appearance: -apple-pay-button)) or (contain-intrinsic-size: 1px) {
+    ::placeholder {
+      color: currentcolor;
+    }
+    @supports (color: color-mix(in lab, red, red)) {
+      ::placeholder {
+        color: color-mix(in oklab, currentcolor 50%, transparent);
+      }
+    }
+  }
+  textarea {
+    resize: vertical;
+  }
+  ::-webkit-search-decoration {
+    -webkit-appearance: none;
+  }
+  ::-webkit-date-and-time-value {
+    min-height: 1lh;
+    text-align: inherit;
+  }
+  ::-webkit-datetime-edit {
+    display: inline-flex;
+  }
+  ::-webkit-datetime-edit-fields-wrapper {
+    padding: 0;
+  }
+  ::-webkit-datetime-edit,
+  ::-webkit-datetime-edit-year-field,
+  ::-webkit-datetime-edit-month-field,
+  ::-webkit-datetime-edit-day-field,
+  ::-webkit-datetime-edit-hour-field,
+  ::-webkit-datetime-edit-minute-field,
+  ::-webkit-datetime-edit-second-field,
+  ::-webkit-datetime-edit-millisecond-field,
+  ::-webkit-datetime-edit-meridiem-field {
+    padding-block: 0;
+  }
+  ::-webkit-calendar-picker-indicator {
+    line-height: 1;
+  }
+  :-moz-ui-invalid {
+    box-shadow: none;
+  }
+  button,
+  input:where([type=button], [type=reset], [type=submit]),
+  ::file-selector-button {
+    appearance: button;
+  }
+  ::-webkit-inner-spin-button,
+  ::-webkit-outer-spin-button {
+    height: auto;
+  }
+  [hidden]:where(:not([hidden=until-found])) {
+    display: none !important;
+  }
+}
+.pointer-events-auto {
+  pointer-events: auto;
+}
+.pointer-events-none {
+  pointer-events: none;
+}
+.visible {
+  visibility: visible;
+}
+.absolute {
+  position: absolute;
+}
+.fixed {
+  position: fixed;
+}
+.relative {
+  position: relative;
+}
+.static {
+  position: static;
+}
+.sticky {
+  position: sticky;
+}
+.inset-0 {
+  inset: calc(var(--spacing) * 0);
+}
+.-top-\\[10\\%\\] {
+  top: calc(10% * -1);
+}
+.top-0 {
+  top: calc(var(--spacing) * 0);
+}
+.top-1 {
+  top: calc(var(--spacing) * 1);
+}
+.top-1\\/2 {
+  top: calc(1/2 * 100%);
+}
+.top-2 {
+  top: calc(var(--spacing) * 2);
+}
+.top-24 {
+  top: calc(var(--spacing) * 24);
+}
+.-right-\\[5\\%\\] {
+  right: calc(5% * -1);
+}
+.right-0 {
+  right: calc(var(--spacing) * 0);
+}
+.right-2 {
+  right: calc(var(--spacing) * 2);
+}
+.right-8 {
+  right: calc(var(--spacing) * 8);
+}
+.bottom-2 {
+  bottom: calc(var(--spacing) * 2);
+}
+.bottom-\\[-10\\%\\] {
+  bottom: -10%;
+}
+.bottom-\\[10\\%\\] {
+  bottom: 10%;
+}
+.-left-\\[5\\%\\] {
+  left: calc(5% * -1);
+}
+.-left-\\[23px\\] {
+  left: calc(23px * -1);
+}
+.-left-\\[25px\\] {
+  left: calc(25px * -1);
+}
+.left-2 {
+  left: calc(var(--spacing) * 2);
+}
+.left-4 {
+  left: calc(var(--spacing) * 4);
+}
+.left-8 {
+  left: calc(var(--spacing) * 8);
+}
+.-z-10 {
+  z-index: calc(10 * -1);
+}
+.z-0 {
+  z-index: 0;
+}
+.z-10 {
+  z-index: 10;
+}
+.z-20 {
+  z-index: 20;
+}
+.z-50 {
+  z-index: 50;
+}
+.z-\\[100\\] {
+  z-index: 100;
+}
+.col-span-full {
+  grid-column: 1 / -1;
+}
+.container {
+  width: 100%;
+}
+@media (width >= 40rem) {
+  .container {
+    max-width: 40rem;
+  }
+}
+@media (width >= 48rem) {
+  .container {
+    max-width: 48rem;
+  }
+}
+@media (width >= 64rem) {
+  .container {
+    max-width: 64rem;
+  }
+}
+@media (width >= 80rem) {
+  .container {
+    max-width: 80rem;
+  }
+}
+@media (width >= 96rem) {
+  .container {
+    max-width: 96rem;
+  }
+}
+.mx-4 {
+  margin-inline: calc(var(--spacing) * 4);
+}
+.mx-auto {
+  margin-inline: auto;
+}
+.mt-0 {
+  margin-top: calc(var(--spacing) * 0);
+}
+.mt-1 {
+  margin-top: calc(var(--spacing) * 1);
+}
+.mt-1\\.5 {
+  margin-top: calc(var(--spacing) * 1.5);
+}
+.mt-2 {
+  margin-top: calc(var(--spacing) * 2);
+}
+.mt-4 {
+  margin-top: calc(var(--spacing) * 4);
+}
+.mt-6 {
+  margin-top: calc(var(--spacing) * 6);
+}
+.mt-12 {
+  margin-top: calc(var(--spacing) * 12);
+}
+.mt-auto {
+  margin-top: auto;
+}
+.mb-0 {
+  margin-bottom: calc(var(--spacing) * 0);
+}
+.mb-1 {
+  margin-bottom: calc(var(--spacing) * 1);
+}
+.mb-2 {
+  margin-bottom: calc(var(--spacing) * 2);
+}
+.mb-3 {
+  margin-bottom: calc(var(--spacing) * 3);
+}
+.mb-4 {
+  margin-bottom: calc(var(--spacing) * 4);
+}
+.mb-6 {
+  margin-bottom: calc(var(--spacing) * 6);
+}
+.mb-8 {
+  margin-bottom: calc(var(--spacing) * 8);
+}
+.mb-10 {
+  margin-bottom: calc(var(--spacing) * 10);
+}
+.mb-12 {
+  margin-bottom: calc(var(--spacing) * 12);
+}
+.mb-16 {
+  margin-bottom: calc(var(--spacing) * 16);
+}
+.ml-0 {
+  margin-left: calc(var(--spacing) * 0);
+}
+.ml-2 {
+  margin-left: calc(var(--spacing) * 2);
+}
+.ml-4 {
+  margin-left: calc(var(--spacing) * 4);
+}
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+.block {
+  display: block;
+}
+.flex {
+  display: flex;
+}
+.grid {
+  display: grid;
+}
+.hidden {
+  display: none;
+}
+.inline-flex {
+  display: inline-flex;
+}
+.aspect-video {
+  aspect-ratio: var(--aspect-video);
+}
+.size-4 {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.size-8 {
+  width: calc(var(--spacing) * 8);
+  height: calc(var(--spacing) * 8);
+}
+.size-9 {
+  width: calc(var(--spacing) * 9);
+  height: calc(var(--spacing) * 9);
+}
+.size-10 {
+  width: calc(var(--spacing) * 10);
+  height: calc(var(--spacing) * 10);
+}
+.size-48 {
+  width: calc(var(--spacing) * 48);
+  height: calc(var(--spacing) * 48);
+}
+.size-72 {
+  width: calc(var(--spacing) * 72);
+  height: calc(var(--spacing) * 72);
+}
+.size-\\[500px\\] {
+  width: 500px;
+  height: 500px;
+}
+.size-\\[600px\\] {
+  width: 600px;
+  height: 600px;
+}
+.h-1 {
+  height: calc(var(--spacing) * 1);
+}
+.h-1\\.5 {
+  height: calc(var(--spacing) * 1.5);
+}
+.h-2 {
+  height: calc(var(--spacing) * 2);
+}
+.h-3 {
+  height: calc(var(--spacing) * 3);
+}
+.h-4 {
+  height: calc(var(--spacing) * 4);
+}
+.h-5 {
+  height: calc(var(--spacing) * 5);
+}
+.h-6 {
+  height: calc(var(--spacing) * 6);
+}
+.h-8 {
+  height: calc(var(--spacing) * 8);
+}
+.h-9 {
+  height: calc(var(--spacing) * 9);
+}
+.h-10 {
+  height: calc(var(--spacing) * 10);
+}
+.h-16 {
+  height: calc(var(--spacing) * 16);
+}
+.h-96 {
+  height: calc(var(--spacing) * 96);
+}
+.h-\\[1px\\] {
+  height: 1px;
+}
+.h-\\[500px\\] {
+  height: 500px;
+}
+.h-auto {
+  height: auto;
+}
+.h-full {
+  height: 100%;
+}
+.h-px {
+  height: 1px;
+}
+.max-h-\\[600px\\] {
+  max-height: 600px;
+}
+.max-h-screen {
+  max-height: 100vh;
+}
+.min-h-8 {
+  min-height: calc(var(--spacing) * 8);
+}
+.min-h-9 {
+  min-height: calc(var(--spacing) * 9);
+}
+.min-h-10 {
+  min-height: calc(var(--spacing) * 10);
+}
+.min-h-\\[90vh\\] {
+  min-height: 90vh;
+}
+.min-h-screen {
+  min-height: 100vh;
+}
+.w-2 {
+  width: calc(var(--spacing) * 2);
+}
+.w-3 {
+  width: calc(var(--spacing) * 3);
+}
+.w-4 {
+  width: calc(var(--spacing) * 4);
+}
+.w-5 {
+  width: calc(var(--spacing) * 5);
+}
+.w-6 {
+  width: calc(var(--spacing) * 6);
+}
+.w-8 {
+  width: calc(var(--spacing) * 8);
+}
+.w-9 {
+  width: calc(var(--spacing) * 9);
+}
+.w-10 {
+  width: calc(var(--spacing) * 10);
+}
+.w-\\[500px\\] {
+  width: 500px;
+}
+.w-auto {
+  width: auto;
+}
+.w-full {
+  width: 100%;
+}
+.max-w-2xl {
+  max-width: var(--container-2xl);
+}
+.max-w-3xl {
+  max-width: var(--container-3xl);
+}
+.max-w-4xl {
+  max-width: var(--container-4xl);
+}
+.max-w-6xl {
+  max-width: var(--container-6xl);
+}
+.max-w-full {
+  max-width: 100%;
+}
+.max-w-lg {
+  max-width: var(--container-lg);
+}
+.max-w-md {
+  max-width: var(--container-md);
+}
+.max-w-none {
+  max-width: none;
+}
+.max-w-sm {
+  max-width: var(--container-sm);
+}
+.flex-1 {
+  flex: 1;
+}
+.flex-shrink-0 {
+  flex-shrink: 0;
+}
+.shrink-0 {
+  flex-shrink: 0;
+}
+.flex-grow {
+  flex-grow: 1;
+}
+.-translate-y-1\\/2 {
+  --tw-translate-y: calc(calc(1/2 * 100%) * -1);
+  translate: var(--tw-translate-x) var(--tw-translate-y);
+}
+.scale-110 {
+  --tw-scale-x: 110%;
+  --tw-scale-y: 110%;
+  --tw-scale-z: 110%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.scale-x-0 {
+  --tw-scale-x: 0%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.transform {
+  transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
+}
+.animate-ping {
+  animation: var(--animate-ping);
+}
+.animate-pulse {
+  animation: var(--animate-pulse);
+}
+.animate-spin {
+  animation: var(--animate-spin);
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.list-outside {
+  list-style-position: outside;
+}
+.list-disc {
+  list-style-type: disc;
+}
+.grid-cols-1 {
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-col-reverse {
+  flex-direction: column-reverse;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.items-baseline {
+  align-items: baseline;
+}
+.items-center {
+  align-items: center;
+}
+.items-end {
+  align-items: flex-end;
+}
+.items-start {
+  align-items: flex-start;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-center {
+  justify-content: center;
+}
+.gap-1 {
+  gap: calc(var(--spacing) * 1);
+}
+.gap-1\\.5 {
+  gap: calc(var(--spacing) * 1.5);
+}
+.gap-2 {
+  gap: calc(var(--spacing) * 2);
+}
+.gap-3 {
+  gap: calc(var(--spacing) * 3);
+}
+.gap-4 {
+  gap: calc(var(--spacing) * 4);
+}
+.gap-6 {
+  gap: calc(var(--spacing) * 6);
+}
+.gap-8 {
+  gap: calc(var(--spacing) * 8);
+}
+.gap-12 {
+  gap: calc(var(--spacing) * 12);
+}
+.gap-16 {
+  gap: calc(var(--spacing) * 16);
+}
+:where(.space-y-1 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-1\\.5 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 1.5) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 1.5) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-2 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-4 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-6 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 6) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 6) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-8 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 8) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 8) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-10 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 10) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 10) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-12 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 12) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 12) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-y-14 > :not(:last-child)) {
+  --tw-space-y-reverse: 0;
+  margin-block-start: calc(calc(var(--spacing) * 14) * var(--tw-space-y-reverse));
+  margin-block-end: calc(calc(var(--spacing) * 14) * calc(1 - var(--tw-space-y-reverse)));
+}
+:where(.space-x-4 > :not(:last-child)) {
+  --tw-space-x-reverse: 0;
+  margin-inline-start: calc(calc(var(--spacing) * 4) * var(--tw-space-x-reverse));
+  margin-inline-end: calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-x-reverse)));
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+.rounded-2xl {
+  border-radius: var(--radius-2xl);
+}
+.rounded-3xl {
+  border-radius: var(--radius-3xl);
+}
+.rounded-full {
+  border-radius: calc(infinity * 1px);
+}
+.rounded-lg {
+  border-radius: var(--resume-radius);
+}
+.rounded-md {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-sm {
+  border-radius: calc(var(--resume-radius) - 2px);
+}
+.rounded-xl {
+  border-radius: calc(var(--resume-radius) + 4px);
+}
+.rounded-r {
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+.border {
+  border-style: var(--tw-border-style);
+  border-width: 1px;
+}
+.border-2 {
+  border-style: var(--tw-border-style);
+  border-width: 2px;
+}
+.border-3 {
+  border-style: var(--tw-border-style);
+  border-width: 3px;
+}
+.border-4 {
+  border-style: var(--tw-border-style);
+  border-width: 4px;
+}
+.border-t {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 1px;
+}
+.border-t-2 {
+  border-top-style: var(--tw-border-style);
+  border-top-width: 2px;
+}
+.border-r-2 {
+  border-right-style: var(--tw-border-style);
+  border-right-width: 2px;
+}
+.border-b {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 1px;
+}
+.border-b-2 {
+  border-bottom-style: var(--tw-border-style);
+  border-bottom-width: 2px;
+}
+.border-l-2 {
+  border-left-style: var(--tw-border-style);
+  border-left-width: 2px;
+}
+.\\[border-color\\:var\\(--badge-outline\\)\\] {
+  border-color: var(--badge-outline);
+}
+.\\[border-color\\:var\\(--button-outline\\)\\] {
+  border-color: var(--button-outline);
+}
+.border-amber-500\\/20 {
+  border-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-amber-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-amber-500) 20%, transparent);
+  }
+}
+.border-blue-500\\/20 {
+  border-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-blue-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-blue-500) 20%, transparent);
+  }
+}
+.border-border {
+  border-color: hsl(var(--border));
+}
+.border-border\\/40 {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/40 {
+    border-color: color-mix(in oklab, hsl(var(--border)) 40%, transparent);
+  }
+}
+.border-border\\/50 {
+  border-color: hsl(var(--border));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-border\\/50 {
+    border-color: color-mix(in oklab, hsl(var(--border)) 50%, transparent);
+  }
+}
+.border-card-border {
+  border-color: hsl(var(--card-border));
+}
+.border-destructive {
+  border-color: hsl(var(--destructive));
+}
+.border-destructive-border {
+  border-color: var(--destructive-border);
+}
+.border-emerald-500\\/20 {
+  border-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-emerald-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-emerald-500) 20%, transparent);
+  }
+}
+.border-primary-border {
+  border-color: var(--primary-border);
+}
+.border-primary\\/20 {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/20 {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+  }
+}
+.border-primary\\/30 {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/30 {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.border-primary\\/50 {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-primary\\/50 {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.border-purple-500\\/20 {
+  border-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 20%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-purple-500\\/20 {
+    border-color: color-mix(in oklab, var(--color-purple-500) 20%, transparent);
+  }
+}
+.border-resume-gold\\/30 {
+  border-color: color-mix(in oklab, rgba(207, 170, 110, 1) 30%, transparent);
+}
+.border-secondary-border {
+  border-color: var(--secondary-border);
+}
+.border-slate-200 {
+  border-color: var(--color-slate-200);
+}
+.border-slate-300 {
+  border-color: var(--color-slate-300);
+}
+.border-transparent {
+  border-color: transparent;
+}
+.border-white {
+  border-color: var(--color-white);
+}
+.border-white\\/10 {
+  border-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/10 {
+    border-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.border-white\\/\\[0\\.15\\] {
+  border-color: color-mix(in srgb, #fff 15%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .border-white\\/\\[0\\.15\\] {
+    border-color: color-mix(in oklab, var(--color-white) 15%, transparent);
+  }
+}
+.bg-accent {
+  background-color: hsl(var(--accent));
+}
+.bg-accent\\/5 {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/5 {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 5%, transparent);
+  }
+}
+.bg-accent\\/15 {
+  background-color: hsl(var(--accent));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-accent\\/15 {
+    background-color: color-mix(in oklab, hsl(var(--accent)) 15%, transparent);
+  }
+}
+.bg-amber-500\\/5 {
+  background-color: color-mix(in srgb, oklch(76.9% 0.188 70.08) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-amber-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-amber-500) 5%, transparent);
+  }
+}
+.bg-background {
+  background-color: hsl(var(--background));
+}
+.bg-background\\/50 {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/50 {
+    background-color: color-mix(in oklab, hsl(var(--background)) 50%, transparent);
+  }
+}
+.bg-background\\/80 {
+  background-color: hsl(var(--background));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-background\\/80 {
+    background-color: color-mix(in oklab, hsl(var(--background)) 80%, transparent);
+  }
+}
+.bg-black {
+  background-color: var(--color-black);
+}
+.bg-black\\/5 {
+  background-color: color-mix(in srgb, #000 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-black\\/5 {
+    background-color: color-mix(in oklab, var(--color-black) 5%, transparent);
+  }
+}
+.bg-blue-500\\/5 {
+  background-color: color-mix(in srgb, oklch(62.3% 0.214 259.815) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-blue-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-blue-500) 5%, transparent);
+  }
+}
+.bg-border {
+  background-color: hsl(var(--border));
+}
+.bg-card {
+  background-color: hsl(var(--card));
+}
+.bg-current {
+  background-color: currentcolor;
+}
+.bg-destructive {
+  background-color: hsl(var(--destructive));
+}
+.bg-emerald-500\\/5 {
+  background-color: color-mix(in srgb, oklch(69.6% 0.17 162.48) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-emerald-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-emerald-500) 5%, transparent);
+  }
+}
+.bg-foreground {
+  background-color: hsl(var(--foreground));
+}
+.bg-gray-50 {
+  background-color: var(--color-gray-50);
+}
+.bg-muted {
+  background-color: hsl(var(--muted));
+}
+.bg-primary {
+  background-color: hsl(var(--primary));
+}
+.bg-primary\\/5 {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/5 {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+  }
+}
+.bg-primary\\/10 {
+  background-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-primary\\/10 {
+    background-color: color-mix(in oklab, hsl(var(--primary)) 10%, transparent);
+  }
+}
+.bg-purple-500\\/5 {
+  background-color: color-mix(in srgb, oklch(62.7% 0.265 303.9) 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-purple-500\\/5 {
+    background-color: color-mix(in oklab, var(--color-purple-500) 5%, transparent);
+  }
+}
+.bg-resume-gold {
+  background-color: rgba(207, 170, 110, 1);
+}
+.bg-resume-teal {
+  background-color: var(--resume-teal);
+}
+.bg-resume-teal\\/10 {
+  background-color: var(--resume-teal);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-resume-teal\\/10 {
+    background-color: color-mix(in oklab, var(--resume-teal) 10%, transparent);
+  }
+}
+.bg-secondary {
+  background-color: hsl(var(--secondary));
+}
+.bg-secondary\\/10 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/10 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 10%, transparent);
+  }
+}
+.bg-secondary\\/20 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/20 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 20%, transparent);
+  }
+}
+.bg-secondary\\/30 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/30 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 30%, transparent);
+  }
+}
+.bg-secondary\\/50 {
+  background-color: hsl(var(--secondary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-secondary\\/50 {
+    background-color: color-mix(in oklab, hsl(var(--secondary)) 50%, transparent);
+  }
+}
+.bg-slate-100 {
+  background-color: var(--color-slate-100);
+}
+.bg-transparent {
+  background-color: transparent;
+}
+.bg-white {
+  background-color: var(--color-white);
+}
+.bg-white\\/5 {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/5 {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+.bg-white\\/10 {
+  background-color: color-mix(in srgb, #fff 10%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/10 {
+    background-color: color-mix(in oklab, var(--color-white) 10%, transparent);
+  }
+}
+.bg-white\\/\\[0\\.08\\] {
+  background-color: color-mix(in srgb, #fff 8%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .bg-white\\/\\[0\\.08\\] {
+    background-color: color-mix(in oklab, var(--color-white) 8%, transparent);
+  }
+}
+.bg-gradient-to-br {
+  --tw-gradient-position: to bottom right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-r {
+  --tw-gradient-position: to right in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.bg-gradient-to-t {
+  --tw-gradient-position: to top in oklab;
+  background-image: linear-gradient(var(--tw-gradient-stops));
+}
+.from-background {
+  --tw-gradient-from: hsl(var(--background));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.from-primary\\/30 {
+  --tw-gradient-from: hsl(var(--primary));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .from-primary\\/30 {
+    --tw-gradient-from: color-mix(in oklab, hsl(var(--primary)) 30%, transparent);
+  }
+}
+.via-purple-400 {
+  --tw-gradient-via: var(--color-purple-400);
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.via-transparent {
+  --tw-gradient-via: transparent;
+  --tw-gradient-via-stops:
+    var(--tw-gradient-position),
+    var(--tw-gradient-from) var(--tw-gradient-from-position),
+    var(--tw-gradient-via) var(--tw-gradient-via-position),
+    var(--tw-gradient-to) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-via-stops);
+}
+.to-accent {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.to-accent\\/30 {
+  --tw-gradient-to: hsl(var(--accent));
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .to-accent\\/30 {
+    --tw-gradient-to: color-mix(in oklab, hsl(var(--accent)) 30%, transparent);
+  }
+}
+.to-transparent {
+  --tw-gradient-to: transparent;
+  --tw-gradient-stops: var(--tw-gradient-via-stops, var(--tw-gradient-position), var(--tw-gradient-from) var(--tw-gradient-from-position), var(--tw-gradient-to) var(--tw-gradient-to-position));
+}
+.bg-clip-text {
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+.object-contain {
+  object-fit: contain;
+}
+.object-cover {
+  object-fit: cover;
+}
+.p-1 {
+  padding: calc(var(--spacing) * 1);
+}
+.p-2 {
+  padding: calc(var(--spacing) * 2);
+}
+.p-3 {
+  padding: calc(var(--spacing) * 3);
+}
+.p-4 {
+  padding: calc(var(--spacing) * 4);
+}
+.p-6 {
+  padding: calc(var(--spacing) * 6);
+}
+.p-8 {
+  padding: calc(var(--spacing) * 8);
+}
+.px-2 {
+  padding-inline: calc(var(--spacing) * 2);
+}
+.px-2\\.5 {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.px-3 {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.px-4 {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.px-6 {
+  padding-inline: calc(var(--spacing) * 6);
+}
+.px-8 {
+  padding-inline: calc(var(--spacing) * 8);
+}
+.py-0\\.5 {
+  padding-block: calc(var(--spacing) * 0.5);
+}
+.py-1 {
+  padding-block: calc(var(--spacing) * 1);
+}
+.py-2 {
+  padding-block: calc(var(--spacing) * 2);
+}
+.py-3 {
+  padding-block: calc(var(--spacing) * 3);
+}
+.py-4 {
+  padding-block: calc(var(--spacing) * 4);
+}
+.py-6 {
+  padding-block: calc(var(--spacing) * 6);
+}
+.py-10 {
+  padding-block: calc(var(--spacing) * 10);
+}
+.py-12 {
+  padding-block: calc(var(--spacing) * 12);
+}
+.py-16 {
+  padding-block: calc(var(--spacing) * 16);
+}
+.py-20 {
+  padding-block: calc(var(--spacing) * 20);
+}
+.py-24 {
+  padding-block: calc(var(--spacing) * 24);
+}
+.pt-0 {
+  padding-top: calc(var(--spacing) * 0);
+}
+.pt-2 {
+  padding-top: calc(var(--spacing) * 2);
+}
+.pt-6 {
+  padding-top: calc(var(--spacing) * 6);
+}
+.pt-8 {
+  padding-top: calc(var(--spacing) * 8);
+}
+.pt-10 {
+  padding-top: calc(var(--spacing) * 10);
+}
+.pr-8 {
+  padding-right: calc(var(--spacing) * 8);
+}
+.pb-2 {
+  padding-bottom: calc(var(--spacing) * 2);
+}
+.pb-12 {
+  padding-bottom: calc(var(--spacing) * 12);
+}
+.pb-20 {
+  padding-bottom: calc(var(--spacing) * 20);
+}
+.pb-24 {
+  padding-bottom: calc(var(--spacing) * 24);
+}
+.pl-4 {
+  padding-left: calc(var(--spacing) * 4);
+}
+.pl-12 {
+  padding-left: calc(var(--spacing) * 12);
+}
+.text-center {
+  text-align: center;
+}
+.font-mono {
+  font-family: var(--font-mono);
+}
+.font-sans {
+  font-family: var(--font-sans);
+}
+.text-2xl {
+  font-size: var(--text-2xl);
+  line-height: var(--tw-leading, var(--text-2xl--line-height));
+}
+.text-4xl {
+  font-size: var(--text-4xl);
+  line-height: var(--tw-leading, var(--text-4xl--line-height));
+}
+.text-5xl {
+  font-size: var(--text-5xl);
+  line-height: var(--tw-leading, var(--text-5xl--line-height));
+}
+.text-base {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.text-lg {
+  font-size: var(--text-lg);
+  line-height: var(--tw-leading, var(--text-lg--line-height));
+}
+.text-sm {
+  font-size: var(--text-sm);
+  line-height: var(--tw-leading, var(--text-sm--line-height));
+}
+.text-xl {
+  font-size: var(--text-xl);
+  line-height: var(--tw-leading, var(--text-xl--line-height));
+}
+.text-xs {
+  font-size: var(--text-xs);
+  line-height: var(--tw-leading, var(--text-xs--line-height));
+}
+.text-\\[11px\\] {
+  font-size: 11px;
+}
+.leading-\\[1\\.1\\] {
+  --tw-leading: 1.1;
+  line-height: 1.1;
+}
+.leading-none {
+  --tw-leading: 1;
+  line-height: 1;
+}
+.leading-relaxed {
+  --tw-leading: var(--leading-relaxed);
+  line-height: var(--leading-relaxed);
+}
+.leading-tight {
+  --tw-leading: var(--leading-tight);
+  line-height: var(--leading-tight);
+}
+.font-black {
+  --tw-font-weight: var(--font-weight-black);
+  font-weight: var(--font-weight-black);
+}
+.font-bold {
+  --tw-font-weight: var(--font-weight-bold);
+  font-weight: var(--font-weight-bold);
+}
+.font-light {
+  --tw-font-weight: var(--font-weight-light);
+  font-weight: var(--font-weight-light);
+}
+.font-medium {
+  --tw-font-weight: var(--font-weight-medium);
+  font-weight: var(--font-weight-medium);
+}
+.font-normal {
+  --tw-font-weight: var(--font-weight-normal);
+  font-weight: var(--font-weight-normal);
+}
+.font-semibold {
+  --tw-font-weight: var(--font-weight-semibold);
+  font-weight: var(--font-weight-semibold);
+}
+.tracking-tight {
+  --tw-tracking: var(--tracking-tight);
+  letter-spacing: var(--tracking-tight);
+}
+.tracking-wide {
+  --tw-tracking: var(--tracking-wide);
+  letter-spacing: var(--tracking-wide);
+}
+.tracking-wider {
+  --tw-tracking: var(--tracking-wider);
+  letter-spacing: var(--tracking-wider);
+}
+.tracking-widest {
+  --tw-tracking: var(--tracking-widest);
+  letter-spacing: var(--tracking-widest);
+}
+.whitespace-nowrap {
+  white-space: nowrap;
+}
+.text-amber-500 {
+  color: var(--color-amber-500);
+}
+.text-background {
+  color: hsl(var(--background));
+}
+.text-blue-500 {
+  color: var(--color-blue-500);
+}
+.text-card-foreground {
+  color: hsl(var(--card-foreground));
+}
+.text-destructive-foreground {
+  color: hsl(var(--destructive-foreground));
+}
+.text-emerald-500 {
+  color: var(--color-emerald-500);
+}
+.text-foreground {
+  color: hsl(var(--foreground));
+}
+.text-gray-600 {
+  color: var(--color-gray-600);
+}
+.text-gray-900 {
+  color: var(--color-gray-900);
+}
+.text-muted-foreground {
+  color: hsl(var(--muted-foreground));
+}
+.text-primary {
+  color: hsl(var(--primary));
+}
+.text-primary-foreground {
+  color: hsl(var(--primary-foreground));
+}
+.text-purple-500 {
+  color: var(--color-purple-500);
+}
+.text-red-500 {
+  color: var(--color-red-500);
+}
+.text-resume-gold {
+  color: rgba(207, 170, 110, 1);
+}
+.text-resume-teal {
+  color: var(--resume-teal);
+}
+.text-resume-teal-dark {
+  color: rgba(58, 111, 122, 1);
+}
+.text-resume-teal-light {
+  color: rgba(142, 195, 204, 1);
+}
+.text-secondary-foreground {
+  color: hsl(var(--secondary-foreground));
+}
+.text-slate-500 {
+  color: var(--color-slate-500);
+}
+.text-slate-600 {
+  color: var(--color-slate-600);
+}
+.text-slate-700 {
+  color: var(--color-slate-700);
+}
+.text-slate-800 {
+  color: var(--color-slate-800);
+}
+.text-slate-900 {
+  color: var(--color-slate-900);
+}
+.text-transparent {
+  color: transparent;
+}
+.text-white {
+  color: var(--color-white);
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.italic {
+  font-style: italic;
+}
+.underline-offset-4 {
+  text-underline-offset: 4px;
+}
+.opacity-0 {
+  opacity: 0%;
+}
+.opacity-10 {
+  opacity: 10%;
+}
+.opacity-15 {
+  opacity: 15%;
+}
+.opacity-20 {
+  opacity: 20%;
+}
+.opacity-60 {
+  opacity: 60%;
+}
+.opacity-70 {
+  opacity: 70%;
+}
+.opacity-75 {
+  opacity: 75%;
+}
+.opacity-80 {
+  opacity: 80%;
+}
+.opacity-90 {
+  opacity: 90%;
+}
+.shadow-2xl {
+  --tw-shadow: 0 25px 50px -12px var(--tw-shadow-color, rgb(0 0 0 / 0.25));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\[0_8px_32px_0_rgba\\(0\\,0\\,0\\,0\\.37\\)\\] {
+  --tw-shadow: 0 8px 32px 0 var(--tw-shadow-color, rgba(0,0,0,0.37));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-\\[0_10px_20px_-10px_rgba\\(var\\(--primary\\)\\,0\\.5\\)\\] {
+  --tw-shadow: 0 10px 20px -10px var(--tw-shadow-color, rgba(var(--primary),0.5));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-lg {
+  --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-sm {
+  --tw-shadow: 0 1px 3px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 1px 2px -1px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.shadow-xs {
+  --tw-shadow: 0 1px 2px 0 var(--tw-shadow-color, rgb(0 0 0 / 0.05));
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.outline {
+  outline-style: var(--tw-outline-style);
+  outline-width: 1px;
+}
+.blur-\\[90px\\] {
+  --tw-blur: blur(90px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\[100px\\] {
+  --tw-blur: blur(100px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\[120px\\] {
+  --tw-blur: blur(120px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-\\[150px\\] {
+  --tw-blur: blur(150px);
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.blur-xl {
+  --tw-blur: blur(var(--blur-xl));
+  filter: var(--tw-blur,) var(--tw-brightness,) var(--tw-contrast,) var(--tw-grayscale,) var(--tw-hue-rotate,) var(--tw-invert,) var(--tw-saturate,) var(--tw-sepia,) var(--tw-drop-shadow,);
+}
+.backdrop-blur-2xl {
+  --tw-backdrop-blur: blur(var(--blur-2xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-sm {
+  --tw-backdrop-blur: blur(var(--blur-sm));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.backdrop-blur-xl {
+  --tw-backdrop-blur: blur(var(--blur-xl));
+  -webkit-backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+  backdrop-filter: var(--tw-backdrop-blur,) var(--tw-backdrop-brightness,) var(--tw-backdrop-contrast,) var(--tw-backdrop-grayscale,) var(--tw-backdrop-hue-rotate,) var(--tw-backdrop-invert,) var(--tw-backdrop-opacity,) var(--tw-backdrop-saturate,) var(--tw-backdrop-sepia,);
+}
+.transition-all {
+  transition-property: all;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-colors {
+  transition-property:
+    color,
+    background-color,
+    border-color,
+    outline-color,
+    text-decoration-color,
+    fill,
+    stroke,
+    --tw-gradient-from,
+    --tw-gradient-via,
+    --tw-gradient-to;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-opacity {
+  transition-property: opacity;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.transition-transform {
+  transition-property:
+    transform,
+    translate,
+    scale,
+    rotate;
+  transition-timing-function: var(--tw-ease, var(--default-transition-timing-function));
+  transition-duration: var(--tw-duration, var(--default-transition-duration));
+}
+.duration-300 {
+  --tw-duration: 300ms;
+  transition-duration: 300ms;
+}
+.duration-500 {
+  --tw-duration: 500ms;
+  transition-duration: 500ms;
+}
+.duration-650 {
+  --tw-duration: 650ms;
+  transition-duration: 650ms;
+}
+.duration-700 {
+  --tw-duration: 700ms;
+  transition-duration: 700ms;
+}
+.duration-1000 {
+  --tw-duration: 1000ms;
+  transition-duration: 1000ms;
+}
+.ease-out {
+  --tw-ease: var(--ease-out);
+  transition-timing-function: var(--ease-out);
+}
+.outline-none {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+@media (hover: hover) {
+  .group-hover\\:translate-x-2:is(:where(.group):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 2);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-105:is(:where(.group):hover *) {
+    --tw-scale-x: 105%;
+    --tw-scale-y: 105%;
+    --tw-scale-z: 105%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-110:is(:where(.group):hover *) {
+    --tw-scale-x: 110%;
+    --tw-scale-y: 110%;
+    --tw-scale-z: 110%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:scale-x-100:is(:where(.group):hover *) {
+    --tw-scale-x: 100%;
+    scale: var(--tw-scale-x) var(--tw-scale-y);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:-rotate-12:is(:where(.group):hover *) {
+    rotate: calc(12deg * -1);
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:bg-primary\\/20:is(:where(.group):hover *) {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .group-hover\\:bg-primary\\/20:is(:where(.group):hover *) {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:text-primary:is(:where(.group):hover *) {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-20:is(:where(.group):hover *) {
+    opacity: 20%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-100:is(:where(.group):hover *) {
+    opacity: 100%;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\:opacity-\\[0\\.03\\]:is(:where(.group):hover *) {
+    opacity: 0.03;
+  }
+}
+@media (hover: hover) {
+  .group-hover\\/link\\:translate-x-1:is(:where(.group\\/link):hover *) {
+    --tw-translate-x: calc(var(--spacing) * 1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+.marker\\:text-resume-teal *::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal::marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal *::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.marker\\:text-resume-teal::-webkit-details-marker {
+  color: var(--resume-teal);
+}
+.last\\:border-0:last-child {
+  border-style: var(--tw-border-style);
+  border-width: 0px;
+}
+@media (hover: hover) {
+  .hover\\:-translate-y-1:hover {
+    --tw-translate-y: calc(var(--spacing) * -1);
+    translate: var(--tw-translate-x) var(--tw-translate-y);
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/50:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/50:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:border-primary\\/60:hover {
+    border-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:border-primary\\/60:hover {
+      border-color: color-mix(in oklab, hsl(var(--primary)) 60%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-accent:hover {
+    background-color: hsl(var(--accent));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-destructive\\/90:hover {
+    background-color: hsl(var(--destructive));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-destructive\\/90:hover {
+      background-color: color-mix(in oklab, hsl(var(--destructive)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/5:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/5:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 5%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/20:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/20:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 20%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-primary\\/90:hover {
+    background-color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-primary\\/90:hover {
+      background-color: color-mix(in oklab, hsl(var(--primary)) 90%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary:hover {
+    background-color: hsl(var(--secondary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-secondary\\/80:hover {
+    background-color: hsl(var(--secondary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-secondary\\/80:hover {
+      background-color: color-mix(in oklab, hsl(var(--secondary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:bg-white\\/\\[0\\.12\\]:hover {
+    background-color: color-mix(in srgb, #fff 12%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:bg-white\\/\\[0\\.12\\]:hover {
+      background-color: color-mix(in oklab, var(--color-white) 12%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-accent-foreground:hover {
+    color: hsl(var(--accent-foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-foreground:hover {
+    color: hsl(var(--foreground));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary:hover {
+    color: hsl(var(--primary));
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-primary\\/80:hover {
+    color: hsl(var(--primary));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-primary\\/80:hover {
+      color: color-mix(in oklab, hsl(var(--primary)) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:text-white\\/80:hover {
+    color: color-mix(in srgb, #fff 80%, transparent);
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .hover\\:text-white\\/80:hover {
+      color: color-mix(in oklab, var(--color-white) 80%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .hover\\:underline:hover {
+    text-decoration-line: underline;
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\[0_20px_30px_-10px_rgba\\(var\\(--primary\\)\\,0\\.6\\)\\]:hover {
+    --tw-shadow: 0 20px 30px -10px var(--tw-shadow-color, rgba(var(--primary),0.6));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-\\[0_20px_40px_rgba\\(0\\,0\\,0\\,0\\.5\\)\\,0_0_20px_rgba\\(var\\(--primary\\)\\,0\\.1\\)\\]:hover {
+    --tw-shadow: 0 20px 40px var(--tw-shadow-color, rgba(0,0,0,0.5)), 0 0 20px var(--tw-shadow-color, rgba(var(--primary),0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+@media (hover: hover) {
+  .hover\\:shadow-lg:hover {
+    --tw-shadow: 0 10px 15px -3px var(--tw-shadow-color, rgb(0 0 0 / 0.1)), 0 4px 6px -4px var(--tw-shadow-color, rgb(0 0 0 / 0.1));
+    box-shadow:
+      var(--tw-inset-shadow),
+      var(--tw-inset-ring-shadow),
+      var(--tw-ring-offset-shadow),
+      var(--tw-ring-shadow),
+      var(--tw-shadow);
+  }
+}
+.focus\\:border-primary\\/50:focus {
+  border-color: hsl(var(--primary));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus\\:border-primary\\/50:focus {
+    border-color: color-mix(in oklab, hsl(var(--primary)) 50%, transparent);
+  }
+}
+.focus\\:ring-2:focus {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus\\:ring-ring:focus {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus\\:ring-offset-2:focus {
+  --tw-ring-offset-width: 2px;
+  --tw-ring-offset-shadow: var(--tw-ring-inset,) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+}
+.focus\\:outline-none:focus {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.focus-visible\\:border-ring:focus-visible {
+  border-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-1:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-\\[3px\\]:focus-visible {
+  --tw-ring-shadow: var(--tw-ring-inset,) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color, currentcolor);
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.focus-visible\\:ring-destructive\\/20:focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-destructive\\/20:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+.focus-visible\\:ring-ring:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+.focus-visible\\:ring-ring\\/50:focus-visible {
+  --tw-ring-color: hsl(var(--ring));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .focus-visible\\:ring-ring\\/50:focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--ring)) 50%, transparent);
+  }
+}
+.focus-visible\\:outline-none:focus-visible {
+  --tw-outline-style: none;
+  outline-style: none;
+}
+.active\\:scale-95:active {
+  --tw-scale-x: 95%;
+  --tw-scale-y: 95%;
+  --tw-scale-z: 95%;
+  scale: var(--tw-scale-x) var(--tw-scale-y);
+}
+.active\\:shadow-none:active {
+  --tw-shadow: 0 0 #0000;
+  box-shadow:
+    var(--tw-inset-shadow),
+    var(--tw-inset-ring-shadow),
+    var(--tw-ring-offset-shadow),
+    var(--tw-ring-shadow),
+    var(--tw-shadow);
+}
+.disabled\\:pointer-events-none:disabled {
+  pointer-events: none;
+}
+.disabled\\:opacity-50:disabled {
+  opacity: 50%;
+}
+.has-\\[\\>ng-icon\\]\\:px-2\\.5:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 2.5);
+}
+.has-\\[\\>ng-icon\\]\\:px-3:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 3);
+}
+.has-\\[\\>ng-icon\\]\\:px-4:has(> ng-icon) {
+  padding-inline: calc(var(--spacing) * 4);
+}
+.aria-invalid\\:border-destructive[aria-invalid=true] {
+  border-color: hsl(var(--destructive));
+}
+.aria-invalid\\:ring-destructive\\/20[aria-invalid=true] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .aria-invalid\\:ring-destructive\\/20[aria-invalid=true] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 20%, transparent);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:top-auto {
+    top: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:bottom-0 {
+    bottom: calc(var(--spacing) * 0);
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:w-auto {
+    width: auto;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-col {
+    flex-direction: column;
+  }
+}
+@media (width >= 40rem) {
+  .sm\\:flex-row {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-1 {
+    grid-column: span 1 / span 1;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-2 {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-3 {
+    grid-column: span 3 / span 3;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-5 {
+    grid-column: span 5 / span 5;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:col-span-7 {
+    grid-column: span 7 / span 7;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex {
+    display: flex;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:hidden {
+    display: none;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:max-w-\\[420px\\] {
+    max-width: 420px;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:flex-row {
+    flex-direction: row;
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-12 {
+    padding-block: calc(var(--spacing) * 12);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-20 {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:py-24 {
+    padding-block: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-2xl {
+    font-size: var(--text-2xl);
+    line-height: var(--tw-leading, var(--text-2xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-5xl {
+    font-size: var(--text-5xl);
+    line-height: var(--tw-leading, var(--text-5xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-6xl {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 48rem) {
+  .md\\:text-base {
+    font-size: var(--text-base);
+    line-height: var(--tw-leading, var(--text-base--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:sticky {
+    position: sticky;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:top-24 {
+    top: calc(var(--spacing) * 24);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-2 {
+    grid-column: span 2 / span 2;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-4 {
+    grid-column: span 4 / span 4;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:col-span-8 {
+    grid-column: span 8 / span 8;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:block {
+    display: block;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex {
+    display: flex;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-1\\/3 {
+    width: calc(1/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:w-2\\/3 {
+    width: calc(2/3 * 100%);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:grid-cols-12 {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:flex-row {
+    flex-direction: row;
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:py-20 {
+    padding-block: calc(var(--spacing) * 20);
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-6xl {
+    font-size: var(--text-6xl);
+    line-height: var(--tw-leading, var(--text-6xl--line-height));
+  }
+}
+@media (width >= 64rem) {
+  .lg\\:text-7xl {
+    font-size: var(--text-7xl);
+    line-height: var(--tw-leading, var(--text-7xl--line-height));
+  }
+}
+.dark\\:border-input:is(.dark *) {
+  border-color: hsl(var(--input));
+}
+.dark\\:bg-destructive\\/60:is(.dark *) {
+  background-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-destructive\\/60:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--destructive)) 60%, transparent);
+  }
+}
+.dark\\:bg-input\\/30:is(.dark *) {
+  background-color: hsl(var(--input));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-input\\/30:is(.dark *) {
+    background-color: color-mix(in oklab, hsl(var(--input)) 30%, transparent);
+  }
+}
+.dark\\:bg-white\\/5:is(.dark *) {
+  background-color: color-mix(in srgb, #fff 5%, transparent);
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:bg-white\\/5:is(.dark *) {
+    background-color: color-mix(in oklab, var(--color-white) 5%, transparent);
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-accent\\/50:is(.dark *):hover {
+    background-color: hsl(var(--accent));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-accent\\/50:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--accent)) 50%, transparent);
+    }
+  }
+}
+@media (hover: hover) {
+  .dark\\:hover\\:bg-input\\/50:is(.dark *):hover {
+    background-color: hsl(var(--input));
+  }
+  @supports (color: color-mix(in lab, red, red)) {
+    .dark\\:hover\\:bg-input\\/50:is(.dark *):hover {
+      background-color: color-mix(in oklab, hsl(var(--input)) 50%, transparent);
+    }
+  }
+}
+.dark\\:focus-visible\\:ring-destructive\\/40:is(.dark *):focus-visible {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:focus-visible\\:ring-destructive\\/40:is(.dark *):focus-visible {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+.dark\\:aria-invalid\\:ring-destructive\\/40:is(.dark *)[aria-invalid=true] {
+  --tw-ring-color: hsl(var(--destructive));
+}
+@supports (color: color-mix(in lab, red, red)) {
+  .dark\\:aria-invalid\\:ring-destructive\\/40:is(.dark *)[aria-invalid=true] {
+    --tw-ring-color: color-mix(in oklab, hsl(var(--destructive)) 40%, transparent);
+  }
+}
+@media print {
+  .print\\:inline {
+    display: inline;
+  }
+}
+@media print {
+  .print\\:border-none {
+    --tw-border-style: none;
+    border-style: none;
+  }
+}
+@media print {
+  .print\\:bg-none {
+    background-image: none;
+  }
+}
+@media print {
+  .print\\:px-0 {
+    padding-inline: calc(var(--spacing) * 0);
+  }
+}
+@media print {
+  .print\\:text-sm {
+    font-size: var(--text-sm);
+    line-height: var(--tw-leading, var(--text-sm--line-height));
+  }
+}
+@media print {
+  .print\\:after\\:content-\\[\\'\\,_\\'\\]::after {
+    --tw-content: ", ";
+    content: var(--tw-content);
+  }
+}
+@media print {
+  .print\\:last\\:after\\:content-\\[\\'\\'\\]:last-child::after {
+    --tw-content: "";
+    content: var(--tw-content);
+  }
+}
+.\\[\\&_ng-icon\\]\\:pointer-events-none ng-icon {
+  pointer-events: none;
+}
+.\\[\\&_ng-icon\\]\\:shrink-0 ng-icon {
+  flex-shrink: 0;
+}
+.\\[\\&_ng-icon\\:not\\(\\[class\\*\\=\\'text-\\'\\]\\)\\]\\:text-base ng-icon:not([class*=text-]) {
+  font-size: var(--text-base);
+  line-height: var(--tw-leading, var(--text-base--line-height));
+}
+.\\[\\&_svg\\]\\:pointer-events-none svg {
+  pointer-events: none;
+}
+.\\[\\&_svg\\]\\:size-4 svg {
+  width: calc(var(--spacing) * 4);
+  height: calc(var(--spacing) * 4);
+}
+.\\[\\&_svg\\]\\:shrink-0 svg {
+  flex-shrink: 0;
+}
+@layer theme, base, components, utilities;
+@layer base {
+  .root {
+    --button-outline: rgba(0, 0, 0, .10);
+    --badge-outline: rgba(0, 0, 0, .05);
+    --opaque-button-border-intensity: -8;
+    --elevate-1: rgba(0, 0, 0, .03);
+    --elevate-2: rgba(0, 0, 0, .08);
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+    --radius: 0.5rem;
+    --my-radius: 10px;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --sidebar: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+    --font-sans:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-serif:
+      Arial,
+      Helvetica,
+      sans-serif;
+    --font-mono:
+      "Courier New",
+      Courier,
+      monospace;
+    --tracking-normal: 0em;
+    --spacing: 0.25rem;
+    --sidebar-primary-border: hsl(from hsl(var(--sidebar-primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --sidebar-accent-border: hsl(from hsl(var(--sidebar-accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --primary-border: hsl(from hsl(var(--primary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --secondary-border: hsl(from hsl(var(--secondary)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --muted-border: hsl(from hsl(var(--muted)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --accent-border: hsl(from hsl(var(--accent)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --destructive-border: hsl(from hsl(var(--destructive)) h s calc(l + var(--opaque-button-border-intensity)) / alpha);
+    --cursor-outline-color: oklch(68.762% 0.30745 333.944);
+  }
+  .dark {
+    --button-outline: rgba(255, 255, 255, .10);
+    --badge-outline: rgba(255, 255, 255, .05);
+    --opaque-button-border-intensity: 9;
+    --elevate-1: rgba(255, 255, 255, .04);
+    --elevate-2: rgba(255, 255, 255, .09);
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+    --sidebar: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+  * {
+    border-color: hsl(var(--border));
+  }
+  body {
+    background-color: hsl(var(--background));
+    font-family: var(--font-sans);
+    color: hsl(var(--foreground));
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  * {
+    font-family:
+      Arial,
+      Helvetica,
+      sans-serif !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    box-sizing: border-box !important;
+  }
+}
+@layer utilities {
+  input[type=search]::-webkit-search-cancel-button {
+    display: none;
+  }
+  [contenteditable][data-placeholder]:empty::before {
+    content: attr(data-placeholder);
+    color: hsl(var(--muted-foreground));
+    pointer-events: none;
+  }
+}
+@property --tw-translate-x { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-y { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-translate-z { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-scale-x { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-y { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-scale-z { syntax: "*"; inherits: false; initial-value: 1; }
+@property --tw-rotate-x { syntax: "*"; inherits: false; }
+@property --tw-rotate-y { syntax: "*"; inherits: false; }
+@property --tw-rotate-z { syntax: "*"; inherits: false; }
+@property --tw-skew-x { syntax: "*"; inherits: false; }
+@property --tw-skew-y { syntax: "*"; inherits: false; }
+@property --tw-space-y-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-space-x-reverse { syntax: "*"; inherits: false; initial-value: 0; }
+@property --tw-border-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-gradient-position { syntax: "*"; inherits: false; }
+@property --tw-gradient-from { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-via { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-to { syntax: "<color>"; inherits: false; initial-value: #0000; }
+@property --tw-gradient-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-via-stops { syntax: "*"; inherits: false; }
+@property --tw-gradient-from-position { syntax: "<length-percentage>"; inherits: false; initial-value: 0%; }
+@property --tw-gradient-via-position { syntax: "<length-percentage>"; inherits: false; initial-value: 50%; }
+@property --tw-gradient-to-position { syntax: "<length-percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-leading { syntax: "*"; inherits: false; }
+@property --tw-font-weight { syntax: "*"; inherits: false; }
+@property --tw-tracking { syntax: "*"; inherits: false; }
+@property --tw-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-inset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-inset-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-ring-color { syntax: "*"; inherits: false; }
+@property --tw-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-inset-ring-color { syntax: "*"; inherits: false; }
+@property --tw-inset-ring-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-ring-inset { syntax: "*"; inherits: false; }
+@property --tw-ring-offset-width { syntax: "<length>"; inherits: false; initial-value: 0px; }
+@property --tw-ring-offset-color { syntax: "*"; inherits: false; initial-value: #fff; }
+@property --tw-ring-offset-shadow { syntax: "*"; inherits: false; initial-value: 0 0 #0000; }
+@property --tw-outline-style { syntax: "*"; inherits: false; initial-value: solid; }
+@property --tw-blur { syntax: "*"; inherits: false; }
+@property --tw-brightness { syntax: "*"; inherits: false; }
+@property --tw-contrast { syntax: "*"; inherits: false; }
+@property --tw-grayscale { syntax: "*"; inherits: false; }
+@property --tw-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-invert { syntax: "*"; inherits: false; }
+@property --tw-opacity { syntax: "*"; inherits: false; }
+@property --tw-saturate { syntax: "*"; inherits: false; }
+@property --tw-sepia { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-color { syntax: "*"; inherits: false; }
+@property --tw-drop-shadow-alpha { syntax: "<percentage>"; inherits: false; initial-value: 100%; }
+@property --tw-drop-shadow-size { syntax: "*"; inherits: false; }
+@property --tw-backdrop-blur { syntax: "*"; inherits: false; }
+@property --tw-backdrop-brightness { syntax: "*"; inherits: false; }
+@property --tw-backdrop-contrast { syntax: "*"; inherits: false; }
+@property --tw-backdrop-grayscale { syntax: "*"; inherits: false; }
+@property --tw-backdrop-hue-rotate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-invert { syntax: "*"; inherits: false; }
+@property --tw-backdrop-opacity { syntax: "*"; inherits: false; }
+@property --tw-backdrop-saturate { syntax: "*"; inherits: false; }
+@property --tw-backdrop-sepia { syntax: "*"; inherits: false; }
+@property --tw-duration { syntax: "*"; inherits: false; }
+@property --tw-ease { syntax: "*"; inherits: false; }
+@property --tw-content { syntax: "*"; initial-value: ""; inherits: false; }
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes ping {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+@keyframes pulse {
+  50% {
+    opacity: 0.5;
+  }
+}
+@layer properties {
+  @supports ((-webkit-hyphens: none) and (not (margin-trim: inline))) or ((-moz-orient: inline) and (not (color:rgb(from red r g b)))) {
+    *,
+    ::before,
+    ::after,
+    ::backdrop {
+      --tw-translate-x: 0;
+      --tw-translate-y: 0;
+      --tw-translate-z: 0;
+      --tw-scale-x: 1;
+      --tw-scale-y: 1;
+      --tw-scale-z: 1;
+      --tw-rotate-x: initial;
+      --tw-rotate-y: initial;
+      --tw-rotate-z: initial;
+      --tw-skew-x: initial;
+      --tw-skew-y: initial;
+      --tw-space-y-reverse: 0;
+      --tw-space-x-reverse: 0;
+      --tw-border-style: solid;
+      --tw-gradient-position: initial;
+      --tw-gradient-from: #0000;
+      --tw-gradient-via: #0000;
+      --tw-gradient-to: #0000;
+      --tw-gradient-stops: initial;
+      --tw-gradient-via-stops: initial;
+      --tw-gradient-from-position: 0%;
+      --tw-gradient-via-position: 50%;
+      --tw-gradient-to-position: 100%;
+      --tw-leading: initial;
+      --tw-font-weight: initial;
+      --tw-tracking: initial;
+      --tw-shadow: 0 0 #0000;
+      --tw-shadow-color: initial;
+      --tw-shadow-alpha: 100%;
+      --tw-inset-shadow: 0 0 #0000;
+      --tw-inset-shadow-color: initial;
+      --tw-inset-shadow-alpha: 100%;
+      --tw-ring-color: initial;
+      --tw-ring-shadow: 0 0 #0000;
+      --tw-inset-ring-color: initial;
+      --tw-inset-ring-shadow: 0 0 #0000;
+      --tw-ring-inset: initial;
+      --tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;
+      --tw-ring-offset-shadow: 0 0 #0000;
+      --tw-outline-style: solid;
+      --tw-blur: initial;
+      --tw-brightness: initial;
+      --tw-contrast: initial;
+      --tw-grayscale: initial;
+      --tw-hue-rotate: initial;
+      --tw-invert: initial;
+      --tw-opacity: initial;
+      --tw-saturate: initial;
+      --tw-sepia: initial;
+      --tw-drop-shadow: initial;
+      --tw-drop-shadow-color: initial;
+      --tw-drop-shadow-alpha: 100%;
+      --tw-drop-shadow-size: initial;
+      --tw-backdrop-blur: initial;
+      --tw-backdrop-brightness: initial;
+      --tw-backdrop-contrast: initial;
+      --tw-backdrop-grayscale: initial;
+      --tw-backdrop-hue-rotate: initial;
+      --tw-backdrop-invert: initial;
+      --tw-backdrop-opacity: initial;
+      --tw-backdrop-saturate: initial;
+      --tw-backdrop-sepia: initial;
+      --tw-duration: initial;
+      --tw-ease: initial;
+      --tw-content: "";
+    }
+  }
+}
+/*! tailwindcss v4.1.18 | MIT License | https://tailwindcss.com */
+/*# sourceMappingURL=resume-one-tr-component.css.map */
+`] }]
+  }], () => [{ type: void 0, decorators: [{
+    type: Inject,
+    args: [PLATFORM_ID]
+  }] }, { type: void 0, decorators: [{
+    type: Inject,
+    args: ["local-config"]
+  }] }], null);
+})();
+(() => {
+  (typeof ngDevMode === "undefined" || ngDevMode) && \u0275setClassDebugInfo(ResumeOneTrComponent, { className: "ResumeOneTrComponent", filePath: "src/app/component/resume-one-tr-component/resume-one-tr-component.ts", lineNumber: 11 });
+})();
+
 // src/app/app.routes.ts
 var routes = [
   { path: "", component: HomeComponent },
@@ -74665,7 +87767,9 @@ var routes = [
   { path: "blog", component: BlogComponent },
   // { path: 'blog/:slug', component: BlogPostComponent },
   { path: "resume", component: ResumeComponent },
+  { path: "resume-tr", component: ResumeTrComponent },
   { path: "resume-one", component: ResumeOneComponent },
+  { path: "resume-one-tr", component: ResumeOneTrComponent },
   { path: "test", component: TestComponent },
   { path: "**", component: NotFoundComponent }
 ];
